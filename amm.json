@@ -31,27 +31,32 @@
   },
   bi: {
     factory: '0x858E3312ed3A876947EA49d572A7C42DE08af7EE',
+    factoryBlock: 7664646,
     router: '0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8',
     fee10000: 10,
   },
   mdex: {
     factory: '0x3CD1C46068dAEa5Ebb0d3f55F6915B10648062B8',
+    factoryBlock: 6300120,
     router: '0x7DAe51BD3E3376B8c7c4900E9107f12Be3AF1bA8',
     fee10000: 30,
   },
   cafe: {
     factory: '0x3e708FdbE3ADA63fc94F8F61811196f1302137AD',
+    factoryBlock: 5865260,
     router: '0x933DAea3a5995Fb94b14A7696a5F3ffD7B1E385A',
     fee10000: 20,
   },
   jet: {
     factory: '0x0eb58E5c8aA63314ff5547289185cC4583DfCBD5',
+    factoryBlock: 7091833,
     router: '0xBe65b8f75B9F20f4C522e0067a3887FADa714800',
     fee10000: 30,
   },
   baby: {
     factory: '0x86407bEa2078ea5f5EB5A52B2caA963bC1F889Da',
+    factoryBlock: 7911393,
     router: '0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd',
     fee10000: 30,
-  }
+  },
 }
