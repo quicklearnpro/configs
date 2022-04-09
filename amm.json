@@ -38,7 +38,7 @@
   mdex: {
     factory: '0x3CD1C46068dAEa5Ebb0d3f55F6915B10648062B8',
     factoryBlock: 6300120,
-    router: '0x7DAe51BD3E3376B8c7c4900E9107f12Be3AF1bA8',
+    router: '0x0384E9ad329396C3A6A401243Ca71633B2bC4333',
     fee10000: 30,
   },
   cafe: {
