@@ -2,7 +2,7 @@
 	"BalanceAndAllowance": {
 		"abi": "[{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"tokens\",\"type\":\"address[]\"},{\"internalType\":\"address[]\",\"name\":\"owners\",\"type\":\"address[]\"},{\"internalType\":\"address[]\",\"name\":\"spenders\",\"type\":\"address[]\"}],\"name\":\"getBnA\",\"outputs\":[{\"internalType\":\"uint256[]\",\"name\":\"rets\",\"type\":\"uint256[]\"},{\"internalType\":\"uint256\",\"name\":\"blockNumber\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]",
 		"address": {
-			"bsc": "0xA0c0Da3e41c401A601c7c93C4036773B5Ac47be2"
+			"0x38": "0xA0c0Da3e41c401A601c7c93C4036773B5Ac47be2"
 		}
 	}
 }
