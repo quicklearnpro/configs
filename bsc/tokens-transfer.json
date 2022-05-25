@@ -3,6 +3,10 @@
         "tax": 0.1,
         "extraGas": 345000
     },
+    "0x411Ec510c85C9e56271bF4E10364Ffa909E685D9": {
+        "tax": 0.01,
+        "extraGas": 19000
+    },
     "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5": {
         "tax": 0.01,
         "extraGas": 1782000
