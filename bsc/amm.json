@@ -3,60 +3,70 @@
         "factory": "0xBCfCcbde45cE874adCB698cC183deBcF17952812",
         "factoryBlock": 586851,
         "router": "0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F",
+        "icon": "https://pancakeswap.finance/favicon.ico",
         "fee10000": 20
     },
     "bakery": {
         "factory": "0x01bF7C66c6BD861915CdaaE475042d3c4BaE16A7",
         "factoryBlock": 470617,
         "router": "0xCDe540d7eAFE93aC5fE6233Bee57E1270D3E330F",
+        "icon": "https://www.bakeryswap.org/favicon.png",
         "fee10000": 30
     },
     "pancake2": {
         "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
         "factoryBlock": 6809737,
         "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+        "icon": "https://pancakeswap.finance/favicon.ico",
         "fee10000": 25
     },
     "jul": {
         "factory": "0x553990F2CBA90272390f62C5BDb1681fFc899675",
         "factoryBlock": 784352,
         "router": "0xbd67d157502A23309Db761c41965600c2Ec788b2",
+        "icon": "https://julswap.com/favicon.png",
         "fee10000": 30
     },
     "ape": {
         "factory": "0x0841BD0B734E4F5853f0dD8d7Ea041c241fb0Da6",
         "factoryBlock": 4855901,
         "router": "0xcF0feBd3f17CEf5b47b0cD257aCf6025c5BFf3b7",
+        "icon": "https://apeswap.finance/favicon.ico",
         "fee10000": 20
     },
     "bi": {
         "factory": "0x858E3312ed3A876947EA49d572A7C42DE08af7EE",
         "factoryBlock": 7664646,
         "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+        "icon": "https://biswap.org/icon.png",
         "fee10000": 10
     },
     "mdex": {
         "factory": "0x3CD1C46068dAEa5Ebb0d3f55F6915B10648062B8",
         "factoryBlock": 6300120,
         "router": "0x0384E9ad329396C3A6A401243Ca71633B2bC4333",
+        "icon": "https://cdn.jsdelivr.net/gh/mdexSwap/hswap@main/favicon.png",
         "fee10000": 30
     },
     "cafe": {
         "factory": "0x3e708FdbE3ADA63fc94F8F61811196f1302137AD",
         "factoryBlock": 5865260,
         "router": "0x933DAea3a5995Fb94b14A7696a5F3ffD7B1E385A",
+        "icon": "https://cafeswap.finance/favicon.ico",
         "fee10000": 20
     },
     "jet": {
         "factory": "0x0eb58E5c8aA63314ff5547289185cC4583DfCBD5",
         "factoryBlock": 7091833,
         "router": "0xBe65b8f75B9F20f4C522e0067a3887FADa714800",
+        "icon": "https://jetswap.finance/favicon_io/favicon.ico",
         "fee10000": 30
     },
     "baby": {
         "factory": "0x86407bEa2078ea5f5EB5A52B2caA963bC1F889Da",
         "factoryBlock": 7911393,
         "router": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd",
+        "icon": "https://home.babyswap.finance/favicon.ico",
         "fee10000": 30
     }
 }
