@@ -68,5 +68,9 @@
         "router": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd",
         "icon": "https://home.babyswap.finance/favicon.ico",
         "fee10000": 30
+    },
+    "synapse": {
+        "router": "0x28ec0B36F0819ecB5005cAB836F4ED5a2eCa4D13",
+        "icon": "https://synapseprotocol.com/favicon.ico"
     }
 }
