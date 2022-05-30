@@ -1,4 +1,8 @@
 {
+    "0xDBdC73B95cC0D5e7E99dC95523045Fc8d075Fb9e": {
+        "tax": 1,
+        "extraGas": 26000
+    },
     "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3": {
         "tax": 1,
         "extraGas": 760000
