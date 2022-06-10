@@ -79,6 +79,14 @@
         "gasUsed": 80000,
         "fee10000": 30
     },
+    "openocean": {
+        "factory": "0xd76d8C2A7CA0a1609Aea0b9b5017B3F7782891bf",
+        "factoryBlock": 8970640,
+        "router": "0xBeB43fbb2f7AEA8AC904975816BB1b4cA9f4D9c5",
+        "icon": "https://openocean.finance/favicon.ico",
+        "gasUsed": 80000,
+        "fee10000": 20
+    },
     "synapse": {
         "router": "0x28ec0B36F0819ecB5005cAB836F4ED5a2eCa4D13",
         "icon": "https://synapseprotocol.com/favicon.ico",
