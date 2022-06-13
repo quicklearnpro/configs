@@ -1,0 +1,4828 @@
+{
+  "assets": {
+    "btc": {
+      "name": "BTC",
+      "desc": "",
+      "order": 0,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+      "tokens": {
+        "bitcoin-BTC-segwit": {
+          "order": 0
+        },
+        "bitcoin-BTC-legacy": {
+          "order": 1
+        },
+        "binance-smart-chain-BTCB": {
+          "order": 2
+        },
+        "solana-BTC": {
+          "order": 3
+        }
+      }
+    },
+    "eth": {
+      "name": "ETH",
+      "desc": "",
+      "order": 1,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "tokens": {
+        "ethereum-ETH": {
+          "order": 0
+        },
+        "binance-smart-chain-ETH": {
+          "order": 1
+        },
+        "solana-ETH": {
+          "order": 2
+        }
+      }
+    },
+    "sol": {
+      "name": "SOL",
+      "desc": "",
+      "order": 2,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+      "tokens": {
+        "solana-SOL": {
+          "order": 0
+        }
+      }
+    },
+    "srm": {
+      "name": "SRM",
+      "desc": "",
+      "order": 3,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png",
+      "tokens": {
+        "solana-SRM": {
+          "order": 0
+        }
+      }
+    },
+    "bnb": {
+      "name": "BNB",
+      "desc": "",
+      "order": 4,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+      "tokens": {
+        "binance-smart-chain-BNB": {
+          "order": 0
+        },
+        "binance-smart-chain-WBNB": {
+          "order": 1
+        }
+      }
+    },
+    "ltc": {
+      "name": "LTC",
+      "desc": "",
+      "order": 5,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+      "tokens": {
+        "litecoin-LTC-segwit": {
+          "order": 0
+        },
+        "litecoin-LTC-legacy": {
+          "order": 1
+        },
+        "binance-smart-chain-LTC": {
+          "order": 2
+        }
+      }
+    },
+    "bitcoincash": {
+      "name": "Bitcoin Cash",
+      "desc": "",
+      "order": 6,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+      "tokens": {
+        "bitcoin-cash-BCH": {
+          "order": 0
+        },
+        "binance-smart-chain-BCH": {
+          "order": 1
+        }
+      }
+    },
+    "xrp": {
+      "name": "XRP",
+      "desc": "",
+      "order": 7,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+      "tokens": {
+        "ripple-XRP": {
+          "order": 0
+        },
+        "binance-smart-chain-XRP": {
+          "order": 1
+        }
+      }
+    },
+    "etc": {
+      "name": "ETC",
+      "desc": "",
+      "order": 8,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+      "tokens": {
+        "ethereum-classic-ETC": {
+          "order": 0
+        }
+      }
+    },
+    "rvx": {
+      "name": "RVX",
+      "desc": "",
+      "order": 9,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4697.png",
+      "tokens": {
+        "ethereum-RVX": {
+          "order": 0
+        }
+      }
+    },
+    "dai": {
+      "name": "DAI",
+      "desc": "",
+      "order": 10,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+      "tokens": {
+        "ethereum-DAI": {
+          "order": 0
+        },
+        "binance-smart-chain-DAI": {
+          "order": 1
+        }
+      }
+    },
+    "mkr": {
+      "name": "MKR",
+      "desc": "",
+      "order": 11,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+      "tokens": {
+        "ethereum-MKR": {
+          "order": 0
+        }
+      }
+    },
+    "link": {
+      "name": "LINK",
+      "desc": "",
+      "order": 12,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+      "tokens": {
+        "ethereum-LINK": {
+          "order": 0
+        },
+        "binance-smart-chain-LINK": {
+          "order": 2
+        }
+      }
+    },
+    "toko": {
+      "name": "TOKO",
+      "desc": "",
+      "order": 13,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4299.png",
+      "tokens": {
+        "ethereum-TOKO": {
+          "order": 0
+        }
+      }
+    },
+    "kncl": {
+      "name": "KNCL",
+      "desc": "",
+      "order": 14,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1982.png",
+      "tokens": {
+        "ethereum-KNCL": {
+          "order": 0
+        }
+      }
+    },
+    "utu": {
+      "name": "UTU",
+      "desc": "",
+      "order": 15,
+      "logo": "https://assets.coingecko.com/coins/images/12831/small/Aa5nmbkJ_400x400.png",
+      "tokens": {
+        "ethereum-UTU": {
+          "order": 0
+        }
+      }
+    },
+    "vro": {
+      "name": "VRO",
+      "desc": "",
+      "order": 16,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5539.png",
+      "tokens": {
+        "ethereum-VRO": {
+          "order": 0
+        }
+      }
+    },
+    "ubxt": {
+      "name": "UBXT",
+      "desc": "",
+      "order": 17,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7040.png",
+      "tokens": {
+        "ethereum-UBXT": {
+          "order": 0
+        }
+      }
+    },
+    "bat": {
+      "name": "BAT",
+      "desc": "",
+      "order": 18,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+      "tokens": {
+        "ethereum-BAT": {
+          "order": 0
+        }
+      }
+    },
+    "vet": {
+      "name": "VET",
+      "desc": "",
+      "order": 19,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+      "tokens": {
+        "ethereum-VET": {
+          "order": 0
+        }
+      }
+    },
+    "cro": {
+      "name": "CRO",
+      "desc": "",
+      "order": 20,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+      "tokens": {
+        "ethereum-CRO": {
+          "order": 0
+        }
+      }
+    },
+    "usdc": {
+      "name": "USDC",
+      "desc": "",
+      "order": 21,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "tokens": {
+        "ethereum-USDC": {
+          "order": 0
+        },
+        "binance-smart-chain-USDC": {
+          "order": 1
+        },
+        "polygon-USDC": {
+          "order": 2
+        }
+      }
+    },
+    "omg": {
+      "name": "OMG",
+      "desc": "",
+      "order": 22,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png",
+      "tokens": {
+        "ethereum-OMG": {
+          "order": 0
+        }
+      }
+    },
+    "hot": {
+      "name": "HOT",
+      "desc": "",
+      "order": 23,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png",
+      "tokens": {
+        "ethereum-HOT": {
+          "order": 0
+        }
+      }
+    },
+    "tusd": {
+      "name": "TUSD",
+      "desc": "",
+      "order": 24,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
+      "tokens": {
+        "ethereum-TUSD": {
+          "order": 0
+        }
+      }
+    },
+    "rep": {
+      "name": "REP",
+      "desc": "",
+      "order": 25,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png",
+      "tokens": {
+        "ethereum-REP": {
+          "order": 0
+        }
+      }
+    },
+    "btctest": {
+      "name": "BTC Test",
+      "desc": "",
+      "order": 26,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/btc-test.png",
+      "tokens": {
+        "bitcoin-test-BTC-TEST-segwit": {
+          "order": 0
+        },
+        "bitcoin-test-BTC-TEST-legacy": {
+          "order": 1
+        }
+      }
+    },
+    "trx": {
+      "name": "TRX",
+      "desc": "",
+      "order": 27,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+      "tokens": {
+        "tron-TRX": {
+          "order": 0
+        }
+      }
+    },
+    "usdt": {
+      "name": "USDT",
+      "desc": "",
+      "order": 28,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "tokens": {
+        "tron-USDT": {
+          "order": 0
+        },
+        "ethereum-USDT": {
+          "order": 1
+        },
+        "binance-smart-chain-USDT": {
+          "order": 2
+        },
+        "solana-USDT": {
+          "order": 3
+        },
+        "polygon-USDT": {
+          "order": 4
+        },
+        "avalanche-USDT": {
+          "order": 5
+        }
+      }
+    },
+    "lien": {
+      "name": "LIEN",
+      "desc": "",
+      "order": 29,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6705.png",
+      "tokens": {
+        "ethereum-LIEN": {
+          "order": 0
+        }
+      }
+    },
+    "dao": {
+      "name": "DAO",
+      "desc": "",
+      "order": 30,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8420.png",
+      "tokens": {
+        "ethereum-DAO": {
+          "order": 1
+        }
+      }
+    },
+    "grt": {
+      "name": "GRT",
+      "desc": "",
+      "order": 31,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+      "tokens": {
+        "ethereum-GRT": {
+          "order": 0
+        }
+      }
+    },
+    "dego": {
+      "name": "DEGO",
+      "desc": "",
+      "order": 32,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
+      "tokens": {
+        "ethereum-DEGO": {
+          "order": 0
+        },
+        "binance-smart-chain-DEGO": {
+          "order": 1
+        }
+      }
+    },
+    "cbrl": {
+      "name": "CBRL",
+      "desc": "",
+      "order": 33,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6880.png",
+      "tokens": {
+        "ethereum-cBRL": {
+          "order": 0
+        },
+        "binance-smart-chain-cBRL": {
+          "order": 1
+        }
+      }
+    },
+    "vndc": {
+      "name": "VNDC",
+      "desc": "",
+      "order": 34,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4805.png",
+      "tokens": {
+        "ethereum-VNDC": {
+          "order": 0
+        }
+      }
+    },
+    "drep": {
+      "name": "DREP",
+      "desc": "",
+      "order": 35,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3924.png",
+      "tokens": {
+        "ethereum-DREP": {
+          "order": 0
+        }
+      }
+    },
+    "spa": {
+      "name": "SPA",
+      "desc": "",
+      "order": 36,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6715.png",
+      "tokens": {
+        "ethereum-SPA": {
+          "order": 0
+        }
+      }
+    },
+    "fleta": {
+      "name": "FLETA",
+      "desc": "",
+      "order": 37,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4103.png",
+      "tokens": {
+        "ethereum-FLETA": {
+          "order": 0
+        }
+      }
+    },
+    "usds": {
+      "name": "USDS",
+      "desc": "",
+      "order": 38,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3719.png",
+      "tokens": {
+        "ethereum-USDS": {
+          "order": 0
+        }
+      }
+    },
+    "yfi": {
+      "name": "YFI",
+      "desc": "",
+      "order": 39,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png",
+      "tokens": {
+        "ethereum-YFI": {
+          "order": 0
+        },
+        "solana-YFI": {
+          "order": 1
+        },
+        "binance-smart-chain-YFI": {
+          "order": 2
+        }
+      }
+    },
+    "om": {
+      "name": "OM",
+      "desc": "",
+      "order": 40,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png",
+      "tokens": {
+        "ethereum-OM": {
+          "order": 0
+        }
+      }
+    },
+    "kai": {
+      "name": "KAI",
+      "desc": "",
+      "order": 41,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png",
+      "tokens": {
+        "ethereum-KAI": {
+          "order": 0
+        }
+      }
+    },
+    "mcb": {
+      "name": "MCB",
+      "desc": "",
+      "order": 42,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5956.png",
+      "tokens": {
+        "ethereum-MCB": {
+          "order": 0
+        }
+      }
+    },
+    "att": {
+      "name": "ATT",
+      "desc": "",
+      "order": 43,
+      "logo": "https://assets.coingecko.com/coins/images/8009/small/Africa_Trading_Chain.jpg?1553143625",
+      "tokens": {
+        "tron-ATT": {
+          "order": 0
+        }
+      }
+    },
+    "tronwallet": {
+      "name": "TRONWALLET",
+      "desc": "",
+      "order": 44,
+      "logo": "https://foundico.com/upload/iblock/4c8/4c88176023d49fbce0ed0d5ba1760b35.jpg",
+      "tokens": {
+        "tron-TWX": {
+          "order": 0
+        }
+      }
+    },
+    "tronbet": {
+      "name": "TRONbet",
+      "desc": "",
+      "order": 45,
+      "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/tronbet.svg",
+      "tokens": {
+        "tron-ANTE": {
+          "order": 0
+        }
+      }
+    },
+    "pancakeswap": {
+      "name": "PancakeSwap",
+      "desc": "",
+      "order": 46,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
+      "tokens": {
+        "binance-smart-chain-CAKE": {
+          "order": 0
+        }
+      }
+    },
+    "twt": {
+      "name": "TWT",
+      "desc": "",
+      "order": 47,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png",
+      "tokens": {
+        "binance-smart-chain-TWT": {
+          "order": 0
+        }
+      }
+    },
+    "bakery": {
+      "name": "Bakery",
+      "desc": "",
+      "order": 48,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png",
+      "tokens": {
+        "binance-smart-chain-BAKE": {
+          "order": 0
+        }
+      }
+    },
+    "burgerswap": {
+      "name": "Burger Swap",
+      "desc": "",
+      "order": 49,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png",
+      "tokens": {
+        "binance-smart-chain-BURGER": {
+          "order": 0
+        }
+      }
+    },
+    "busd": {
+      "name": "BUSD",
+      "desc": "",
+      "order": 50,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+      "tokens": {
+        "binance-smart-chain-BUSD": {
+          "order": 0
+        }
+      }
+    },
+    "asrm": {
+      "name": "aSRM",
+      "desc": "",
+      "order": 51,
+      "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/asrm.svg",
+      "tokens": {
+        "ezdefi-aSRM": {
+          "order": 0
+        }
+      }
+    },
+    "doxi": {
+      "name": "DOXI",
+      "desc": "",
+      "order": 52,
+      "logo": "https://raw.githubusercontent.com/DOxi-D/DOxi/main/Logo%20DOxi.png",
+      "tokens": {
+        "ezdefi-DOXI": {
+          "order": 0
+        }
+      }
+    },
+    "1inch": {
+      "name": "1INCH",
+      "desc": "",
+      "order": 53,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png",
+      "tokens": {
+        "ethereum-1INCH": {
+          "order": 0
+        },
+        "binance-smart-chain-1INCH": {
+          "order": 1
+        }
+      }
+    },
+    "ethtest": {
+      "name": "ETH Test",
+      "desc": "",
+      "order": 54,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/eth.png",
+      "tokens": {
+        "rinkeby-ETH": {
+          "order": 0
+        },
+        "ropsten-ETH": {
+          "order": 1
+        },
+        "kovan-ETH": {
+          "order": 2
+        },
+        "goerli-ETH": {
+          "order": 3
+        }
+      }
+    },
+    "trxtest": {
+      "name": "TRX Test",
+      "desc": "",
+      "order": 55,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/tron.png",
+      "tokens": {
+        "shasta-TRX": {
+          "order": 0
+        }
+      }
+    },
+    "soltest": {
+      "name": "SOL Test",
+      "desc": "",
+      "order": 56,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/solana-logo.png",
+      "tokens": {
+        "solana-test-SOL-TEST": {
+          "order": 0
+        }
+      }
+    },
+    "bnbtest": {
+      "name": "BNB Test",
+      "desc": "",
+      "order": 57,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/binance-testnet.png",
+      "tokens": {
+        "binance-smart-chain-test-BNB": {
+          "order": 0
+        }
+      }
+    },
+    "tomo": {
+      "name": "TOMO",
+      "desc": "",
+      "order": 58,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png",
+      "tokens": {
+        "tomo-TOMO": {
+          "order": 0
+        }
+      }
+    },
+    "spdr": {
+      "name": "SPDR",
+      "desc": "",
+      "order": 59,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/logo/spiderdao.png",
+      "tokens": {
+        "ethereum-SPDR": {
+          "order": 0
+        }
+      }
+    },
+    "billionhappiness": {
+      "name": "Billion Happiness",
+      "desc": "",
+      "order": 60,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7182.png",
+      "tokens": {
+        "binance-smart-chain-BHC": {
+          "order": 0
+        }
+      }
+    },
+    "uniswap": {
+      "name": "Uniswap",
+      "desc": "",
+      "order": 61,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+      "tokens": {
+        "binance-smart-chain-UNI": {
+          "order": 0
+        }
+      }
+    },
+    "polkadot": {
+      "name": "Polkadot",
+      "desc": "",
+      "order": 62,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+      "tokens": {
+        "binance-smart-chain-DOT": {
+          "order": 0
+        }
+      }
+    },
+    "eos": {
+      "name": "EOS",
+      "desc": "",
+      "order": 63,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+      "tokens": {
+        "binance-smart-chain-EOS": {
+          "order": 0
+        }
+      }
+    },
+    "bandprotocol": {
+      "name": "Band Protocol",
+      "desc": "",
+      "order": 64,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png",
+      "tokens": {
+        "binance-smart-chain-BAND": {
+          "order": 0
+        }
+      }
+    },
+    "vaistablecoin": {
+      "name": "VAI Stablecoin",
+      "desc": "",
+      "order": 65,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7824.png",
+      "tokens": {
+        "binance-smart-chain-VAI": {
+          "order": 0
+        }
+      }
+    },
+    "allianceblocktoken": {
+      "name": "AllianceBlock Token",
+      "desc": "",
+      "order": 66,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6957.png",
+      "tokens": {
+        "binance-smart-chain-bALBT": {
+          "order": 0
+        }
+      }
+    },
+    "venus": {
+      "name": "Venus",
+      "desc": "",
+      "order": 67,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png",
+      "tokens": {
+        "binance-smart-chain-XVS": {
+          "order": 0
+        }
+      }
+    },
+    "swipe": {
+      "name": "Swipe",
+      "desc": "",
+      "order": 68,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png",
+      "tokens": {
+        "binance-smart-chain-SXP": {
+          "order": 0
+        }
+      }
+    },
+    "ada": {
+      "name": "ADA",
+      "desc": "",
+      "order": 69,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+      "tokens": {
+        "binance-smart-chain-ADA": {
+          "order": 0
+        }
+      }
+    },
+    "bdollar": {
+      "name": "bDollar",
+      "desc": "",
+      "order": 70,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8219.png",
+      "tokens": {
+        "binance-smart-chain-BDO": {
+          "order": 0
+        }
+      }
+    },
+    "atom": {
+      "name": "ATOM",
+      "desc": "",
+      "order": 71,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+      "tokens": {
+        "binance-smart-chain-ATOM": {
+          "order": 1
+        }
+      }
+    },
+    "woonklypower": {
+      "name": "Woonkly Power",
+      "desc": "",
+      "order": 72,
+      "logo": "https://bscscan.com/images/main/empty-token.png",
+      "tokens": {
+        "binance-smart-chain-WOOP": {
+          "order": 0
+        }
+      }
+    },
+    "zumtoken": {
+      "name": "Zum Token",
+      "desc": "",
+      "order": 73,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4826.png",
+      "tokens": {
+        "binance-smart-chain-ZUM": {
+          "order": 0
+        }
+      }
+    },
+    "filecoin": {
+      "name": "Filecoin",
+      "desc": "",
+      "order": 74,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+      "tokens": {
+        "binance-smart-chain-FIL": {
+          "order": 0
+        }
+      }
+    },
+    "alpha": {
+      "name": "ALPHA",
+      "desc": "",
+      "order": 75,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png",
+      "tokens": {
+        "binance-smart-chain-ALPHA": {
+          "order": 1
+        }
+      }
+    },
+    "injectiveprotocol": {
+      "name": "Injective Protocol",
+      "desc": "",
+      "order": 76,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png",
+      "tokens": {
+        "binance-smart-chain-INJ": {
+          "order": 0
+        }
+      }
+    },
+    "tenet": {
+      "name": "Tenet",
+      "desc": "",
+      "order": 77,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8193.png",
+      "tokens": {
+        "binance-smart-chain-TEN": {
+          "order": 0
+        }
+      }
+    },
+    "certiktoken": {
+      "name": "CertiK Token",
+      "desc": "",
+      "order": 78,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png",
+      "tokens": {
+        "binance-smart-chain-CTK": {
+          "order": 0
+        }
+      }
+    },
+    "ditto": {
+      "name": "Ditto",
+      "desc": "",
+      "order": 79,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8086.png",
+      "tokens": {
+        "binance-smart-chain-DITTO": {
+          "order": 0
+        }
+      }
+    },
+    "fueltoken": {
+      "name": "Fuel Token",
+      "desc": "",
+      "order": 80,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png",
+      "tokens": {
+        "binance-smart-chain-Fuel": {
+          "order": 0
+        }
+      }
+    },
+    "bdollarshare": {
+      "name": "bDollar Share",
+      "desc": "",
+      "order": 81,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8172.png",
+      "tokens": {
+        "binance-smart-chain-sBDO": {
+          "order": 0
+        }
+      }
+    },
+    "reef.finance": {
+      "name": "Reef.finance",
+      "desc": "",
+      "order": 82,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png",
+      "tokens": {
+        "binance-smart-chain-REEF": {
+          "order": 0
+        }
+      }
+    },
+    "xtz": {
+      "name": "XTZ",
+      "desc": "",
+      "order": 83,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+      "tokens": {
+        "binance-smart-chain-XTZ": {
+          "order": 0
+        }
+      }
+    },
+    "yfii": {
+      "name": "YFII",
+      "desc": "",
+      "order": 84,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5957.png",
+      "tokens": {
+        "binance-smart-chain-YFII": {
+          "order": 0
+        }
+      }
+    },
+    "blinktoken": {
+      "name": "BLinkToken",
+      "desc": "",
+      "order": 85,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7784.png",
+      "tokens": {
+        "binance-smart-chain-blink": {
+          "order": 0
+        }
+      }
+    },
+    "bifi": {
+      "name": "BIFI",
+      "desc": "",
+      "order": 86,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7311.png",
+      "tokens": {
+        "binance-smart-chain-BIFI": {
+          "order": 0
+        }
+      }
+    },
+    "fries": {
+      "name": "FRIES",
+      "desc": "",
+      "order": 87,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7351.png",
+      "tokens": {
+        "binance-smart-chain-FRIES": {
+          "order": 0
+        }
+      }
+    },
+    "auto": {
+      "name": "AUTO",
+      "desc": "",
+      "order": 88,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png",
+      "tokens": {
+        "binance-smart-chain-AUTO": {
+          "order": 0
+        }
+      }
+    },
+    "wsote": {
+      "name": "WSOTE",
+      "desc": "",
+      "order": 89,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8381.png",
+      "tokens": {
+        "binance-smart-chain-wSOTE": {
+          "order": 0
+        }
+      }
+    },
+    "helmet": {
+      "name": "HELMET",
+      "desc": "",
+      "order": 90,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8265.png",
+      "tokens": {
+        "binance-smart-chain-HELMET": {
+          "order": 0
+        }
+      }
+    },
+    "zdcash": {
+      "name": "ZDCASH",
+      "desc": "",
+      "order": 91,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/zdcash-128x128.png",
+      "tokens": {
+        "binance-smart-chain-ZDCASH": {
+          "order": 0
+        }
+      }
+    },
+    "tools": {
+      "name": "TOOLS",
+      "desc": "",
+      "order": 92,
+      "logo": "https://raw.githubusercontent.com/bsctools/bsctools-documentation/main/bsc-tools-logo.png",
+      "tokens": {
+        "binance-smart-chain-TOOLS": {
+          "order": 0
+        }
+      }
+    },
+    "cgg": {
+      "name": "CGG",
+      "desc": "",
+      "order": 93,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8648.png",
+      "tokens": {
+        "ethereum-CGG": {
+          "order": 0
+        }
+      }
+    },
+    "swg": {
+      "name": "SWG",
+      "desc": "",
+      "order": 94,
+      "logo": "https://assets.coingecko.com/coins/images/12879/small/swirge_logo.png",
+      "tokens": {
+        "ethereum-SWG": {
+          "order": 0
+        },
+        "binance-smart-chain-SWGb": {
+          "order": 1
+        }
+      }
+    },
+    "berry": {
+      "name": "BERRY",
+      "desc": "",
+      "order": 95,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8483.png",
+      "tokens": {
+        "binance-smart-chain-BRY": {
+          "order": 0
+        }
+      }
+    },
+    "rowan": {
+      "name": "ROWAN",
+      "desc": "",
+      "order": 96,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8541.png",
+      "tokens": {
+        "ethereum-Rowan": {
+          "order": 0
+        }
+      }
+    },
+    "tpt": {
+      "name": "TPT",
+      "desc": "",
+      "order": 97,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5947.png",
+      "tokens": {
+        "ethereum-TPT": {
+          "order": 0
+        },
+        "binance-smart-chain-TPT": {
+          "order": 1
+        }
+      }
+    },
+    "bdex": {
+      "name": "BDEX",
+      "desc": "",
+      "order": 98,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8796.png",
+      "tokens": {
+        "binance-smart-chain-BFI": {
+          "order": 0
+        }
+      }
+    },
+    "shopx": {
+      "name": "SHOPX",
+      "desc": "",
+      "order": 99,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8863.png",
+      "tokens": {
+        "ethereum-SHOPX": {
+          "order": 0
+        }
+      }
+    },
+    "bunny": {
+      "name": "BUNNY",
+      "desc": "",
+      "order": 100,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7791.png",
+      "tokens": {
+        "binance-smart-chain-BUNNY": {
+          "order": 0
+        }
+      }
+    },
+    "ust": {
+      "name": "UST",
+      "desc": "",
+      "order": 101,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png",
+      "tokens": {
+        "binance-smart-chain-UST": {
+          "order": 0
+        }
+      }
+    },
+    "sushi": {
+      "name": "SUSHI",
+      "desc": "",
+      "order": 102,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
+      "tokens": {
+        "binance-smart-chain-SUSHI": {
+          "order": 0
+        }
+      }
+    },
+    "comp": {
+      "name": "COMP",
+      "desc": "",
+      "order": 103,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+      "tokens": {
+        "binance-smart-chain-COMP": {
+          "order": 0
+        }
+      }
+    },
+    "xpo": {
+      "name": "XPO",
+      "desc": "",
+      "order": 104,
+      "logo": "https://avatars.githubusercontent.com/u/80105262",
+      "tokens": {
+        "binance-smart-chain-XPO": {
+          "order": 0
+        }
+      }
+    },
+    "fnx": {
+      "name": "FNX",
+      "desc": "",
+      "order": 105,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5712.png",
+      "tokens": {
+        "ethereum-FNX": {
+          "order": 0
+        }
+      }
+    },
+    "badger": {
+      "name": "BADGER",
+      "desc": "",
+      "order": 106,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png",
+      "tokens": {
+        "binance-smart-chain-bBADGER": {
+          "order": 0
+        }
+      }
+    },
+    "sfp": {
+      "name": "SFP",
+      "desc": "",
+      "order": 107,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png",
+      "tokens": {
+        "binance-smart-chain-SFP": {
+          "order": 0
+        }
+      }
+    },
+    "zil": {
+      "name": "ZIL",
+      "desc": "",
+      "order": 108,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+      "tokens": {
+        "binance-smart-chain-ZIL": {
+          "order": 0
+        }
+      }
+    },
+    "lit": {
+      "name": "LIT",
+      "desc": "",
+      "order": 109,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6833.png",
+      "tokens": {
+        "binance-smart-chain-LIT": {
+          "order": 0
+        }
+      }
+    },
+    "dodo": {
+      "name": "DODO",
+      "desc": "",
+      "order": 110,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png",
+      "tokens": {
+        "binance-smart-chain-DODO": {
+          "order": 0
+        }
+      }
+    },
+    "digg": {
+      "name": "DIGG",
+      "desc": "",
+      "order": 111,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8307.png",
+      "tokens": {
+        "binance-smart-chain-bDIGG": {
+          "order": 0
+        }
+      }
+    },
+    "alice": {
+      "name": "ALICE",
+      "desc": "",
+      "order": 112,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png",
+      "tokens": {
+        "binance-smart-chain-ALICE": {
+          "order": 0
+        }
+      }
+    },
+    "nrv": {
+      "name": "NRV",
+      "desc": "",
+      "order": 113,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8755.png",
+      "tokens": {
+        "binance-smart-chain-NRV": {
+          "order": 0
+        }
+      }
+    },
+    "bel": {
+      "name": "BEL",
+      "desc": "",
+      "order": 114,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png",
+      "tokens": {
+        "binance-smart-chain-BEL": {
+          "order": 0
+        }
+      }
+    },
+    "swth": {
+      "name": "SWTH",
+      "desc": "",
+      "order": 115,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2620.png",
+      "tokens": {
+        "binance-smart-chain-SWTH": {
+          "order": 1
+        }
+      }
+    },
+    "front": {
+      "name": "FRONT",
+      "desc": "",
+      "order": 116,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png",
+      "tokens": {
+        "binance-smart-chain-FRONT": {
+          "order": 0
+        }
+      }
+    },
+    "btcst": {
+      "name": "BTCST",
+      "desc": "",
+      "order": 117,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8891.png",
+      "tokens": {
+        "binance-smart-chain-BTCST": {
+          "order": 0
+        }
+      }
+    },
+    "egld": {
+      "name": "EGLD",
+      "desc": "",
+      "order": 118,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+      "tokens": {
+        "binance-smart-chain-EGLD": {
+          "order": 0
+        }
+      }
+    },
+    "iotx": {
+      "name": "IOTX",
+      "desc": "",
+      "order": 119,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+      "tokens": {
+        "binance-smart-chain-IOTX": {
+          "order": 1
+        }
+      }
+    },
+    "lina": {
+      "name": "LINA",
+      "desc": "",
+      "order": 120,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7102.png",
+      "tokens": {
+        "binance-smart-chain-LINA": {
+          "order": 0
+        }
+      }
+    },
+    "watch": {
+      "name": "WATCH",
+      "desc": "",
+      "order": 121,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8621.png",
+      "tokens": {
+        "binance-smart-chain-WATCH": {
+          "order": 0
+        }
+      }
+    },
+    "itam": {
+      "name": "ITAM",
+      "desc": "",
+      "order": 122,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6490.png",
+      "tokens": {
+        "binance-smart-chain-ITAM": {
+          "order": 0
+        }
+      }
+    },
+    "byn": {
+      "name": "BYN",
+      "desc": "",
+      "order": 123,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9134.png",
+      "tokens": {
+        "ethereum-BYN": {
+          "order": 0
+        }
+      }
+    },
+    "zd": {
+      "name": "ZD NEW",
+      "desc": "",
+      "order": 124,
+      "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/zd.svg",
+      "tokens": {
+        "binance-smart-chain-ZD": {
+          "order": 0
+        }
+      }
+    },
+    "twin": {
+      "name": "TWIN",
+      "desc": "",
+      "order": 125,
+      "logo": "https://raw.githubusercontent.com/twinciio/twinci-icon/master/images/twinci-logo-128.png",
+      "tokens": {
+        "binance-smart-chain-TWIN": {
+          "order": 0
+        }
+      }
+    },
+    "tko": {
+      "name": "TKO",
+      "desc": "",
+      "order": 126,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png",
+      "tokens": {
+        "binance-smart-chain-TKO": {
+          "order": 0
+        }
+      }
+    },
+    "arpa": {
+      "name": "ARPA",
+      "desc": "",
+      "order": 127,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png",
+      "tokens": {
+        "binance-smart-chain-ARPA": {
+          "order": 0
+        }
+      }
+    },
+    "unfi": {
+      "name": "UNFI",
+      "desc": "",
+      "order": 128,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7672.png",
+      "tokens": {
+        "binance-smart-chain-UNFI": {
+          "order": 0
+        }
+      }
+    },
+    "dino": {
+      "name": "DINO",
+      "desc": "",
+      "order": 129,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9621.png",
+      "tokens": {
+        "binance-smart-chain-DINO": {
+          "order": 0
+        }
+      }
+    },
+    "dpet": {
+      "name": "DPET",
+      "desc": "",
+      "order": 130,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9665.png",
+      "tokens": {
+        "binance-smart-chain-DPET": {
+          "order": 0
+        }
+      }
+    },
+    "rosn": {
+      "name": "ROSN",
+      "desc": "",
+      "order": 131,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png",
+      "tokens": {
+        "binance-smart-chain-ROSN": {
+          "order": 0
+        }
+      }
+    },
+    "belt": {
+      "name": "BELT",
+      "desc": "",
+      "order": 132,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8730.png",
+      "tokens": {
+        "binance-smart-chain-BELT ": {
+          "order": 0
+        }
+      }
+    },
+    "bondly": {
+      "name": "BONDLY",
+      "desc": "",
+      "order": 133,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7931.png",
+      "tokens": {
+        "binance-smart-chain-Bondly": {
+          "order": 0
+        },
+        "ethereum-Bondly": {
+          "order": 1
+        }
+      }
+    },
+    "foc": {
+      "name": "FOC",
+      "desc": "",
+      "order": 134,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9259.png",
+      "tokens": {
+        "binance-smart-chain-FOC": {
+          "order": 0
+        }
+      }
+    },
+    "barmy": {
+      "name": "BARMY",
+      "desc": "",
+      "order": 135,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10340.png",
+      "tokens": {
+        "binance-smart-chain-BARMY": {
+          "order": 0
+        }
+      }
+    },
+    "bami": {
+      "name": "BAMI",
+      "desc": "",
+      "order": 136,
+      "logo": "https://raw.githubusercontent.com/bamidefi/smart-contracts/master/Logo_Bami_kh%C3%B4ng%20ch%E1%BB%AF.png",
+      "tokens": {
+        "binance-smart-chain-BAMI": {
+          "order": 0
+        }
+      }
+    },
+    "nuls": {
+      "name": "NULS",
+      "desc": "",
+      "order": 137,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png",
+      "tokens": {
+        "binance-smart-chain-NULS": {
+          "order": 0
+        }
+      }
+    },
+    "dhv": {
+      "name": "DHV",
+      "desc": "",
+      "order": 138,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8867.png",
+      "tokens": {
+        "ethereum-DHV": {
+          "order": 0
+        }
+      }
+    },
+    "sho": {
+      "name": "SHO",
+      "desc": "",
+      "order": 139,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6540.png",
+      "tokens": {
+        "ethereum-SHO": {
+          "order": 0
+        }
+      }
+    },
+    "rage": {
+      "name": "RAGE",
+      "desc": "",
+      "order": 140,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8862.png",
+      "tokens": {
+        "ethereum-RAGE": {
+          "order": 0
+        }
+      }
+    },
+    "kally": {
+      "name": "KALLY",
+      "desc": "",
+      "order": 141,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9631.png",
+      "tokens": {
+        "ethereum-KALLY": {
+          "order": 0
+        }
+      }
+    },
+    "cpie": {
+      "name": "CPIE",
+      "desc": "",
+      "order": 142,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10843.png",
+      "tokens": {
+        "polygon-CPIE": {
+          "order": 0
+        }
+      }
+    },
+    "lz": {
+      "name": "LZ",
+      "desc": "",
+      "order": 143,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/lz-logo.png",
+      "tokens": {
+        "binance-smart-chain-LZ": {
+          "order": 0
+        }
+      }
+    },
+    "lzp": {
+      "name": "LZP",
+      "desc": "",
+      "order": 144,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/128x128%20lzp.png",
+      "tokens": {
+        "binance-smart-chain-LZP": {
+          "order": 0
+        }
+      }
+    },
+    "burp": {
+      "name": "BURP",
+      "desc": "",
+      "order": 145,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10713.png",
+      "tokens": {
+        "ethereum-BURP": {
+          "order": 0
+        }
+      }
+    },
+    "dxct": {
+      "name": "DXCT",
+      "desc": "",
+      "order": 146,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11211.png",
+      "tokens": {
+        "binance-smart-chain-DXCT": {
+          "order": 0
+        }
+      }
+    },
+    "o3": {
+      "name": "O3",
+      "desc": "",
+      "order": 147,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9588.png",
+      "tokens": {
+        "binance-smart-chain-O3": {
+          "order": 0
+        }
+      }
+    },
+    "fam": {
+      "name": "FAM",
+      "desc": "",
+      "order": 148,
+      "logo": "https://raw.githubusercontent.com/famcentral/Materials/main/logo_FAM_128px.png",
+      "tokens": {
+        "binance-smart-chain-FAM": {
+          "order": 0
+        }
+      }
+    },
+    "hero": {
+      "name": "HERO",
+      "desc": "",
+      "order": 149,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11067.png",
+      "tokens": {
+        "binance-smart-chain-HERO": {
+          "order": 0
+        }
+      }
+    },
+    "usdz": {
+      "name": "USDZ",
+      "desc": "",
+      "order": 150,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/usdz-logo/usdz-icon.png",
+      "tokens": {
+        "binance-smart-chain-USDZ": {
+          "order": 0
+        }
+      }
+    },
+    "heroegg": {
+      "name": "HEROEGG",
+      "desc": "",
+      "order": 151,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11605.png",
+      "tokens": {
+        "binance-smart-chain-HEROEGG": {
+          "order": 0
+        }
+      }
+    },
+    "fiwa": {
+      "name": "FIWA",
+      "desc": "",
+      "order": 152,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11670.png",
+      "tokens": {
+        "binance-smart-chain-FIWA": {
+          "order": 0
+        }
+      }
+    },
+    "thg": {
+      "name": "THG",
+      "desc": "",
+      "order": 153,
+      "logo": "https://thetanarena.com/images/theta-arena/Page1_IconThetaArena.png",
+      "tokens": {
+        "binance-smart-chain-THG": {
+          "order": 0
+        }
+      }
+    },
+    "matic": {
+      "name": "MATIC",
+      "desc": "",
+      "order": 154,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+      "tokens": {
+        "polygon-MATIC": {
+          "order": 0
+        }
+      }
+    },
+    "avax": {
+      "name": "AVAX",
+      "desc": "",
+      "order": 155,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+      "tokens": {
+        "avalanche-AVAX": {
+          "order": 0
+        }
+      }
+    },
+    "kcs": {
+      "name": "KCS",
+      "desc": "",
+      "order": 156,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
+      "tokens": {
+        "KCC-KCS": {
+          "order": 0
+        }
+      }
+    },
+    "rofi": {
+      "name": "ROFI",
+      "desc": "",
+      "order": 157,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13164.png",
+      "tokens": {
+        "binance-smart-chain-ROFI": {
+          "order": 0
+        }
+      }
+    },
+    "heron": {
+      "name": "HERON",
+      "desc": "HERON",
+      "order": 158,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13045.png",
+      "tokens": {
+        "binance-smart-chain-HERON": {
+          "order": 0
+        }
+      }
+    },
+    "nino": {
+      "name": "NINO",
+      "desc": "",
+      "order": 159,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13216.png",
+      "tokens": {
+        "binance-smart-chain-NINO": {
+          "order": 0
+        }
+      }
+    },
+    "kart": {
+      "name": "KART",
+      "desc": "Dragon Kart is the first 3D Play-to-Earn Battle Racing game built on Binance Smart Chain, the characters in the game are taken from a Pikalong comics series by a Vietnamese well-known artist Thang Fly*. This series has been exposed to millions of Vietnamese users in Zalo, the most used communication app in Vietnam (can be compared to Wechat in China or Kakao in Korea) for roughly 5 years.  *Thang Fly is a Vietnamese artist influencer with 1.4M+ followers on Facebook.  Highlights: Talented team with 7-10 years of experiences in technology and related fields. The MVP is available Demo product is ready to be tested.",
+      "order": 160,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12614.png",
+      "tokens": {
+        "binance-smart-chain-KART": {
+          "order": 0
+        }
+      }
+    },
+    "zdold": {
+      "name": "ZD OLD",
+      "desc": "",
+      "order": 161,
+      "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/zd.svg",
+      "tokens": {
+        "binance-smart-chain-ZDOLD": {
+          "order": 0
+        },
+        "ezdefi-ZDOLD": {
+          "order": 1
+        }
+      }
+    },
+    "bombercoin": {
+      "name": "Bomber Coin",
+      "desc": "",
+      "order": 162,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12252.png",
+      "tokens": {
+        "binance-smart-chain-BCOIN": {
+          "order": 0
+        }
+      }
+    },
+    "dynasty": {
+      "name": "Dynasty",
+      "desc": "",
+      "order": 163,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14357.png",
+      "tokens": {
+        "binance-smart-chain-DYT": {
+          "order": 0
+        }
+      }
+    },
+    "zuki": {
+      "name": "ZUKI",
+      "desc": "",
+      "order": 164,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14136.png",
+      "tokens": {
+        "binance-smart-chain-ZUKI": {
+          "order": 0
+        }
+      }
+    },
+    "zseed": {
+      "name": "zSeed",
+      "desc": "",
+      "order": 165,
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/icon-128x128.png",
+      "tokens": {
+        "binance-smart-chain-zSeed": {
+          "order": 0
+        },
+        "ezdefi-zSeed": {
+          "order": 1
+        }
+      }
+    },
+    "htd": {
+      "name": "HTD",
+      "desc": "",
+      "order": 166,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14422.png",
+      "tokens": {
+        "binance-smart-chain-HTD": {
+          "order": 0
+        }
+      }
+    },
+    "dor": {
+      "name": "DOR",
+      "desc": "",
+      "order": 167,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13977.png",
+      "tokens": {
+        "binance-smart-chain-DOR": {
+          "order": 0
+        }
+      }
+    },
+    "cato": {
+      "name": "CATO",
+      "desc": "",
+      "order": 168,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14839.png",
+      "tokens": {
+        "binance-smart-chain-CATO": {
+          "order": 0
+        }
+      }
+    },
+    "belly": {
+      "name": "BELLY",
+      "desc": "BELLY",
+      "order": 169,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15703.png",
+      "tokens": {
+        "binance-smart-chain-BELLY": {
+          "order": 0
+        }
+      }
+    },
+    "spg": {
+      "name": "SPG",
+      "desc": "",
+      "order": 170,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15529.png",
+      "tokens": {
+        "binance-smart-chain-SPG": {
+          "order": 0
+        }
+      }
+    },
+    "gwt": {
+      "name": "GWT",
+      "desc": "",
+      "order": 171,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13236.png",
+      "tokens": {
+        "binance-smart-chain-GWT": {
+          "order": 0
+        }
+      }
+    },
+    "lus": {
+      "name": "LUS",
+      "desc": "",
+      "order": 172,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16197.png",
+      "tokens": {
+        "binance-smart-chain-LUS": {
+          "order": 0
+        }
+      }
+    },
+    "f2c": {
+      "name": "F2C",
+      "desc": "",
+      "order": 173,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15951.png",
+      "tokens": {
+        "binance-smart-chain-F2C": {
+          "order": 0
+        }
+      }
+    },
+    "tankbattle": {
+      "name": "Tank Battle",
+      "desc": "",
+      "order": 174,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15695.png",
+      "tokens": {
+        "binance-smart-chain-TBL": {
+          "order": 0
+        }
+      }
+    },
+    "ninneko(mata)": {
+      "name": "Ninneko (Mata)",
+      "desc": "",
+      "order": 175,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17578.png",
+      "tokens": {
+        "binance-smart-chain-MATA": {
+          "order": 0
+        }
+      }
+    },
+    "unilab": {
+      "name": "Unilab",
+      "desc": "",
+      "order": 176,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16899.png",
+      "tokens": {
+        "binance-smart-chain-ULAB": {
+          "order": 0
+        }
+      }
+    },
+    "metagear": {
+      "name": "MetaGear",
+      "desc": "",
+      "order": 177,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15761.png",
+      "tokens": {
+        "binance-smart-chain-GEAR": {
+          "order": 0
+        }
+      }
+    },
+    "stman": {
+      "name": "STMAN",
+      "desc": "",
+      "order": 178,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15515.png",
+      "tokens": {
+        "binance-smart-chain-STman": {
+          "order": 0
+        }
+      }
+    },
+    "mstation": {
+      "name": "MStation",
+      "desc": "",
+      "order": 179,
+      "logo": "https://pbs.twimg.com/profile_images/1487992398722793474/xkjby5hf_400x400.jpg",
+      "tokens": {
+        "binance-smart-chain-MST": {
+          "order": 0
+        }
+      }
+    },
+    "metabomb": {
+      "name": "Metabomb",
+      "desc": "",
+      "order": 180,
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19299.png",
+      "tokens": {
+        "binance-smart-chain-MTB": {
+          "order": 0
+        }
+      }
+    }
+  },
+  "tokens": {
+    "bitcoin-BTC-segwit": {
+      "network": "bitcoin",
+      "name": "Bitcoin",
+      "decimal": 8,
+      "address": "",
+      "symbol": "BTC",
+      "format_address": "segwit",
+      "isSegwit": true,
+      "cmcId": "1",
+      "cgkId": "bitcoin",
+      "assetId": "617902aa79cdd36be94340d4",
+      "typeCoinInfo": "BTC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    },
+    "bitcoin-BTC-legacy": {
+      "network": "bitcoin",
+      "name": "Bitcoin Legacy",
+      "decimal": 8,
+      "address": "",
+      "symbol": "BTC",
+      "format_address": "legacy",
+      "isSegwit": false,
+      "cmcId": "1",
+      "cgkId": "bitcoin",
+      "assetId": "617902aa79cdd36be94340d4",
+      "suffix": "LEGACY",
+      "typeCoinInfo": "BTC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    },
+    "ethereum-ETH": {
+      "network": "ethereum",
+      "name": "Ethereum",
+      "decimal": 18,
+      "address": "",
+      "symbol": "ETH",
+      "format_address": "",
+      "cmcId": "1027",
+      "cgkId": "ethereum",
+      "assetId": "617902aa79cdd36be94340d5",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    "solana-SOL": {
+      "network": "solana",
+      "name": "Solana",
+      "decimal": 9,
+      "address": "",
+      "symbol": "SOL",
+      "format_address": "",
+      "cmcId": "5426",
+      "cgkId": "solana",
+      "assetId": "617902aa79cdd36be94340d7",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+    },
+    "solana-SRM": {
+      "network": "solana",
+      "name": "Serum",
+      "decimal": 6,
+      "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+      "symbol": "SRM",
+      "format_address": "",
+      "cmcId": "6187",
+      "cgkId": "serum",
+      "assetId": "617902aa79cdd36be94340d8",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png"
+    },
+    "binance-smart-chain-BNB": {
+      "network": "binance-smart-chain",
+      "name": "Binance Coin",
+      "decimal": 18,
+      "address": "",
+      "symbol": "BNB",
+      "format_address": "",
+      "cmcId": "1839",
+      "cgkId": "binancecoin",
+      "assetId": "617902aa79cdd36be9434119",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    },
+    "litecoin-LTC-segwit": {
+      "network": "litecoin",
+      "name": "Litecoin",
+      "decimal": 8,
+      "address": "",
+      "symbol": "LTC",
+      "format_address": "segwit",
+      "isSegwit": true,
+      "cmcId": "2",
+      "cgkId": "litecoin",
+      "assetId": "617902aa79cdd36be94340da",
+      "typeCoinInfo": "LTC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+    },
+    "litecoin-LTC-legacy": {
+      "network": "litecoin",
+      "name": "Litecoin Legacy",
+      "decimal": 8,
+      "address": "",
+      "symbol": "LTC",
+      "format_address": "legacy",
+      "isSegwit": false,
+      "cmcId": "2",
+      "cgkId": "litecoin",
+      "assetId": "617902aa79cdd36be94340da",
+      "suffix": "LEGACY",
+      "typeCoinInfo": "LTC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+    },
+    "bitcoin-cash-BCH": {
+      "network": "bitcoin-cash",
+      "name": "Bitcoin Cash",
+      "decimal": 8,
+      "address": "",
+      "symbol": "BCH",
+      "format_address": "",
+      "cmcId": "1831",
+      "cgkId": "bitcoin-cash",
+      "assetId": "617902aa79cdd36be9434123",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+    },
+    "ripple-XRP": {
+      "network": "ripple",
+      "name": "Ripple",
+      "decimal": 8,
+      "address": "",
+      "symbol": "XRP",
+      "format_address": "",
+      "cmcId": "52",
+      "cgkId": "ripple",
+      "assetId": "617902aa79cdd36be9434125",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+    },
+    "ethereum-classic-ETC": {
+      "network": "ethereum-classic",
+      "name": "Ethereum Classic",
+      "decimal": 18,
+      "address": "",
+      "symbol": "ETC",
+      "format_address": "",
+      "cmcId": "1321",
+      "cgkId": "ethereum-classic",
+      "assetId": "617902aa79cdd36be94340df",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png"
+    },
+    "ethereum-RVX": {
+      "network": "ethereum",
+      "name": "RiveX",
+      "decimal": 18,
+      "address": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
+      "symbol": "RVX",
+      "format_address": "",
+      "cmcId": "4697",
+      "cgkId": "rivex",
+      "assetId": "617902aa79cdd36be94340e0",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4697.png"
+    },
+    "ethereum-DAI": {
+      "network": "ethereum",
+      "name": "Dai Stablecoin",
+      "decimal": 18,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "format_address": "",
+      "cmcId": "4943",
+      "cgkId": "dai",
+      "assetId": "617902aa79cdd36be94340e1",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+    },
+    "ethereum-MKR": {
+      "network": "ethereum",
+      "name": "Maker",
+      "decimal": 18,
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "format_address": "",
+      "cmcId": "1518",
+      "cgkId": "maker",
+      "assetId": "617902aa79cdd36be94340e2",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png"
+    },
+    "ethereum-LINK": {
+      "network": "ethereum",
+      "name": "ChainLink",
+      "decimal": 18,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "format_address": "",
+      "cmcId": "1975",
+      "cgkId": "chainlink",
+      "assetId": "617902aa79cdd36be94340e4",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+    },
+    "ethereum-TOKO": {
+      "network": "ethereum",
+      "name": "Tokoin",
+      "decimal": 18,
+      "address": "0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675",
+      "symbol": "TOKO",
+      "format_address": "",
+      "cmcId": "4299",
+      "cgkId": "tokoin",
+      "assetId": "617902aa79cdd36be94340e5",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4299.png"
+    },
+    "ethereum-KNCL": {
+      "network": "ethereum",
+      "name": "Kyber Network",
+      "decimal": 18,
+      "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+      "symbol": "KNCL",
+      "format_address": "",
+      "cmcId": "1982",
+      "cgkId": "kyber-network",
+      "assetId": "617902aa79cdd36be94340e6",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1982.png"
+    },
+    "ethereum-UTU": {
+      "network": "ethereum",
+      "name": "UTU",
+      "decimal": 18,
+      "address": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+      "symbol": "UTU",
+      "format_address": "",
+      "cmcId": "7587",
+      "cgkId": "utu-coin",
+      "assetId": "617902aa79cdd36be94340e7",
+      "logo": "https://assets.coingecko.com/coins/images/12831/small/Aa5nmbkJ_400x400.png"
+    },
+    "ethereum-VRO": {
+      "network": "ethereum",
+      "name": "VeraOne",
+      "decimal": 8,
+      "address": "0x10bc518c32fbae5e38ecb50a612160571bd81e44",
+      "symbol": "VRO",
+      "format_address": "",
+      "cmcId": "5539",
+      "cgkId": "veraone",
+      "assetId": "617902aa79cdd36be94340e8",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5539.png"
+    },
+    "ethereum-UBXT": {
+      "network": "ethereum",
+      "name": "UpBots",
+      "decimal": 18,
+      "address": "0x8564653879a18c560e7c0ea0e084c516c62f5653",
+      "symbol": "UBXT",
+      "format_address": "",
+      "cmcId": "7040",
+      "cgkId": "upbots",
+      "assetId": "617902aa79cdd36be94340e9",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7040.png"
+    },
+    "ethereum-BAT": {
+      "network": "ethereum",
+      "name": "Basic Attention Token",
+      "decimal": 18,
+      "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "symbol": "BAT",
+      "format_address": "",
+      "cmcId": "1697",
+      "cgkId": "basic-attention-token",
+      "assetId": "617902aa79cdd36be94340ea",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png"
+    },
+    "ethereum-VET": {
+      "network": "ethereum",
+      "name": "VeChain",
+      "decimal": 18,
+      "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
+      "symbol": "VET",
+      "format_address": "",
+      "cmcId": "3077",
+      "cgkId": "vechain",
+      "assetId": "617902aa79cdd36be94340eb",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png"
+    },
+    "ethereum-CRO": {
+      "network": "ethereum",
+      "name": "Crypto.com Chain",
+      "decimal": 8,
+      "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "symbol": "CRO",
+      "format_address": "",
+      "cmcId": "3635",
+      "cgkId": "crypto-com-chain",
+      "assetId": "617902aa79cdd36be94340ec",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
+    },
+    "ethereum-USDC": {
+      "network": "ethereum",
+      "name": "USD Coin",
+      "decimal": 6,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "format_address": "",
+      "cmcId": "3408",
+      "cgkId": "usd-coin",
+      "assetId": "617902aa79cdd36be94340ed",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    "ethereum-OMG": {
+      "network": "ethereum",
+      "name": "OmiseGO",
+      "decimal": 18,
+      "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "symbol": "OMG",
+      "format_address": "",
+      "cmcId": "1808",
+      "cgkId": "omisego",
+      "assetId": "617902aa79cdd36be94340ee",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png"
+    },
+    "ethereum-HOT": {
+      "network": "ethereum",
+      "name": "HOT Token",
+      "decimal": 18,
+      "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+      "symbol": "HOT",
+      "format_address": "",
+      "cmcId": "2682",
+      "cgkId": "holo",
+      "assetId": "617902aa79cdd36be94340ef",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png"
+    },
+    "ethereum-TUSD": {
+      "network": "ethereum",
+      "name": "TrueUSD",
+      "decimal": 18,
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "symbol": "TUSD",
+      "format_address": "",
+      "cmcId": "2563",
+      "cgkId": "true-usd",
+      "assetId": "617902aa79cdd36be94340f0",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+    },
+    "ethereum-REP": {
+      "network": "ethereum",
+      "name": "Augur",
+      "decimal": 18,
+      "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+      "symbol": "REP",
+      "format_address": "",
+      "cmcId": "1104",
+      "cgkId": "augur",
+      "assetId": "617902aa79cdd36be94340f1",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png"
+    },
+    "bitcoin-test-BTC-TEST-segwit": {
+      "network": "bitcoin-test",
+      "name": "Bitcoin Testnet",
+      "decimal": 8,
+      "address": "",
+      "symbol": "BTC-TEST",
+      "format_address": "segwit-test",
+      "isSegwit": true,
+      "cmcId": "1",
+      "cgkId": "btc",
+      "assetId": "6184a35482eace3a993cc035",
+      "suffix": "TESTNET",
+      "typeCoinInfo": "BTC-TEST",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/btc-test.png"
+    },
+    "tron-TRX": {
+      "network": "tron",
+      "name": "Tron",
+      "decimal": 6,
+      "address": "",
+      "symbol": "TRX",
+      "format_address": "",
+      "cmcId": "1958",
+      "cgkId": "tron",
+      "assetId": "617902aa79cdd36be94340f8",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+    },
+    "tron-USDT": {
+      "network": "tron",
+      "name": "USDT TRC20",
+      "decimal": 6,
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "symbol": "USDT",
+      "format_address": "",
+      "cmcId": "825",
+      "cgkId": "tether",
+      "assetId": "617902aa79cdd36be94340f9",
+      "suffix": "TRC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    "ethereum-USDT": {
+      "network": "ethereum",
+      "name": "USDT ERC20",
+      "decimal": 6,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "format_address": "",
+      "cmcId": "825",
+      "cgkId": "tether",
+      "assetId": "617902aa79cdd36be94340f9",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    "ethereum-LIEN": {
+      "network": "ethereum",
+      "name": "LIEN",
+      "decimal": 8,
+      "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+      "symbol": "LIEN",
+      "format_address": "",
+      "cmcId": "6705",
+      "cgkId": "lien",
+      "assetId": "617902aa79cdd36be94340fa",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6705.png"
+    },
+    "ethereum-DAO": {
+      "network": "ethereum",
+      "name": "DAO Marker",
+      "decimal": 18,
+      "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+      "symbol": "DAO",
+      "format_address": "",
+      "cmcId": "8420",
+      "cgkId": "dao-maker",
+      "assetId": "617902aa79cdd36be9434138",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8420.png"
+    },
+    "ethereum-GRT": {
+      "network": "ethereum",
+      "name": "The Graph",
+      "decimal": 18,
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "symbol": "GRT",
+      "format_address": "",
+      "cmcId": "6719",
+      "cgkId": "the-graph",
+      "assetId": "617902aa79cdd36be94340fc",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png"
+    },
+    "ethereum-DEGO": {
+      "network": "ethereum",
+      "name": "DEGO ERC20",
+      "decimal": 18,
+      "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02",
+      "symbol": "DEGO",
+      "format_address": "",
+      "cmcId": "7087",
+      "cgkId": "dego-finance",
+      "assetId": "617902aa79cdd36be94340fd",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png"
+    },
+    "binance-smart-chain-DEGO": {
+      "network": "binance-smart-chain",
+      "name": "DEGO BEP20",
+      "decimal": 18,
+      "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc",
+      "symbol": "DEGO",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be94340fd",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png"
+    },
+    "ethereum-cBRL": {
+      "network": "ethereum",
+      "name": "cBRL ERC20",
+      "decimal": 6,
+      "address": "0xa6fa6531acdf1f9f96eddd66a0f9481e35c2e42a",
+      "symbol": "cBRL",
+      "format_address": "",
+      "cmcId": "6880",
+      "cgkId": "cryptobrl",
+      "assetId": "617902aa79cdd36be94340ff",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6880.png"
+    },
+    "ethereum-VNDC": {
+      "network": "ethereum",
+      "name": "VNDC",
+      "decimal": 0,
+      "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
+      "symbol": "VNDC",
+      "format_address": "",
+      "cmcId": "4805",
+      "cgkId": "vndc",
+      "assetId": "617902aa79cdd36be9434100",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4805.png"
+    },
+    "ethereum-DREP": {
+      "network": "ethereum",
+      "name": "DREP",
+      "decimal": 18,
+      "address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3",
+      "symbol": "DREP",
+      "format_address": "",
+      "cmcId": "3924",
+      "cgkId": "drep-new",
+      "assetId": "617902aa79cdd36be9434101",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3924.png"
+    },
+    "ethereum-SPA": {
+      "network": "ethereum",
+      "name": "Sperax",
+      "decimal": 18,
+      "address": "0xf7623a0a44045b907d81aad8479aa3c4a818211d",
+      "symbol": "SPA",
+      "format_address": "",
+      "cmcId": "6715",
+      "cgkId": "sperax",
+      "assetId": "617902aa79cdd36be9434102",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6715.png"
+    },
+    "ethereum-FLETA": {
+      "network": "ethereum",
+      "name": "FLETA TOKEN",
+      "decimal": 18,
+      "address": "0x7788d759f21f53533051a9ae657fa05a1e068fc6",
+      "symbol": "FLETA",
+      "format_address": "",
+      "cmcId": "4103",
+      "cgkId": "fleta",
+      "assetId": "617902aa79cdd36be9434103",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4103.png"
+    },
+    "ethereum-USDS": {
+      "network": "ethereum",
+      "name": "StableUSD",
+      "decimal": 6,
+      "address": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+      "symbol": "USDS",
+      "format_address": "",
+      "cmcId": "3719",
+      "cgkId": "stably",
+      "assetId": "617902aa79cdd36be9434104",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3719.png"
+    },
+    "ethereum-YFI": {
+      "network": "ethereum",
+      "name": "yearn.finance",
+      "decimal": 18,
+      "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "symbol": "YFI",
+      "format_address": "",
+      "cmcId": "4805",
+      "cgkId": "yearn-finance",
+      "assetId": "617902aa79cdd36be9434105",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4805.png"
+    },
+    "ethereum-OM": {
+      "network": "ethereum",
+      "name": "MANDTRA DAO",
+      "decimal": 18,
+      "address": "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
+      "symbol": "OM",
+      "format_address": "",
+      "cmcId": "6536",
+      "cgkId": "mantra-dao",
+      "assetId": "617902aa79cdd36be9434106",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png"
+    },
+    "ethereum-KAI": {
+      "network": "ethereum",
+      "name": "KardiaChain",
+      "decimal": 18,
+      "address": "0xBD6467a31899590474cE1e84F70594c53D628e46",
+      "symbol": "KAI",
+      "format_address": "",
+      "cmcId": "5453",
+      "cgkId": "kardiachain",
+      "assetId": "617902aa79cdd36be9434107",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png"
+    },
+    "ethereum-MCB": {
+      "network": "ethereum",
+      "name": "MCDEX",
+      "decimal": 18,
+      "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+      "symbol": "MCB",
+      "format_address": "",
+      "cmcId": "5956",
+      "cgkId": "mcdex",
+      "assetId": "617902aa79cdd36be9434108",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5956.png"
+    },
+    "tron-ATT": {
+      "network": "tron",
+      "name": "ATT",
+      "decimal": 6,
+      "address": "TVwXxvyYawS21PT1B7XZxBZCMbQZLUENoE",
+      "symbol": "ATT",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434109",
+      "logo": "https://assets.coingecko.com/coins/images/8009/small/Africa_Trading_Chain.jpg?1553143625"
+    },
+    "tron-TWX": {
+      "network": "tron",
+      "name": "TRONWALLET",
+      "decimal": 6,
+      "address": "TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
+      "symbol": "TWX",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be943410b",
+      "logo": "https://foundico.com/upload/iblock/4c8/4c88176023d49fbce0ed0d5ba1760b35.jpg"
+    },
+    "tron-ANTE": {
+      "network": "tron",
+      "name": "TRONbet",
+      "decimal": 6,
+      "address": "TCN77KWWyUyi2A4Cu7vrh5dnmRyvUuME1E",
+      "symbol": "ANTE",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be943410c",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/tronbet.png"
+    },
+    "binance-smart-chain-CAKE": {
+      "network": "binance-smart-chain",
+      "name": "PancakeSwap",
+      "decimal": 18,
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "CAKE",
+      "format_address": "",
+      "cmcId": "7186",
+      "cgkId": "pancakeswap-token",
+      "assetId": "617902aa79cdd36be943410d",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png"
+    },
+    "binance-smart-chain-TWT": {
+      "network": "binance-smart-chain",
+      "name": "Trust Wallet",
+      "decimal": 18,
+      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "symbol": "TWT",
+      "format_address": "",
+      "cmcId": "5964",
+      "cgkId": "trust-wallet-token",
+      "assetId": "617902aa79cdd36be943410f",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png"
+    },
+    "binance-smart-chain-BAKE": {
+      "network": "binance-smart-chain",
+      "name": "Bakery Token",
+      "decimal": 18,
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "symbol": "BAKE",
+      "format_address": "",
+      "cmcId": "7064",
+      "cgkId": "bakerytoken",
+      "assetId": "617902aa79cdd36be9434111",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png"
+    },
+    "binance-smart-chain-BURGER": {
+      "network": "binance-smart-chain",
+      "name": "Burger Swap",
+      "decimal": 18,
+      "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+      "symbol": "BURGER",
+      "format_address": "",
+      "cmcId": "7158",
+      "cgkId": "burger-swap",
+      "assetId": "617902aa79cdd36be9434112",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png"
+    },
+    "binance-smart-chain-USDT": {
+      "network": "binance-smart-chain",
+      "name": "USDT BEP20",
+      "decimal": 18,
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "symbol": "USDT",
+      "format_address": "",
+      "cmcId": "825",
+      "cgkId": "tether",
+      "assetId": "617902aa79cdd36be94340f9",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    "binance-smart-chain-BTCB": {
+      "network": "binance-smart-chain",
+      "name": "BTCB BEP20",
+      "decimal": 18,
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "format_address": "",
+      "cmcId": "1",
+      "cgkId": "bitcoin",
+      "assetId": "617902aa79cdd36be94340d4",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    },
+    "binance-smart-chain-ETH": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Ethereum Token",
+      "decimal": 18,
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH",
+      "format_address": "",
+      "cmcId": "1027",
+      "cgkId": "ethereum",
+      "assetId": "617902aa79cdd36be94340d5",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    "binance-smart-chain-BUSD": {
+      "network": "binance-smart-chain",
+      "name": "BUSD BEP20",
+      "decimal": 18,
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD",
+      "format_address": "",
+      "cmcId": "4687",
+      "cgkId": "binance-usd",
+      "assetId": "617902aa79cdd36be9434114",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+    },
+    "solana-BTC": {
+      "network": "solana",
+      "name": "BTC SPL",
+      "decimal": 6,
+      "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "symbol": "BTC",
+      "format_address": "",
+      "cmcId": "1",
+      "cgkId": "bitcoin",
+      "assetId": "617902aa79cdd36be94340d4",
+      "suffix": "SOL",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    },
+    "solana-USDT": {
+      "network": "solana",
+      "name": "USDT SPL",
+      "decimal": 6,
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "symbol": "USDT",
+      "format_address": "",
+      "cmcId": "825",
+      "cgkId": "tether",
+      "assetId": "617902aa79cdd36be94340f9",
+      "suffix": "SOL",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    "ezdefi-aSRM": {
+      "network": "ezdefi",
+      "name": "aSRM",
+      "decimal": 18,
+      "address": "0xD8cD9DCB9129afd033b6C75b23C65DC5fCdcd022",
+      "symbol": "aSRM",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434116",
+      "suffix": "ZD",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/asrm.png"
+    },
+    "ezdefi-DOXI": {
+      "network": "ezdefi",
+      "name": "DOXI",
+      "decimal": 18,
+      "address": "0xc4209C25a2151CBDc05B7cbbc0c49a5e1F5D4F73",
+      "symbol": "DOXI",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434117",
+      "logo": "https://raw.githubusercontent.com/DOxi-D/DOxi/main/Logo%20DOxi.png"
+    },
+    "bitcoin-test-BTC-TEST-legacy": {
+      "network": "bitcoin-test",
+      "name": "Bitcoin Test Legacy",
+      "decimal": 8,
+      "address": "",
+      "symbol": "BTC-TEST",
+      "format_address": "legacy-test",
+      "isSegwit": false,
+      "cmcId": "1",
+      "cgkId": "btc",
+      "assetId": "6184a35482eace3a993cc035",
+      "suffix": "LEGACY TESTNET",
+      "typeCoinInfo": "BTC-TEST",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/btc-test.png"
+    },
+    "solana-ETH": {
+      "network": "solana",
+      "name": "Wrapped Ethereum",
+      "decimal": 6,
+      "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+      "symbol": "ETH",
+      "format_address": "",
+      "cmcId": "1027",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be94340d5",
+      "suffix": "SOL",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    "solana-YFI": {
+      "network": "solana",
+      "name": "Wrapped YFI",
+      "decimal": 6,
+      "address": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
+      "symbol": "YFI",
+      "format_address": "",
+      "cmcId": "5864",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434105",
+      "suffix": "SOL",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png"
+    },
+    "ethereum-1INCH": {
+      "network": "ethereum",
+      "name": "1INCH",
+      "decimal": 18,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "format_address": "",
+      "cmcId": "8104",
+      "cgkId": "1inch",
+      "assetId": "617902aa79cdd36be9434118",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png"
+    },
+    "rinkeby-ETH": {
+      "network": "rinkeby",
+      "name": "Rinkeby",
+      "decimal": 18,
+      "address": "",
+      "symbol": "ETH",
+      "format_address": "",
+      "cmcId": "1027",
+      "cgkId": "",
+      "assetId": "6184e3597d9cfc4cdb5ac41c",
+      "suffix": "RINKEBY",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/eth.png"
+    },
+    "ropsten-ETH": {
+      "network": "ropsten",
+      "name": "Ropsten",
+      "decimal": 18,
+      "address": "",
+      "symbol": "ETH",
+      "format_address": "",
+      "cmcId": "1027",
+      "cgkId": "",
+      "assetId": "6184e3597d9cfc4cdb5ac41c",
+      "suffix": "ROPSTEN",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/eth.png"
+    },
+    "kovan-ETH": {
+      "network": "kovan",
+      "name": "Kovan",
+      "decimal": 18,
+      "address": "",
+      "symbol": "ETH",
+      "format_address": "",
+      "cmcId": "1027",
+      "cgkId": "",
+      "assetId": "6184e3597d9cfc4cdb5ac41c",
+      "suffix": "KOVAN",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/eth.png"
+    },
+    "goerli-ETH": {
+      "network": "goerli",
+      "name": "Goerli",
+      "decimal": 18,
+      "address": "",
+      "symbol": "ETH",
+      "format_address": "",
+      "cmcId": "1027",
+      "cgkId": "",
+      "assetId": "6184e3597d9cfc4cdb5ac41c",
+      "suffix": "GOERLI",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/eth.png"
+    },
+    "binance-smart-chain-cBRL": {
+      "network": "binance-smart-chain",
+      "name": "cBRL BEP20",
+      "decimal": 6,
+      "address": "0x9e691fd624410d631c082202b050694233031cb7",
+      "symbol": "cBRL",
+      "format_address": "",
+      "cmcId": "6880",
+      "cgkId": "cryptobrl",
+      "assetId": "617902aa79cdd36be94340ff",
+      "suffix": "BEP20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6880.png"
+    },
+    "shasta-TRX": {
+      "network": "shasta",
+      "name": "Shasta",
+      "decimal": 6,
+      "address": "",
+      "symbol": "TRX",
+      "format_address": "",
+      "cmcId": "1958",
+      "cgkId": "",
+      "assetId": "6184e5017d9cfc4cdb5ac41f",
+      "suffix": "SHASTA",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/tron.png"
+    },
+    "solana-test-SOL-TEST": {
+      "network": "solana-test",
+      "name": "Solana Testnet",
+      "decimal": 9,
+      "address": "",
+      "symbol": "SOL-TEST",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "6184e3977d9cfc4cdb5ac41e",
+      "suffix": "TESTNET",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/solana-logo.png"
+    },
+    "binance-smart-chain-test-BNB": {
+      "network": "binance-smart-chain-test",
+      "name": "BNB Testnet",
+      "decimal": 18,
+      "address": "",
+      "symbol": "BNB",
+      "format_address": "",
+      "cmcId": "1839",
+      "cgkId": "",
+      "assetId": "6184e3777d9cfc4cdb5ac41d",
+      "suffix": "BSC-TEST",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/binance-testnet.png"
+    },
+    "tomo-TOMO": {
+      "network": "tomo",
+      "name": "Tomo Chain",
+      "decimal": 18,
+      "address": "",
+      "symbol": "TOMO",
+      "format_address": "",
+      "cmcId": "2570",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be94340de",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png"
+    },
+    "ethereum-SPDR": {
+      "network": "ethereum",
+      "name": "SPDR",
+      "decimal": 18,
+      "address": "0xbcd4b7de6fde81025f74426d43165a5b0d790fdd",
+      "symbol": "SPDR",
+      "format_address": "",
+      "cmcId": "8002",
+      "cgkId": "spiderdao",
+      "assetId": "617902aa79cdd36be943411a",
+      "suffix": "ERC20",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/logo/spiderdao.png"
+    },
+    "binance-smart-chain-BHC": {
+      "network": "binance-smart-chain",
+      "name": "Billion Happiness",
+      "decimal": 18,
+      "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
+      "symbol": "BHC",
+      "format_address": "",
+      "cmcId": "7182",
+      "cgkId": "billionhappiness",
+      "assetId": "617902aa79cdd36be943411b",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7182.png"
+    },
+    "binance-smart-chain-WBNB": {
+      "network": "binance-smart-chain",
+      "name": "Wrapped BNB",
+      "decimal": 18,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "format_address": "",
+      "cmcId": "7192",
+      "cgkId": "wbnb",
+      "assetId": "617902aa79cdd36be9434119",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
+    },
+    "binance-smart-chain-UNI": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Uniswap",
+      "decimal": 18,
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "symbol": "UNI",
+      "format_address": "",
+      "cmcId": "7083",
+      "cgkId": "uniswap",
+      "assetId": "617902aa79cdd36be943411c",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+    },
+    "binance-smart-chain-DOT": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Polkadot Token",
+      "decimal": 18,
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT",
+      "format_address": "",
+      "cmcId": "6636",
+      "cgkId": "polkadot",
+      "assetId": "617902aa79cdd36be943411d",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+    },
+    "binance-smart-chain-DAI": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Dai Token",
+      "decimal": 18,
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "symbol": "DAI",
+      "format_address": "",
+      "cmcId": "4943",
+      "cgkId": "dai",
+      "assetId": "617902aa79cdd36be94340e1",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+    },
+    "binance-smart-chain-LINK": {
+      "network": "binance-smart-chain",
+      "name": "LINK BEP20",
+      "decimal": 18,
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "symbol": "LINK",
+      "format_address": "",
+      "cmcId": "1975",
+      "cgkId": "chainlink",
+      "assetId": "617902aa79cdd36be94340e4",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+    },
+    "binance-smart-chain-EOS": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg EOS Token",
+      "decimal": 18,
+      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "symbol": "EOS",
+      "format_address": "",
+      "cmcId": "1765",
+      "cgkId": "eos",
+      "assetId": "617902aa79cdd36be943411e",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png"
+    },
+    "binance-smart-chain-BAND": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Band Protocol Token",
+      "decimal": 18,
+      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "symbol": "BAND",
+      "format_address": "",
+      "cmcId": "4679",
+      "cgkId": "usd-coin",
+      "assetId": "617902aa79cdd36be943411f",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png"
+    },
+    "binance-smart-chain-USDC": {
+      "network": "binance-smart-chain",
+      "name": "USDC BEP20",
+      "decimal": 18,
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC",
+      "format_address": "",
+      "cmcId": "3408",
+      "cgkId": "usd-coin",
+      "assetId": "617902aa79cdd36be94340ed",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    "binance-smart-chain-VAI": {
+      "network": "binance-smart-chain",
+      "name": "VAI Stablecoin",
+      "decimal": 18,
+      "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+      "symbol": "VAI",
+      "format_address": "",
+      "cmcId": "7824",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434120",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7824.png"
+    },
+    "binance-smart-chain-bALBT": {
+      "network": "binance-smart-chain",
+      "name": "AllianceBlock Token",
+      "decimal": 18,
+      "address": "0x72faa679e1008ad8382959ff48e392042a8b06f7",
+      "symbol": "bALBT",
+      "format_address": "",
+      "cmcId": "6957",
+      "cgkId": "allianceblock",
+      "assetId": "617902aa79cdd36be9434121",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6957.png"
+    },
+    "binance-smart-chain-LTC": {
+      "network": "binance-smart-chain",
+      "name": "Litecoin BEP20",
+      "decimal": 18,
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "symbol": "LTC",
+      "format_address": "",
+      "cmcId": "2",
+      "cgkId": "litecoin",
+      "assetId": "617902aa79cdd36be94340da",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+    },
+    "binance-smart-chain-XVS": {
+      "network": "binance-smart-chain",
+      "name": "Venus",
+      "decimal": 18,
+      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "symbol": "XVS",
+      "format_address": "",
+      "cmcId": "7288",
+      "cgkId": "venus",
+      "assetId": "617902aa79cdd36be9434122",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png"
+    },
+    "binance-smart-chain-YFI": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg yearn.finance",
+      "decimal": 18,
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "format_address": "",
+      "cmcId": "5864",
+      "cgkId": "yearn-finance",
+      "assetId": "617902aa79cdd36be9434105",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png"
+    },
+    "binance-smart-chain-BCH": {
+      "network": "binance-smart-chain",
+      "name": "Bitcoin Cash BEP20",
+      "decimal": 18,
+      "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+      "symbol": "BCH",
+      "format_address": "",
+      "cmcId": "1831",
+      "cgkId": "bitcoin-cash",
+      "assetId": "617902aa79cdd36be9434123",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+    },
+    "binance-smart-chain-SXP": {
+      "network": "binance-smart-chain",
+      "name": "Swipe",
+      "decimal": 18,
+      "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+      "symbol": "SXP",
+      "format_address": "",
+      "cmcId": "swipe",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434124",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png"
+    },
+    "binance-smart-chain-XRP": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg XRP Token",
+      "decimal": 18,
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "symbol": "XRP",
+      "format_address": "",
+      "cmcId": "52",
+      "cgkId": "ripple",
+      "assetId": "617902aa79cdd36be9434125",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+    },
+    "binance-smart-chain-ADA": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Cardano Token",
+      "decimal": 18,
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "symbol": "ADA",
+      "format_address": "",
+      "cmcId": "2010",
+      "cgkId": "cardano",
+      "assetId": "617902aa79cdd36be9434126",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+    },
+    "binance-smart-chain-BDO": {
+      "network": "binance-smart-chain",
+      "name": "bDollar",
+      "decimal": 18,
+      "address": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454",
+      "symbol": "BDO",
+      "format_address": "",
+      "cmcId": "8219",
+      "cgkId": "bdollar",
+      "assetId": "617902aa79cdd36be9434127",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8219.png"
+    },
+    "binance-smart-chain-ATOM": {
+      "network": "binance-smart-chain",
+      "name": "ATOM BEP20",
+      "decimal": 18,
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "symbol": "ATOM",
+      "format_address": "",
+      "cmcId": "3794",
+      "cgkId": "cosmos",
+      "assetId": "617902aa79cdd36be943414b",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
+    },
+    "binance-smart-chain-WOOP": {
+      "network": "binance-smart-chain",
+      "name": "Woonkly Power",
+      "decimal": 18,
+      "address": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+      "symbol": "WOOP",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434128",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8937.png"
+    },
+    "binance-smart-chain-ZUM": {
+      "network": "binance-smart-chain",
+      "name": "Zum Token",
+      "decimal": 8,
+      "address": "0x1c0ae6acf1086ab15636917aeafb9e0a0e72d389",
+      "symbol": "ZUM",
+      "format_address": "",
+      "cmcId": "4826",
+      "cgkId": "zum-token",
+      "assetId": "617902aa79cdd36be9434129",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4826.png"
+    },
+    "binance-smart-chain-FIL": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Filecoin",
+      "decimal": 18,
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "symbol": "FIL",
+      "format_address": "",
+      "cmcId": "2280",
+      "cgkId": "filecoin",
+      "assetId": "617902aa79cdd36be943412a",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+    },
+    "binance-smart-chain-ALPHA": {
+      "network": "binance-smart-chain",
+      "name": "ALPHA BEP20",
+      "decimal": 18,
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "format_address": "",
+      "cmcId": "7232",
+      "cgkId": "alpha-finance",
+      "assetId": "617902aa79cdd36be9434145",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png"
+    },
+    "binance-smart-chain-INJ": {
+      "network": "binance-smart-chain",
+      "name": "Injective Protocol",
+      "decimal": 18,
+      "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+      "symbol": "INJ",
+      "format_address": "",
+      "cmcId": "7226",
+      "cgkId": "injective-protocol",
+      "assetId": "617902aa79cdd36be943412b",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png"
+    },
+    "binance-smart-chain-TEN": {
+      "network": "binance-smart-chain",
+      "name": "Tenet",
+      "decimal": 18,
+      "address": "0xdff8cb622790b7f92686c722b02cab55592f152c",
+      "symbol": "TEN",
+      "format_address": "",
+      "cmcId": "8193",
+      "cgkId": "tenet",
+      "assetId": "617902aa79cdd36be943412c",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8193.png"
+    },
+    "binance-smart-chain-CTK": {
+      "network": "binance-smart-chain",
+      "name": "CertiK Token",
+      "decimal": 6,
+      "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
+      "symbol": "CTK",
+      "format_address": "",
+      "cmcId": "4807",
+      "cgkId": "certik",
+      "assetId": "617902aa79cdd36be943412d",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png"
+    },
+    "binance-smart-chain-DITTO": {
+      "network": "binance-smart-chain",
+      "name": "Ditto",
+      "decimal": 9,
+      "address": "0x233d91a0713155003fc4dce0afa871b508b3b715",
+      "symbol": "DITTO",
+      "format_address": "",
+      "cmcId": "8086",
+      "cgkId": "ditto",
+      "assetId": "617902aa79cdd36be943412e",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8086.png"
+    },
+    "binance-smart-chain-Fuel": {
+      "network": "binance-smart-chain",
+      "name": "Fuel Token",
+      "decimal": 18,
+      "address": "0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
+      "symbol": "Fuel",
+      "format_address": "",
+      "cmcId": "7158",
+      "cgkId": "fuel-token",
+      "assetId": "617902aa79cdd36be943412f",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png"
+    },
+    "binance-smart-chain-sBDO": {
+      "network": "binance-smart-chain",
+      "name": "bDollar Share",
+      "decimal": 18,
+      "address": "0x0d9319565be7f53cefe84ad201be3f40feae2740",
+      "symbol": "sBDO",
+      "format_address": "",
+      "cmcId": "8172",
+      "cgkId": "bdollar-share",
+      "assetId": "617902aa79cdd36be9434130",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8172.png"
+    },
+    "binance-smart-chain-REEF": {
+      "network": "binance-smart-chain",
+      "name": "Reef.finance",
+      "decimal": 18,
+      "address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+      "symbol": "REEF",
+      "format_address": "",
+      "cmcId": "6951",
+      "cgkId": "reef-finance",
+      "assetId": "617902aa79cdd36be9434131",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png"
+    },
+    "binance-smart-chain-XTZ": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg Tezos Token",
+      "decimal": 18,
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "symbol": "XTZ",
+      "format_address": "",
+      "cmcId": "2011",
+      "cgkId": "tezos",
+      "assetId": "617902aa79cdd36be9434132",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+    },
+    "binance-smart-chain-YFII": {
+      "network": "binance-smart-chain",
+      "name": "Binance-Peg YFII.finance Token",
+      "decimal": 18,
+      "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+      "symbol": "YFII",
+      "format_address": "",
+      "cmcId": "5957",
+      "cgkId": "yfii-finance",
+      "assetId": "617902aa79cdd36be9434133",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5957.png"
+    },
+    "binance-smart-chain-blink": {
+      "network": "binance-smart-chain",
+      "name": "BLinkToken",
+      "decimal": 6,
+      "address": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+      "symbol": "blink",
+      "format_address": "",
+      "cmcId": "7784",
+      "cgkId": "blink",
+      "assetId": "617902aa79cdd36be9434134",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7784.png"
+    },
+    "binance-smart-chain-BIFI": {
+      "network": "binance-smart-chain",
+      "name": "BIFI",
+      "decimal": 18,
+      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+      "symbol": "BIFI",
+      "format_address": "",
+      "cmcId": "7311",
+      "cgkId": "beefy-finance",
+      "assetId": "617902aa79cdd36be9434135",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7311.png"
+    },
+    "binance-smart-chain-FRIES": {
+      "network": "binance-smart-chain",
+      "name": "FRIES",
+      "decimal": 18,
+      "address": "0x393b312c01048b3ed2720bf1b090084c09e408a1",
+      "symbol": "FRIES",
+      "format_address": "",
+      "cmcId": "7351",
+      "cgkId": "fryworld",
+      "assetId": "617902aa79cdd36be9434136",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7351.png"
+    },
+    "binance-smart-chain-AUTO": {
+      "network": "binance-smart-chain",
+      "name": "AUTO",
+      "decimal": 18,
+      "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "symbol": "AUTO",
+      "format_address": "",
+      "cmcId": "8387",
+      "cgkId": "auto",
+      "assetId": "617902aa79cdd36be9434137",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png"
+    },
+    "binance-smart-chain-wSOTE": {
+      "network": "binance-smart-chain",
+      "name": "wSOTE",
+      "decimal": 18,
+      "address": "0x541e619858737031a1244a5d0cd47e5ef480342c",
+      "symbol": "wSOTE",
+      "format_address": "",
+      "cmcId": "8381",
+      "cgkId": "soteria",
+      "assetId": "617902aa79cdd36be9434139",
+      "suffix": "BEP20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8381.png"
+    },
+    "binance-smart-chain-HELMET": {
+      "network": "binance-smart-chain",
+      "name": "HELMET",
+      "decimal": 18,
+      "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
+      "symbol": "HELMET",
+      "format_address": "",
+      "cmcId": "8265",
+      "cgkId": "helmet-insure",
+      "assetId": "617902aa79cdd36be943413a",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8265.png"
+    },
+    "binance-smart-chain-ZDCASH": {
+      "network": "binance-smart-chain",
+      "name": "ZDCASH",
+      "decimal": 18,
+      "address": "0xd0759956fae5f5e55c84fdff2341b93d0303a62d",
+      "symbol": "ZDCASH",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be943413c",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/zdcash-128x128.png"
+    },
+    "binance-smart-chain-TOOLS": {
+      "network": "binance-smart-chain",
+      "name": "TOOLS",
+      "decimal": 18,
+      "address": "0x1311b352467d2b5c296881badea82850bcd8f886",
+      "symbol": "TOOLS",
+      "format_address": "",
+      "cmcId": "8866",
+      "cgkId": "tools",
+      "assetId": "617902aa79cdd36be943413d",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/bsctools/bsctools-documentation/main/bsc-tools-logo.png"
+    },
+    "ethereum-CGG": {
+      "network": "ethereum",
+      "name": "CGG",
+      "decimal": 18,
+      "address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+      "symbol": "CGG",
+      "format_address": "",
+      "cmcId": "8648",
+      "cgkId": "chain-guardians",
+      "assetId": "617902aa79cdd36be943413e",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8648.png"
+    },
+    "ethereum-SWG": {
+      "network": "ethereum",
+      "name": "Swirge",
+      "decimal": 18,
+      "address": "0x92ef4ffbfe0df030837b65d7fccfe1abd6549579",
+      "symbol": "SWG",
+      "format_address": "",
+      "cmcId": "7467",
+      "cgkId": "swirge",
+      "assetId": "617902aa79cdd36be943413f",
+      "suffix": "ERC20",
+      "logo": "https://assets.coingecko.com/coins/images/12879/small/swirge_logo.png"
+    },
+    "binance-smart-chain-SWGb": {
+      "network": "binance-smart-chain",
+      "name": "Swirge (BEP20)",
+      "decimal": 18,
+      "address": "0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb",
+      "symbol": "SWGb",
+      "format_address": "",
+      "cmcId": "7467",
+      "cgkId": "swirge",
+      "assetId": "617902aa79cdd36be943413f",
+      "suffix": "BSC",
+      "logo": "https://assets.coingecko.com/coins/images/12879/small/swirge_logo.png"
+    },
+    "binance-smart-chain-BRY": {
+      "network": "binance-smart-chain",
+      "name": "Berry Tributes",
+      "decimal": 18,
+      "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+      "symbol": "BRY",
+      "format_address": "",
+      "cmcId": "8483",
+      "cgkId": "berry-data",
+      "assetId": "617902aa79cdd36be9434140",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8483.png"
+    },
+    "ethereum-Rowan": {
+      "network": "ethereum",
+      "name": "Sifchain",
+      "decimal": 18,
+      "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
+      "symbol": "Rowan",
+      "format_address": "",
+      "cmcId": "8541",
+      "cgkId": "sifchain",
+      "assetId": "617902aa79cdd36be9434141",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8541.png"
+    },
+    "ethereum-TPT": {
+      "network": "ethereum",
+      "name": "TokenPocket",
+      "decimal": 4,
+      "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
+      "symbol": "TPT",
+      "format_address": "",
+      "cmcId": "5947",
+      "cgkId": "token-pocket",
+      "assetId": "617902aa79cdd36be9434142",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5947.png"
+    },
+    "binance-smart-chain-TPT": {
+      "network": "binance-smart-chain",
+      "name": "TokenPocket BEP20",
+      "decimal": 4,
+      "address": "0xeca41281c24451168a37211f0bc2b8645af45092",
+      "symbol": "TPT",
+      "format_address": "",
+      "cmcId": "5947",
+      "cgkId": "token-pocket",
+      "assetId": "617902aa79cdd36be9434142",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5947.png"
+    },
+    "binance-smart-chain-BFI": {
+      "network": "binance-smart-chain",
+      "name": "BearnFi",
+      "decimal": 18,
+      "address": "0x81859801b01764d4f0fa5e64729f5a6c3b91435b",
+      "symbol": "BFI",
+      "format_address": "",
+      "cmcId": "8796",
+      "cgkId": "bearn-fi",
+      "assetId": "617902aa79cdd36be9434143",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8796.png"
+    },
+    "ethereum-SHOPX": {
+      "network": "ethereum",
+      "name": "SHOPX",
+      "decimal": 18,
+      "address": "0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+      "symbol": "SHOPX",
+      "format_address": "",
+      "cmcId": "8863",
+      "cgkId": "splyt",
+      "assetId": "617902aa79cdd36be9434144",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8863.png"
+    },
+    "binance-smart-chain-BUNNY": {
+      "network": "binance-smart-chain",
+      "name": "BUNNY",
+      "decimal": 18,
+      "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "symbol": "BUNNY",
+      "format_address": "",
+      "cmcId": "7791",
+      "cgkId": "pancake bunny",
+      "assetId": "617902aa79cdd36be9434146",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7791.png"
+    },
+    "binance-smart-chain-UST": {
+      "network": "binance-smart-chain",
+      "name": "UST BEP20",
+      "decimal": 18,
+      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+      "symbol": "UST",
+      "format_address": "",
+      "cmcId": "7129",
+      "cgkId": "terra-usd",
+      "assetId": "617902aa79cdd36be9434147",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png"
+    },
+    "binance-smart-chain-SUSHI": {
+      "network": "binance-smart-chain",
+      "name": "SUSHI BEP20",
+      "decimal": 18,
+      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "symbol": "SUSHI",
+      "format_address": "",
+      "cmcId": "6758",
+      "cgkId": "sushi",
+      "assetId": "617902aa79cdd36be9434148",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+    },
+    "binance-smart-chain-COMP": {
+      "network": "binance-smart-chain",
+      "name": "COMP BEP20",
+      "decimal": 18,
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "symbol": "COMP",
+      "format_address": "",
+      "cmcId": "5692",
+      "cgkId": "compound",
+      "assetId": "617902aa79cdd36be9434149",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png"
+    },
+    "binance-smart-chain-XPO": {
+      "network": "binance-smart-chain",
+      "name": "XPOOL",
+      "decimal": 18,
+      "address": "0xebb59cebfb63f218db6b5094dc14abf34d56d35d",
+      "symbol": "XPO",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "xpool",
+      "assetId": "617902aa79cdd36be943414a",
+      "suffix": "BSC",
+      "logo": "https://avatars.githubusercontent.com/u/80105262"
+    },
+    "ethereum-FNX": {
+      "network": "ethereum",
+      "name": "FNX",
+      "decimal": 18,
+      "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+      "symbol": "FNX",
+      "format_address": "",
+      "cmcId": "5712",
+      "cgkId": "finnexus",
+      "assetId": "617902aa79cdd36be943414c",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5712.png"
+    },
+    "binance-smart-chain-bBADGER": {
+      "network": "binance-smart-chain",
+      "name": "BADGER BEP20",
+      "decimal": 18,
+      "address": "0x1f7216fdb338247512ec99715587bb97bbf96eae",
+      "symbol": "bBADGER",
+      "format_address": "",
+      "cmcId": "7859",
+      "cgkId": "badger-dao",
+      "assetId": "617902aa79cdd36be943414d",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png"
+    },
+    "binance-smart-chain-SFP": {
+      "network": "binance-smart-chain",
+      "name": "SFP",
+      "decimal": 18,
+      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+      "symbol": "SFP",
+      "format_address": "",
+      "cmcId": "8119",
+      "cgkId": "safepal",
+      "assetId": "617902aa79cdd36be943414e",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png"
+    },
+    "binance-smart-chain-ZIL": {
+      "network": "binance-smart-chain",
+      "name": "ZIL BEP20",
+      "decimal": 12,
+      "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+      "symbol": "ZIL",
+      "format_address": "",
+      "cmcId": "2469",
+      "cgkId": "zilliqa",
+      "assetId": "617902aa79cdd36be943414f",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png"
+    },
+    "binance-smart-chain-LIT": {
+      "network": "binance-smart-chain",
+      "name": "LIT BEP20",
+      "decimal": 18,
+      "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "symbol": "LIT",
+      "format_address": "",
+      "cmcId": "6833",
+      "cgkId": "litentry",
+      "assetId": "617902aa79cdd36be9434150",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6833.png"
+    },
+    "binance-smart-chain-DODO": {
+      "network": "binance-smart-chain",
+      "name": "DODO BEP20",
+      "decimal": 18,
+      "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
+      "symbol": "DODO",
+      "format_address": "",
+      "cmcId": "7224",
+      "cgkId": "dodo",
+      "assetId": "617902aa79cdd36be9434151",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png"
+    },
+    "binance-smart-chain-bDIGG": {
+      "network": "binance-smart-chain",
+      "name": "DIGG BEP20",
+      "decimal": 18,
+      "address": "0x5986d5c77c65e5801a5caa4fae80089f870a71da",
+      "symbol": "bDIGG",
+      "format_address": "",
+      "cmcId": "8307",
+      "cgkId": "digg",
+      "assetId": "617902aa79cdd36be9434152",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8307.png"
+    },
+    "binance-smart-chain-ALICE": {
+      "network": "binance-smart-chain",
+      "name": "ALICE",
+      "decimal": 6,
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "symbol": "ALICE",
+      "format_address": "",
+      "cmcId": "8766",
+      "cgkId": "my-neighbor-alice",
+      "assetId": "617902aa79cdd36be9434153",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png"
+    },
+    "binance-smart-chain-NRV": {
+      "network": "binance-smart-chain",
+      "name": "NRV BEP20",
+      "decimal": 18,
+      "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+      "symbol": "NRV",
+      "format_address": "",
+      "cmcId": "8755",
+      "cgkId": "nerve-finance",
+      "assetId": "617902aa79cdd36be9434154",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8755.png"
+    },
+    "binance-smart-chain-BEL": {
+      "network": "binance-smart-chain",
+      "name": "BEL BEP20",
+      "decimal": 18,
+      "address": "0x8443f091997f06a61670b735ed92734f5628692f",
+      "symbol": "BEL",
+      "format_address": "",
+      "cmcId": "6928",
+      "cgkId": "bella-protocol",
+      "assetId": "617902aa79cdd36be9434155",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png"
+    },
+    "binance-smart-chain-SWTH": {
+      "network": "binance-smart-chain",
+      "name": "SWTH BEP20",
+      "decimal": 8,
+      "address": "0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c",
+      "symbol": "SWTH",
+      "format_address": "",
+      "cmcId": "2620",
+      "cgkId": "switcheo",
+      "assetId": "617902aa79cdd36be943415b",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2620.png"
+    },
+    "binance-smart-chain-FRONT": {
+      "network": "binance-smart-chain",
+      "name": "FRONT BEP20",
+      "decimal": 18,
+      "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+      "symbol": "FRONT",
+      "format_address": "",
+      "cmcId": "5893",
+      "cgkId": "frontier",
+      "assetId": "617902aa79cdd36be9434156",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png"
+    },
+    "binance-smart-chain-BTCST": {
+      "network": "binance-smart-chain",
+      "name": "BTCST BEP20",
+      "decimal": 18,
+      "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+      "symbol": "BTCST",
+      "format_address": "",
+      "cmcId": "8891",
+      "cgkId": "btc-standard-hashrate-token",
+      "assetId": "617902aa79cdd36be9434157",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8891.png"
+    },
+    "binance-smart-chain-EGLD": {
+      "network": "binance-smart-chain",
+      "name": "EGLD BEP20",
+      "decimal": 18,
+      "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+      "symbol": "EGLD",
+      "format_address": "",
+      "cmcId": "6892",
+      "cgkId": "elrond",
+      "assetId": "617902aa79cdd36be9434158",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png"
+    },
+    "binance-smart-chain-IOTX": {
+      "network": "binance-smart-chain",
+      "name": "IOTX",
+      "decimal": 18,
+      "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+      "symbol": "IOTX",
+      "format_address": "",
+      "cmcId": "2777",
+      "cgkId": "iotex",
+      "assetId": "617902aa79cdd36be943416b",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png"
+    },
+    "binance-smart-chain-LINA": {
+      "network": "binance-smart-chain",
+      "name": "LINA BEP20",
+      "decimal": 18,
+      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+      "symbol": "LINA",
+      "format_address": "",
+      "cmcId": "7102",
+      "cgkId": "linear",
+      "assetId": "617902aa79cdd36be9434159",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7102.png"
+    },
+    "binance-smart-chain-WATCH": {
+      "network": "binance-smart-chain",
+      "name": "WATCH BEP20",
+      "decimal": 18,
+      "address": "0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0",
+      "symbol": "WATCH",
+      "format_address": "",
+      "cmcId": "8621",
+      "cgkId": "yieldwatch",
+      "assetId": "617902aa79cdd36be943415a",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8621.png"
+    },
+    "binance-smart-chain-ITAM": {
+      "network": "binance-smart-chain",
+      "name": "ITAM BEP20",
+      "decimal": 18,
+      "address": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
+      "symbol": "ITAM",
+      "format_address": "",
+      "cmcId": "6490",
+      "cgkId": "itam-games",
+      "assetId": "617902aa79cdd36be943415c",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6490.png"
+    },
+    "ethereum-BYN": {
+      "network": "ethereum",
+      "name": "Beyond Finance",
+      "decimal": 18,
+      "address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+      "symbol": "BYN",
+      "format_address": "",
+      "cmcId": "9134",
+      "cgkId": "beyond-finance",
+      "assetId": "617902aa79cdd36be943415d",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9134.png"
+    },
+    "binance-smart-chain-ZD": {
+      "network": "binance-smart-chain",
+      "name": "ZD BEP20",
+      "decimal": 18,
+      "address": "0x54ab0d67cf969203400449c3c35b21c828d51fcd",
+      "symbol": "ZD",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be94340d6",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/token-native.svg"
+    },
+    "binance-smart-chain-TWIN": {
+      "network": "binance-smart-chain",
+      "name": "TWINCI BEP20",
+      "decimal": 18,
+      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+      "symbol": "TWIN",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "twinci",
+      "assetId": "617902aa79cdd36be943415e",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/twinciio/twinci-icon/master/images/twinci-logo-128.png"
+    },
+    "binance-smart-chain-TKO": {
+      "network": "binance-smart-chain",
+      "name": "TKO BEP20",
+      "decimal": 18,
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "symbol": "TKO",
+      "format_address": "",
+      "cmcId": "9020",
+      "cgkId": "tokocrypto",
+      "assetId": "617902aa79cdd36be943415f",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png"
+    },
+    "binance-smart-chain-ARPA": {
+      "network": "binance-smart-chain",
+      "name": "ARPA BEP20",
+      "decimal": 18,
+      "address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+      "symbol": "ARPA",
+      "format_address": "",
+      "cmcId": "4039",
+      "cgkId": "arpa-chain",
+      "assetId": "617902aa79cdd36be9434160",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png"
+    },
+    "binance-smart-chain-UNFI": {
+      "network": "binance-smart-chain",
+      "name": "UNFI BEP20",
+      "decimal": 18,
+      "address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b",
+      "symbol": "UNFI",
+      "format_address": "",
+      "cmcId": "7672",
+      "cgkId": "unifi-protocol-dao",
+      "assetId": "617902aa79cdd36be9434161",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7672.png"
+    },
+    "binance-smart-chain-DINO": {
+      "network": "binance-smart-chain",
+      "name": "DINO BEP20",
+      "decimal": 18,
+      "address": "0xf317932ee2C30fa5d0E14416775977801734812D",
+      "symbol": "DINO",
+      "format_address": "",
+      "cmcId": "9621",
+      "cgkId": "dino-exchange",
+      "assetId": "617902aa79cdd36be9434162",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9621.png"
+    },
+    "binance-smart-chain-DPET": {
+      "network": "binance-smart-chain",
+      "name": "DPET",
+      "decimal": 18,
+      "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+      "symbol": "DPET",
+      "format_address": "",
+      "cmcId": "9665",
+      "cgkId": "my-defi-pet",
+      "assetId": "617902aa79cdd36be9434163",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9665.png"
+    },
+    "binance-smart-chain-ROSN": {
+      "network": "binance-smart-chain",
+      "name": "ROSEON",
+      "decimal": 18,
+      "address": "0x651cd665bd558175a956fb3d72206ea08eb3df5b",
+      "symbol": "ROSN",
+      "format_address": "",
+      "cmcId": "9783",
+      "cgkId": "roseon-finance",
+      "assetId": "617902aa79cdd36be9434164",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png"
+    },
+    "binance-smart-chain-BELT ": {
+      "network": "binance-smart-chain",
+      "name": "BELT",
+      "decimal": 18,
+      "address": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+      "symbol": "BELT ",
+      "format_address": "",
+      "cmcId": "8730",
+      "cgkId": "belt",
+      "assetId": "617902aa79cdd36be9434165",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8730.png"
+    },
+    "binance-smart-chain-Bondly": {
+      "network": "binance-smart-chain",
+      "name": "Bondly",
+      "decimal": 18,
+      "address": "0x96058f8c3e16576d9bd68766f3836d9a33158f89",
+      "symbol": "Bondly",
+      "format_address": "",
+      "cmcId": "7931",
+      "cgkId": "bondly",
+      "assetId": "617902aa79cdd36be9434166",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7931.png"
+    },
+    "binance-smart-chain-FOC": {
+      "network": "binance-smart-chain",
+      "name": "FOC",
+      "decimal": 18,
+      "address": "0x3051CFb958dcD408FBa70256073Adba943Fdf552",
+      "symbol": "FOC",
+      "format_address": "",
+      "cmcId": "9259",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434167",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9259.png"
+    },
+    "binance-smart-chain-BARMY": {
+      "network": "binance-smart-chain",
+      "name": "BSCARMY",
+      "decimal": 9,
+      "address": "0x2c80bc9bfa4ec680efb949c51806bddee5ac8299",
+      "symbol": "BARMY",
+      "format_address": "",
+      "cmcId": "10340",
+      "cgkId": "bscarmy",
+      "assetId": "617902aa79cdd36be9434168",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10340.png"
+    },
+    "binance-smart-chain-BAMI": {
+      "network": "binance-smart-chain",
+      "name": "BAMI",
+      "decimal": 18,
+      "address": "0x8249bc1dea00660d2d38df126b53c6c9a733e942",
+      "symbol": "BAMI",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434169",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/bamidefi/smart-contracts/master/Logo_Bami_kh%C3%B4ng%20ch%E1%BB%AF.png"
+    },
+    "binance-smart-chain-NULS": {
+      "network": "binance-smart-chain",
+      "name": "NULS",
+      "decimal": 8,
+      "address": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+      "symbol": "NULS",
+      "format_address": "",
+      "cmcId": "2092",
+      "cgkId": "nuls",
+      "assetId": "617902aa79cdd36be943416a",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png"
+    },
+    "ethereum-DHV": {
+      "network": "ethereum",
+      "name": "Dehive",
+      "decimal": 18,
+      "address": "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A",
+      "symbol": "DHV",
+      "format_address": "",
+      "cmcId": "8867",
+      "cgkId": "dehive",
+      "assetId": "617902aa79cdd36be943416c",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8867.png"
+    },
+    "ethereum-SHO": {
+      "network": "ethereum",
+      "name": "SHOWCASE",
+      "decimal": 18,
+      "address": "0xcc0014ccb39f6e86b1be0f17859a783b6722722f",
+      "symbol": "SHO",
+      "format_address": "",
+      "cmcId": "6540",
+      "cgkId": "showcase-token",
+      "assetId": "617902aa79cdd36be943416d",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6540.png"
+    },
+    "ethereum-RAGE": {
+      "network": "ethereum",
+      "name": "RAGE FAN",
+      "decimal": 18,
+      "address": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
+      "symbol": "RAGE",
+      "format_address": "",
+      "cmcId": "8862",
+      "cgkId": "rage-fan",
+      "assetId": "617902aa79cdd36be943416e",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8862.png"
+    },
+    "ethereum-KALLY": {
+      "network": "ethereum",
+      "name": "Polkally",
+      "decimal": 18,
+      "address": "0xfd30c9bea1a952feeed2ef2c6b2ff8a8fc4aad07",
+      "symbol": "KALLY",
+      "format_address": "",
+      "cmcId": "9631",
+      "cgkId": "polkally",
+      "assetId": "617902aa79cdd36be943416f",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9631.png"
+    },
+    "polygon-USDC": {
+      "network": "polygon",
+      "name": "USDC Polygon",
+      "decimal": 6,
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "format_address": "",
+      "cmcId": "3408",
+      "cgkId": "usd-coin",
+      "assetId": "617902aa79cdd36be94340ed",
+      "suffix": "Polygon",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    "polygon-USDT": {
+      "network": "polygon",
+      "name": "USDT PoS",
+      "decimal": 6,
+      "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "symbol": "USDT",
+      "format_address": "",
+      "cmcId": " 825",
+      "cgkId": "tether",
+      "assetId": "617902aa79cdd36be94340f9",
+      "suffix": "Polygon",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    "polygon-CPIE": {
+      "network": "polygon",
+      "name": "CremePieSwap",
+      "decimal": 18,
+      "address": "0xfad70FD116559914240faB82b0078c4E82a6a1B8",
+      "symbol": "CPIE",
+      "format_address": "",
+      "cmcId": "10843",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434170",
+      "suffix": "Polygon",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/circle-cremepie-icon.png"
+    },
+    "binance-smart-chain-LZ": {
+      "network": "binance-smart-chain",
+      "name": "LaunchZone",
+      "decimal": 18,
+      "address": "0x3B78458981eB7260d1f781cb8be2CaAC7027DbE2",
+      "symbol": "LZ",
+      "format_address": "",
+      "cmcId": "11480",
+      "cgkId": "launchzone",
+      "assetId": "617902aa79cdd36be9434171",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/lz-logo.png"
+    },
+    "binance-smart-chain-LZP": {
+      "network": "binance-smart-chain",
+      "name": "LZP",
+      "decimal": 18,
+      "address": "0x4211959585C8F18B06dab8B5bB0Bc825cad4c1De",
+      "symbol": "LZP",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "lzp",
+      "assetId": "617902aa79cdd36be9434172",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/128x128%20lzp.png"
+    },
+    "avalanche-USDT": {
+      "network": "avalanche",
+      "name": "USDT ARC20",
+      "decimal": 6,
+      "address": "0xde3A24028580884448a5397872046a019649b084",
+      "symbol": "USDT",
+      "format_address": "",
+      "cmcId": "825",
+      "cgkId": "tether",
+      "assetId": "617902aa79cdd36be94340f9",
+      "suffix": "Avalanche",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    "ethereum-BURP": {
+      "network": "ethereum",
+      "name": "BURP",
+      "decimal": 18,
+      "address": "0x33f391f4c4fe802b70b77ae37670037a92114a7c",
+      "symbol": "BURP",
+      "format_address": "",
+      "cmcId": "10713",
+      "cgkId": "coinburp",
+      "assetId": "617902aa79cdd36be9434173",
+      "suffix": "ERC20",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10713.png"
+    },
+    "binance-smart-chain-DXCT": {
+      "network": "binance-smart-chain",
+      "name": "DNAxCAT",
+      "decimal": 18,
+      "address": "0x5b1baec64af6dc54e6e04349315919129a6d3c23",
+      "symbol": "DXCT",
+      "format_address": "",
+      "cmcId": "11211",
+      "cgkId": "dnaxcat",
+      "assetId": "617902aa79cdd36be9434174",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11211.png"
+    },
+    "binance-smart-chain-O3": {
+      "network": "binance-smart-chain",
+      "name": "O3",
+      "decimal": 18,
+      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "symbol": "O3",
+      "format_address": "",
+      "cmcId": "9588",
+      "cgkId": "o3-swap",
+      "assetId": "617902aa79cdd36be9434175",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9588.png"
+    },
+    "binance-smart-chain-FAM": {
+      "network": "binance-smart-chain",
+      "name": "FAM",
+      "decimal": 18,
+      "address": "0x4556A6f454f15C4cD57167a62bdA65A6be325D1F",
+      "symbol": "FAM",
+      "format_address": "",
+      "cmcId": "11565",
+      "cgkId": "fam-token",
+      "assetId": "617902aa79cdd36be9434176",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/famcentral/Materials/main/logo_FAM_128px.png"
+    },
+    "binance-smart-chain-HERO": {
+      "network": "binance-smart-chain",
+      "name": "StepHero",
+      "decimal": 18,
+      "address": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+      "symbol": "HERO",
+      "format_address": "",
+      "cmcId": "11067",
+      "cgkId": "step-hero",
+      "assetId": "617902aa79cdd36be9434177",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11067.png"
+    },
+    "binance-smart-chain-USDZ": {
+      "network": "binance-smart-chain",
+      "name": "USDZ",
+      "decimal": 18,
+      "address": "0xc4fffbf8394b99c383846aa9b0eaf4a8f96dea8f",
+      "symbol": "USDZ",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "61a3a92100922f1e7a0384c1",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/ca740b5145a9c3e64c67de5fe2cc05763ce30012/usdz-logo/usdz-icon.png"
+    },
+    "binance-smart-chain-HEROEGG": {
+      "network": "binance-smart-chain",
+      "name": "HEROFIEGG",
+      "decimal": 18,
+      "address": "0xcfBb1BfA710cb2ebA070CC3beC0C35226FeA4BAF",
+      "symbol": "HEROEGG",
+      "format_address": "",
+      "cmcId": "11605",
+      "cgkId": "herofi",
+      "assetId": "617902aa79cdd36be9434178",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11605.png"
+    },
+    "binance-smart-chain-FIWA": {
+      "network": "binance-smart-chain",
+      "name": "DefiWarrior",
+      "decimal": 18,
+      "address": "0x633237c6fa30fae46cc5bb22014da30e50a718cc",
+      "symbol": "FIWA",
+      "format_address": "",
+      "cmcId": "11670",
+      "cgkId": "defi-warrior",
+      "assetId": "617902aa79cdd36be9434179",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11670.png"
+    },
+    "binance-smart-chain-THG": {
+      "network": "binance-smart-chain",
+      "name": "Thetan",
+      "decimal": 18,
+      "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
+      "symbol": "THG",
+      "format_address": "",
+      "cmcId": "thetan-arena",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be943417a",
+      "suffix": "BSC",
+      "logo": "https://thetanarena.com/images/theta-arena/Page1_IconThetaArena.png"
+    },
+    "polygon-MATIC": {
+      "network": "polygon",
+      "name": "MATIC",
+      "decimal": 18,
+      "address": "",
+      "symbol": "MATIC",
+      "format_address": "",
+      "cmcId": "3890",
+      "cgkId": "matic-network",
+      "assetId": "617902aa79cdd36be943410e",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    "avalanche-AVAX": {
+      "network": "avalanche",
+      "name": "AVAX",
+      "decimal": 18,
+      "address": "",
+      "symbol": "AVAX",
+      "format_address": "",
+      "cmcId": "5805",
+      "cgkId": "avalanche-2",
+      "assetId": "617902aa79cdd36be943410a",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png"
+    },
+    "binance-smart-chain-1INCH": {
+      "network": "binance-smart-chain",
+      "name": "1INCH BEP20",
+      "decimal": 18,
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "symbol": "1INCH",
+      "format_address": "",
+      "cmcId": "8104",
+      "cgkId": "1inch",
+      "assetId": "617902aa79cdd36be9434118",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png"
+    },
+    "KCC-KCS": {
+      "network": "KCC",
+      "name": "KCS",
+      "decimal": 18,
+      "address": "",
+      "symbol": "KCS",
+      "format_address": "",
+      "cmcId": "2087",
+      "cgkId": "kucoin-shares",
+      "assetId": "617a2b7379cdd36be9434182",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png"
+    },
+    "binance-smart-chain-ROFI": {
+      "network": "binance-smart-chain",
+      "name": "HEROFI",
+      "decimal": 18,
+      "address": "0x3244B3B6030f374bAFA5F8f80Ec2F06aAf104B64",
+      "symbol": "ROFI",
+      "format_address": "",
+      "cmcId": "13164",
+      "cgkId": "herofi-token",
+      "assetId": "617902aa79cdd36be943417b",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13164.png"
+    },
+    "binance-smart-chain-HERON": {
+      "network": "binance-smart-chain",
+      "name": "HERON",
+      "decimal": 18,
+      "address": "0x90451265fd0598e088e42c1768d6211f0978954a",
+      "symbol": "HERON",
+      "format_address": "",
+      "cmcId": "13045",
+      "cgkId": "",
+      "assetId": "618007dd79cdd36be9434183",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13045.png"
+    },
+    "binance-smart-chain-NINO": {
+      "network": "binance-smart-chain",
+      "name": "Ninneko",
+      "decimal": 18,
+      "address": "0x6CAD12b3618a3C7ef1FEb6C91FdC3251f58c2a90",
+      "symbol": "NINO",
+      "format_address": "",
+      "cmcId": "13216",
+      "cgkId": "ninneko",
+      "assetId": "618536187d9cfc4cdb5ac420",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13216.png"
+    },
+    "binance-smart-chain-KART": {
+      "network": "binance-smart-chain",
+      "name": "Dragon Kart",
+      "decimal": 18,
+      "address": "0x8bdd8dbcbdf0c066ca5f3286d33673aa7a553c10",
+      "symbol": "KART",
+      "format_address": "",
+      "cmcId": "12614",
+      "cgkId": "dragon-kart-token",
+      "assetId": "618554697d9cfc4cdb5ac422",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12614.png"
+    },
+    "ethereum-Bondly": {
+      "network": "ethereum",
+      "name": "Bondly ERC20",
+      "decimal": 18,
+      "address": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
+      "symbol": "Bondly",
+      "format_address": "",
+      "cmcId": "7391",
+      "cgkId": "Bondly",
+      "assetId": "617902aa79cdd36be9434166",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7931.png"
+    },
+    "binance-smart-chain-ZDOLD": {
+      "network": "binance-smart-chain",
+      "name": "ZD OLD BEP20",
+      "decimal": 18,
+      "address": "0x1c213179c2c08906fb759878860652a61727ed14",
+      "symbol": "ZDOLD",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434113",
+      "suffix": "BSC",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/token-native.svg"
+    },
+    "ezdefi-ZDOLD": {
+      "network": "ezdefi",
+      "name": "ZD OLD",
+      "decimal": 18,
+      "address": "",
+      "symbol": "ZDOLD",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434113",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/token-native.svg"
+    },
+    "binance-smart-chain-BCOIN": {
+      "network": "binance-smart-chain",
+      "name": "Bomber Coin",
+      "decimal": 18,
+      "address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
+      "symbol": "BCOIN",
+      "format_address": "",
+      "cmcId": "12252",
+      "cgkId": "bomber-coin",
+      "assetId": "618e2068c4da515f3b6f0616",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12252.png"
+    },
+    "binance-smart-chain-DYT": {
+      "network": "binance-smart-chain",
+      "name": "Dynasty",
+      "decimal": 18,
+      "address": "0x1802a63EFe3255aBC3004F8e63047dB96300bd1c",
+      "symbol": "DYT",
+      "format_address": "",
+      "cmcId": "14357",
+      "cgkId": "the-dynasty",
+      "assetId": "618e6324c4da515f3b6f0618",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14357.png"
+    },
+    "binance-smart-chain-ZUKI": {
+      "network": "binance-smart-chain",
+      "name": "ZUKI MOBA",
+      "decimal": 18,
+      "address": "0xe81257d932280ae440b17afc5f07c8a110d21432",
+      "symbol": "ZUKI",
+      "format_address": "",
+      "cmcId": "14136",
+      "cgkId": "zuki-moba",
+      "assetId": "619912ebc4da515f3b6f061b",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14136.png"
+    },
+    "binance-smart-chain-zSeed": {
+      "network": "binance-smart-chain",
+      "name": "zSeed BEP20",
+      "decimal": 18,
+      "address": "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5",
+      "symbol": "zSeed",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434110",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/icon-128x128.png"
+    },
+    "ezdefi-zSeed": {
+      "network": "ezdefi",
+      "name": "zSeed EZRC20",
+      "decimal": 18,
+      "address": "0x79671543c915A2382F88FdFc640aA4166D1A093E",
+      "symbol": "zSeed",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "617902aa79cdd36be9434110",
+      "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/icon-128x128.png"
+    },
+    "binance-smart-chain-HTD": {
+      "network": "binance-smart-chain",
+      "name": "Heroes TD",
+      "decimal": 18,
+      "address": "0x5E2689412Fae5c29BD575fbe1d5C1CD1e0622A8f",
+      "symbol": "HTD",
+      "format_address": "",
+      "cmcId": "14422",
+      "cgkId": "heroes-td",
+      "assetId": "61a39f8100922f1e7a0384bf",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14422.png"
+    },
+    "binance-smart-chain-DOR": {
+      "network": "binance-smart-chain",
+      "name": "Doragon Land",
+      "decimal": 18,
+      "address": "0x3465fD2D9f900e34280aBab60E8d9987B5b5bb47",
+      "symbol": "DOR",
+      "format_address": "",
+      "cmcId": "13977",
+      "cgkId": "doragonland",
+      "assetId": "61a7937800922f1e7a0384c2",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13977.png"
+    },
+    "binance-smart-chain-CATO": {
+      "network": "binance-smart-chain",
+      "name": "Canon Crypto",
+      "decimal": 18,
+      "address": "0x97667aeb10b6916001b5431f980c30fb8a9ce4b4",
+      "symbol": "CATO",
+      "format_address": "",
+      "cmcId": "14839",
+      "cgkId": "",
+      "assetId": "61a8d76e00922f1e7a0384c4",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14839.png"
+    },
+    "binance-smart-chain-BELLY": {
+      "network": "binance-smart-chain",
+      "name": "Crypto Piece",
+      "decimal": 18,
+      "address": "0x3dfa90540cCDC77d543E6e61cacD5880F5C62391",
+      "symbol": "BELLY",
+      "format_address": "",
+      "cmcId": "15703",
+      "cgkId": "",
+      "assetId": "61c0a92b00922f1e7a0384c6",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15703.png"
+    },
+    "binance-smart-chain-SPG": {
+      "network": "binance-smart-chain",
+      "name": "Space Crypto",
+      "decimal": 18,
+      "address": "0x0ecAF010fC192E2d5cBeB4dFb1FeE20fbd733aa1",
+      "symbol": "SPG",
+      "format_address": "",
+      "cmcId": "15529",
+      "cgkId": "",
+      "assetId": "61c8e4be00922f1e7a0384c8",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15529.png"
+    },
+    "binance-smart-chain-GWT": {
+      "network": "binance-smart-chain",
+      "name": "Galaxy War",
+      "decimal": 18,
+      "address": "0x552594612f935441c01c6854edf111f343c1ca07",
+      "symbol": "GWT",
+      "format_address": "",
+      "cmcId": "13236",
+      "cgkId": "galaxy-war",
+      "assetId": "61d1aa2600922f1e7a0384ca",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13236.png"
+    },
+    "binance-smart-chain-LUS": {
+      "network": "binance-smart-chain",
+      "name": "Luna Rush",
+      "decimal": 18,
+      "address": "0xde301d6a2569aefcfe271b9d98f318baee1d30a4",
+      "symbol": "LUS",
+      "format_address": "",
+      "cmcId": "16197",
+      "cgkId": "",
+      "assetId": "61d5c54400922f1e7a0384cc",
+      "suffix": "BSC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16197.png"
+    },
+    "binance-smart-chain-F2C": {
+      "network": "binance-smart-chain",
+      "name": "Ftribe Fighters (F2 NFT)",
+      "decimal": 18,
+      "address": "0x657b632714e08ac66b79444ad3f3875526ee6689",
+      "symbol": "F2C",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "61d993ee00922f1e7a0384ce",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15951.png"
+    },
+    "binance-smart-chain-TBL": {
+      "network": "binance-smart-chain",
+      "name": "Tank Battle",
+      "decimal": 18,
+      "address": "0x59f6b2435cd1421f409907ad2d9f811849ca555f",
+      "symbol": "TBL",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "61ed67bc00922f1e7a0384d0",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15695.png"
+    },
+    "binance-smart-chain-MATA": {
+      "network": "binance-smart-chain",
+      "name": "Ninneko (Mata)",
+      "decimal": 18,
+      "address": "0x175facdd947c995ad547f6ad952d26826758a4da",
+      "symbol": "MATA",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "61ee891f00922f1e7a0384d2",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17578.png"
+    },
+    "binance-smart-chain-ULAB": {
+      "network": "binance-smart-chain",
+      "name": "Unilab",
+      "decimal": 18,
+      "address": "0x7111e5c9b01ffa18957b1aa27e9cb0e8fba214f5",
+      "symbol": "ULAB",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "61f5660e00922f1e7a0384d4",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16899.png"
+    },
+    "binance-smart-chain-GEAR": {
+      "network": "binance-smart-chain",
+      "name": "MetaGear",
+      "decimal": 18,
+      "address": "0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36",
+      "symbol": "GEAR",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "61f7c6e400922f1e7a0384d6",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15761.png"
+    },
+    "binance-smart-chain-STman": {
+      "network": "binance-smart-chain",
+      "name": "STMAN | Stickman's Battleground NFT Game",
+      "decimal": 18,
+      "address": "0xb75088a5d75e9ff7264abc7d25721e4436ec309d",
+      "symbol": "STman",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "623c94a8f9a89d81aba411c4",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15515.png"
+    },
+    "binance-smart-chain-MST": {
+      "network": "binance-smart-chain",
+      "name": "MStation Token",
+      "decimal": 18,
+      "address": "0xe7Af3fcC9cB79243f76947402117D98918Bd88Ea",
+      "symbol": "MST",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "6244634ff9a89d26b4a7af37",
+      "logo": "https://pbs.twimg.com/profile_images/1487992398722793474/xkjby5hf_400x400.jpg"
+    },
+    "binance-smart-chain-MTB": {
+      "network": "binance-smart-chain",
+      "name": "Metabomb",
+      "decimal": 18,
+      "address": "0x2bad52989afc714c653da8e5c47bf794a8f7b11d",
+      "symbol": "MTB",
+      "format_address": "",
+      "cmcId": "",
+      "cgkId": "",
+      "assetId": "6262c075d2a4e43e0469a6c1",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19299.png"
+    }
+  }
+}
