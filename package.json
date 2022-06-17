@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "jest-json-schema": "^6.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
