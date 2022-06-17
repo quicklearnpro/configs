@@ -1,6 +1,7 @@
 var path = require('path');
 var fs = require('fs');
 const searchFile = './';
+const specialNetwork = ['binancesmart','ethereumclassic', 'TC-TEST', 'bitcoins', 'BTC-TEST']
 
 const isValidJson = (string) => {
     try {
@@ -34,7 +35,9 @@ const getNetworks = () => {
     for(let i = 0; i < networkObj.data.length; i++) {
         networkArr.push(networkObj.data[i].networks)
     }
-    return networkArr
+    let result = networkArr.concat(specialNetwork)
+    console.log(result);
+    return result
 }
 
 const isValidMobile = () => {
