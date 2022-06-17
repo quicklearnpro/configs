@@ -8,7 +8,7 @@ const isValidJson = (string) => {
       JSON.parse(string)
       return true
     } catch (error) {
-      console.log(error.message)
+        console.log(error)
       return false
     }
   }
@@ -17,7 +17,7 @@ const isValidJson = (string) => {
       files = fs.readdirSync(dirPath)
       arrayOfFiles = arrayOfFiles || []
     files.forEach(function (file) {
-        if (file.search('node_module') == -1 && file.search('.git') == -1 && file.search('node_module') == -1) {
+        if (file.search('node_module') == -1 && file.search('.git') == -1 && file.search('yarn') == -1) {
             if (fs.statSync(dirPath + "/" + file).isDirectory()) {
                 arrayOfFiles = getAllFiles(dirPath + "/" + file, arrayOfFiles)
             } else {
@@ -36,7 +36,6 @@ const getNetworks = () => {
         networkArr.push(networkObj.data[i].networks)
     }
     let result = networkArr.concat(specialNetwork)
-    console.log(result);
     return result
 }
 
@@ -95,30 +94,40 @@ const isValidListToken = () => {
 it('validate JSON file', async () => {
     let files = await getAllFiles(searchFile)
     const contents = await Promise.all(files.map((file) => {
-        if((file.search('./wallet/') != -1)){
-            return fs.readFileSync('./' + file, 'utf8')
-        } else if((file.search('.json') != -1)){
-            return fs.readFileSync('./' + file, 'utf8')
-        }
+        if((file.search('wallet/') != -1)){
+            let result = [fs.readFileSync('./' + file, 'utf8'), file]
+            return result
+      } else if((file.search('.json') != -1)){
+        let result = [fs.readFileSync('./' + file, 'utf8'), file]
+            return result
+    }
         return null
     }))
+
     contents.forEach((content) => {
-        expect(isValidJson(content)).toEqual(true)
+        if(content != null){
+            if(isValidJson(content[0]) == true){
+                expect(true).toEqual(true)
+            } else {
+                console.log('!!!! False at ', content[1])
+                expect(false).toEqual(true)
+            }
+        }
     })
 })
 
-test("test validation mobile", () => {
-    isValidMobile()
-})
+// test("test validation mobile", () => {
+//     isValidMobile()
+// })
 
-test("test validation mobilevs", () => {
-    isValidMobilev2()
-})
+// test("test validation mobilevs", () => {
+//     isValidMobilev2()
+// })
 
-test("test validation list-token", () => {
-    isValidToken()
-})
+// test("test validation list-token", () => {
+//     isValidToken()
+// })
 
-test("test validation token", () => {
-    isValidListToken()
-})
+// test("test validation token", () => {
+//     isValidListToken()
+// })
