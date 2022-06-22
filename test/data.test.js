@@ -4,16 +4,6 @@ const jsonlint = require("jsonlint")
 const searchFile = './'
 const specialNetwork = ['binancesmart', 'ethereumclassic', 'TC-TEST', 'bitcoins', 'BTC-TEST']
 
-const isValidJson = (string) => {
-    try {
-        jsonlint.parse(string)
-        return true
-    } catch (error) {
-        console.log(error)
-        return false
-    }
-}
-
 const getAllFiles = (dirPath, arrayOfFiles) => {
     files = fs.readdirSync(dirPath)
     arrayOfFiles = arrayOfFiles || []
@@ -107,12 +97,7 @@ it('validate JSON file', async () => {
 
     contents.forEach((content) => {
         if (content != null) {
-            if (isValidJson(content[0]) == true) {
-                expect(true).toEqual(true)
-            } else {
-                console.log('!!!! False at ', content[1])
-                expect(false).toEqual(true)
-            }
+            jsonlint.parse(content[0])
         }
     })
 })
