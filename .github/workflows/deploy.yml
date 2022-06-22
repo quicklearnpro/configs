@@ -26,31 +26,32 @@ jobs:
       # - run: npm run build --if-present
       - run: npm test
 
-      # - name: Get commit branch and commit message
-      #   run: |
-      #     echo "SHORT_SHA=${{ env.SHA8 }}" >> $GITHUB_ENV
-      #     echo "DOCKER_IMG=${{ env.DOCKER_IMAGE_NAME }}:${{ steps.tagName.outputs.package }}-${{ steps.tagName.outputs.version }}" >> $GITHUB_ENV
-      #     if  [[ '${{ github.event_name }}' == 'push' ]]; then
-      #       echo "COMMIT_BRANCH=$(echo ${GITHUB_REF##*/})" >> $GITHUB_ENV
-      #       echo "COMMIT_MESSAGE<<EOF" >> $GITHUB_ENV
-      #       echo "$(git log --format=%B -n 1 HEAD)" >> $GITHUB_ENV
-      #       echo "EOF" >> $GITHUB_ENV
-      #     elif [[ '${{ github.event_name }}' == 'pull_request' ]]; then
-      #       echo "COMMIT_BRANCH=$GITHUB_HEAD_REF" >> $GITHUB_ENV
-      #       echo "COMMIT_MESSAGE<<EOF" >> $GITHUB_ENV
-      #       echo "$(git log --format=%B -n 1 HEAD^2)" >> $GITHUB_ENV
-      #       echo "EOF" >> $GITHUB_ENV
-      #     fi
+      - name: Get commit branch and commit message
+        run: |
+          echo "SHORT_SHA=${{ env.SHA8 }}" >> $GITHUB_ENV
+          echo "DOCKER_IMG=${{ env.DOCKER_IMAGE_NAME }}:${{ steps.tagName.outputs.package }}-${{ steps.tagName.outputs.version }}" >> $GITHUB_ENV
+          if  [[ '${{ github.event_name }}' == 'push' ]]; then
+            echo "COMMIT_BRANCH=$(echo ${GITHUB_REF##*/})" >> $GITHUB_ENV
+            echo "COMMIT_MESSAGE<<EOF" >> $GITHUB_ENV
+            echo "$(git log --format=%B -n 1 HEAD)" >> $GITHUB_ENV
+            echo "EOF" >> $GITHUB_ENV
+          elif [[ '${{ github.event_name }}' == 'pull_request' ]]; then
+            echo "COMMIT_BRANCH=$GITHUB_HEAD_REF" >> $GITHUB_ENV
+            echo "COMMIT_MESSAGE<<EOF" >> $GITHUB_ENV
+            echo "$(git log --format=%B -n 1 HEAD^2)" >> $GITHUB_ENV
+            echo "EOF" >> $GITHUB_ENV
+          fi
 
-      # - name: Send telegram message on completed
-      #   uses: appleboy/telegram-action@master
-      #   with:
-      #     to: ${{ env.TELE_CHAT_ID }}
-      #     token: ${{ secrets.TELEGRAM_TECH_TOKEN }}
-      #     message: "${{ env.TXT_DETAIL }}\n${{ env.TXT_BRANCH }}\n${{ env.TXT_COMMIT }}\n${{ env.TXT_COMMIT_MSG }}\n${{ env.TXT_PUSHER }}\n${{ env.TXT_DOMAIN }}"
-      #   env:
-      #     TXT_DETAIL: "⭐⭐⭐ Deploy ${{ github.event.repository.name }} successful ⭐⭐⭐"
-      #     TXT_BRANCH: "Branch: ${{ env.COMMIT_BRANCH }}"
-      #     TXT_COMMIT: "Commit: ${{ env.SHORT_SHA }}"
-      #     TXT_COMMIT_MSG: "Message: ${{ env.COMMIT_MESSAGE }}"
-      #     TXT_PUSHER: "Pusher: ${{ github.event.pusher.name }}"
+      - name: Send telegram message on completed
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ env.TELE_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_TECH_TOKEN }}
+          message: "${{ env.TXT_DETAIL }}\n${{ env.TXT_BRANCH }}\n${{ env.TXT_COMMIT }}\n${{ env.TXT_COMMIT_MSG }}\n${{ env.TXT_PUSHER }}"
+        env:
+          TXT_DETAIL: "⭐⭐⭐ Deploy ${{ github.event.repository.name }} successful ⭐⭐⭐"
+          TXT_BRANCH: "Branch: ${{ env.COMMIT_BRANCH }}"
+          TXT_COMMIT: "Commit: ${{ env.SHORT_SHA }}"
+          TXT_COMMIT_MSG: "Message: ${{ env.COMMIT_MESSAGE }}"
+          TXT_PUSHER: "Pusher: ${{ github.event.pusher.name }}"
+          TELE_CHAT_ID: "-783685926"
