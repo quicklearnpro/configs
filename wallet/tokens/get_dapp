@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "5fe987b084ce32219d7a0326",
+    "name": "ezdefibounty",
+    "title": "ezDeFi Bounty",
+    "url": "https://bounty.ezdefi.com",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/ezdefi-bounty-icon.png",
+    "network": "ezdefi"
+  },
+  {
+    "_id": "5fe987cb84ce32219d7a0327",
+    "name": "ezdefiswap",
+    "title": "ezDefi Swap",
+    "url": "https://swap.ezdefi.com/zd",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/ezdefi-swap-app-icon.png",
+    "network": "ezdefi"
+  },
+  {
+    "_id": "5fe987e284ce32219d7a0328",
+    "name": "pancakeswap",
+    "title": "PancakeSwap",
+    "url": "https://pancakeswap.finance/",
+    "img": "https://pancakeswap.finance/logo.png",
+    "network": "binance-smart-chain"
+  },
+  {
+    "_id": "5fe987fb84ce32219d7a0329",
+    "name": "SwapX LZ",
+    "title": "SwapX LZ",
+    "url": "https://lz.finance/swap",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/icon-swapx256x256.png",
+    "network": "binance-smart-chain"
+  },
+  {
+    "_id": "5fe9881084ce32219d7a032a",
+    "name": "sowingcitizen",
+    "title": "Sowing Citizen",
+    "url": "https://citizen.sowing.network",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/zseed-icon-256x256.png",
+    "network": "ezdefi"
+  },
+  {
+    "_id": "5fe9882584ce32219d7a032b",
+    "name": "uniswap",
+    "title": "UniSwap",
+    "url": "https://app.uniswap.org/#/swap",
+    "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+    "network": "ethereum"
+  },
+  {
+    "_id": "5fe9888e84ce32219d7a032c",
+    "name": "burgerswap",
+    "title": "Burger Swap",
+    "url": "https://burgerswap.org/",
+    "img": "https://s2.coinmarketcap.com/static/img/exchanges/64x64/1155.png",
+    "network": "binance-smart-chain"
+  },
+  {
+    "_id": "5ff1f659f553ec59ab5b8c2a",
+    "name": "Poolx LZ",
+    "title": "Poolx LZ",
+    "url": "https://pool.lz.finance/#/",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/icon256x256.png",
+    "network": "binance-smart-chain"
+  },
+  {
+    "_id": "5ff705f2f553ec59ab5b8c2c",
+    "name": "spiderdao",
+    "title": "SpiderDao",
+    "url": "https://mine.spiderdao.io/",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/logo/spiderdao.png",
+    "network": "ethereum"
+  },
+  {
+    "_id": "60403000e77e9d1193707875",
+    "name": "Padx LZ",
+    "title": "Padx LZ",
+    "url": "https://pad.lz.finance/",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/icon-swapx256x256.png",
+    "network": "binance-smart-chain"
+  },
+  {
+    "_id": "605c12b0e77e9d119370787c",
+    "name": "Twinci",
+    "title": "Twinci NFTs",
+    "url": "https://twinci.io/?utm_source=ezdefi",
+    "img": "https://raw.githubusercontent.com/twinciio/twinci-icon/master/images/twinci-logo-128.png",
+    "network": "binance-smart-chain"
+  },
+  {
+    "_id": "6069d2b8e77e9d1193707889",
+    "name": "xpoolp2plending",
+    "title": "XPool P2P Lending",
+    "url": "https://xpool.app",
+    "img": "https://avatars.githubusercontent.com/u/80105262",
+    "network": "binance-smart-chain"
+  },
+  {
+    "_id": "607ce624cae3af2146b9e49d",
+    "name": "FinNexus",
+    "title": "FinNexus Options",
+    "url": "https://options.finnexus.io/",
+    "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5712.png",
+    "network": "ethereum"
+  },
+  {
+    "_id": "60ef1a70be8fd71cae25a29e",
+    "name": "cremepieswap",
+    "title": "CremePieSwap",
+    "url": "https://cremepieswapfinance.com",
+    "img": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/circle-cremepie-icon.png",
+    "network": "polygon"
+  },
+  {
+    "_id": "614007d971e52a6db53707d9",
+    "name": "Platinum LZ",
+    "title": "Platinum LZ",
+    "url": "https://platinum.lz.finance/",
+    "img": "https://github.com/ezDeFi/ezdefi-media/blob/master/launchzone-logo/logo-lz-platinum-256x256.jpg?raw=true",
+    "network": "binance-smart-chain"
+  }
+]

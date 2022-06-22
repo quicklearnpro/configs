@@ -1,0 +1,1902 @@
+[
+  {
+    "_id": "617902aa79cdd36be94340d4",
+    "name": "BTC",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.609Z",
+    "updatedAt": "2021-11-04T02:59:24.495Z",
+    "assetTypeId": "btc"
+  },
+  {
+    "_id": "617902aa79cdd36be94340d5",
+    "name": "ETH",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.609Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "eth"
+  },
+  {
+    "_id": "617902aa79cdd36be94340d6",
+    "name": "ZD NEW",
+    "desc": "",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/zd.svg",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.609Z",
+    "updatedAt": "2021-12-15T07:07:57.242Z",
+    "assetTypeId": "zd"
+  },
+  {
+    "_id": "617902aa79cdd36be94340d7",
+    "name": "SOL",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.609Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "sol"
+  },
+  {
+    "_id": "617902aa79cdd36be94340d8",
+    "name": "SRM",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "srm"
+  },
+  {
+    "_id": "617902aa79cdd36be94340da",
+    "name": "LTC",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "ltc"
+  },
+  {
+    "_id": "617902aa79cdd36be94340db",
+    "name": "DOGE",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "doge"
+  },
+  {
+    "_id": "617902aa79cdd36be94340dc",
+    "name": "DASH",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "dash"
+  },
+  {
+    "_id": "617902aa79cdd36be94340dd",
+    "name": "NTY",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2714.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "nty"
+  },
+  {
+    "_id": "617902aa79cdd36be94340de",
+    "name": "TOMO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "tomo"
+  },
+  {
+    "_id": "617902aa79cdd36be94340df",
+    "name": "ETC",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "etc"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e0",
+    "name": "RVX",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4697.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.610Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "rvx"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e1",
+    "name": "DAI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "dai"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e2",
+    "name": "MKR",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "mkr"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e3",
+    "name": "HT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "ht"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e4",
+    "name": "LINK",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "link"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e5",
+    "name": "TOKO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4299.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "toko"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e6",
+    "name": "KNCL",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1982.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "kncl"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e7",
+    "name": "UTU",
+    "desc": "",
+    "logo": "https://assets.coingecko.com/coins/images/12831/small/Aa5nmbkJ_400x400.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "utu"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e8",
+    "name": "VRO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5539.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "vro"
+  },
+  {
+    "_id": "617902aa79cdd36be94340e9",
+    "name": "UBXT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7040.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "ubxt"
+  },
+  {
+    "_id": "617902aa79cdd36be94340ea",
+    "name": "BAT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "bat"
+  },
+  {
+    "_id": "617902aa79cdd36be94340eb",
+    "name": "VET",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.611Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "vet"
+  },
+  {
+    "_id": "617902aa79cdd36be94340ec",
+    "name": "CRO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.612Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "cro"
+  },
+  {
+    "_id": "617902aa79cdd36be94340ed",
+    "name": "USDC",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.612Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "usdc"
+  },
+  {
+    "_id": "617902aa79cdd36be94340ee",
+    "name": "OMG",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.612Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "omg"
+  },
+  {
+    "_id": "617902aa79cdd36be94340ef",
+    "name": "HOT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.612Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "hot"
+  },
+  {
+    "_id": "617902aa79cdd36be94340f0",
+    "name": "TUSD",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.612Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "tusd"
+  },
+  {
+    "_id": "617902aa79cdd36be94340f1",
+    "name": "REP",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.612Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "rep"
+  },
+  {
+    "_id": "617902aa79cdd36be94340f6",
+    "name": "SicloCoin",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/luizmgjf/Parceiros/master/Siclocon.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "siclocoin"
+  },
+  {
+    "_id": "617902aa79cdd36be94340f8",
+    "name": "TRX",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.496Z",
+    "assetTypeId": "trx"
+  },
+  {
+    "_id": "617902aa79cdd36be94340f9",
+    "name": "USDT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "usdt"
+  },
+  {
+    "_id": "617902aa79cdd36be94340fa",
+    "name": "LIEN",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6705.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "lien"
+  },
+  {
+    "_id": "617902aa79cdd36be94340fb",
+    "name": "WINK",
+    "desc": "",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/wink.svg",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "wink"
+  },
+  {
+    "_id": "617902aa79cdd36be94340fc",
+    "name": "GRT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "grt"
+  },
+  {
+    "_id": "617902aa79cdd36be94340fd",
+    "name": "DEGO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "dego"
+  },
+  {
+    "_id": "617902aa79cdd36be94340fe",
+    "name": "BSCX",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/icon256x256.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bscx"
+  },
+  {
+    "_id": "617902aa79cdd36be94340ff",
+    "name": "CBRL",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6880.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.613Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "cbrl"
+  },
+  {
+    "_id": "617902aa79cdd36be9434100",
+    "name": "VNDC",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4805.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "vndc"
+  },
+  {
+    "_id": "617902aa79cdd36be9434101",
+    "name": "DREP",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3924.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "drep"
+  },
+  {
+    "_id": "617902aa79cdd36be9434102",
+    "name": "SPA",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6715.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "spa"
+  },
+  {
+    "_id": "617902aa79cdd36be9434103",
+    "name": "FLETA",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4103.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "fleta"
+  },
+  {
+    "_id": "617902aa79cdd36be9434104",
+    "name": "USDS",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3719.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "usds"
+  },
+  {
+    "_id": "617902aa79cdd36be9434105",
+    "name": "YFI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "yfi"
+  },
+  {
+    "_id": "617902aa79cdd36be9434106",
+    "name": "OM",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "om"
+  },
+  {
+    "_id": "617902aa79cdd36be9434107",
+    "name": "KAI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5453.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "kai"
+  },
+  {
+    "_id": "617902aa79cdd36be9434108",
+    "name": "MCB",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5956.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "mcb"
+  },
+  {
+    "_id": "617902aa79cdd36be9434109",
+    "name": "ATT",
+    "desc": "",
+    "logo": "https://assets.coingecko.com/coins/images/8009/small/Africa_Trading_Chain.jpg?1553143625",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.614Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "att"
+  },
+  {
+    "_id": "617902aa79cdd36be943410a",
+    "name": "AVAX",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "avax"
+  },
+  {
+    "_id": "617902aa79cdd36be943410b",
+    "name": "TRONWALLET",
+    "desc": "",
+    "logo": "https://foundico.com/upload/iblock/4c8/4c88176023d49fbce0ed0d5ba1760b35.jpg",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "tronwallet"
+  },
+  {
+    "_id": "617902aa79cdd36be943410c",
+    "name": "TRONbet",
+    "desc": "",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/tronbet.svg",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "tronbet"
+  },
+  {
+    "_id": "617902aa79cdd36be943410d",
+    "name": "PancakeSwap",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "pancakeswap"
+  },
+  {
+    "_id": "617902aa79cdd36be943410e",
+    "name": "MATIC",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "matic"
+  },
+  {
+    "_id": "617902aa79cdd36be943410f",
+    "name": "TWT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "twt"
+  },
+  {
+    "_id": "617902aa79cdd36be9434110",
+    "name": "zSeed",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/icon-128x128.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-26T08:11:18.675Z",
+    "assetTypeId": "zseed"
+  },
+  {
+    "_id": "617902aa79cdd36be9434111",
+    "name": "Bakery",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bakery"
+  },
+  {
+    "_id": "617902aa79cdd36be9434112",
+    "name": "Burger Swap",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "burgerswap"
+  },
+  {
+    "_id": "617902aa79cdd36be9434113",
+    "name": "ZD OLD",
+    "desc": "",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/zd.svg",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.615Z",
+    "updatedAt": "2021-12-15T07:01:21.365Z",
+    "assetTypeId": "zdold"
+  },
+  {
+    "_id": "617902aa79cdd36be9434114",
+    "name": "BUSD",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "busd"
+  },
+  {
+    "_id": "617902aa79cdd36be9434115",
+    "name": "Mega Serum",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "megaserum"
+  },
+  {
+    "_id": "617902aa79cdd36be9434116",
+    "name": "aSRM",
+    "desc": "",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/asrm.svg",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "asrm"
+  },
+  {
+    "_id": "617902aa79cdd36be9434117",
+    "name": "DOXI",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/DOxi-D/DOxi/main/Logo%20DOxi.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "doxi"
+  },
+  {
+    "_id": "617902aa79cdd36be9434118",
+    "name": "1INCH",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "1inch"
+  },
+  {
+    "_id": "617902aa79cdd36be9434119",
+    "name": "BNB",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bnb"
+  },
+  {
+    "_id": "617902aa79cdd36be943411a",
+    "name": "SPDR",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/logo/spiderdao.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "spdr"
+  },
+  {
+    "_id": "617902aa79cdd36be943411b",
+    "name": "Billion Happiness",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7182.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "billionhappiness"
+  },
+  {
+    "_id": "617902aa79cdd36be943411c",
+    "name": "Uniswap",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "uniswap"
+  },
+  {
+    "_id": "617902aa79cdd36be943411d",
+    "name": "Polkadot",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.616Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "polkadot"
+  },
+  {
+    "_id": "617902aa79cdd36be943411e",
+    "name": "EOS",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "eos"
+  },
+  {
+    "_id": "617902aa79cdd36be943411f",
+    "name": "Band Protocol",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bandprotocol"
+  },
+  {
+    "_id": "617902aa79cdd36be9434120",
+    "name": "VAI Stablecoin",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7824.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "vaistablecoin"
+  },
+  {
+    "_id": "617902aa79cdd36be9434121",
+    "name": "AllianceBlock Token",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6957.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "allianceblocktoken"
+  },
+  {
+    "_id": "617902aa79cdd36be9434122",
+    "name": "Venus",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "venus"
+  },
+  {
+    "_id": "617902aa79cdd36be9434123",
+    "name": "Bitcoin Cash",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bitcoincash"
+  },
+  {
+    "_id": "617902aa79cdd36be9434124",
+    "name": "Swipe",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "swipe"
+  },
+  {
+    "_id": "617902aa79cdd36be9434125",
+    "name": "XRP",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "xrp"
+  },
+  {
+    "_id": "617902aa79cdd36be9434126",
+    "name": "ADA",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "ada"
+  },
+  {
+    "_id": "617902aa79cdd36be9434127",
+    "name": "bDollar",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8219.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.617Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bdollar"
+  },
+  {
+    "_id": "617902aa79cdd36be9434128",
+    "name": "Woonkly Power",
+    "desc": "",
+    "logo": "https://bscscan.com/images/main/empty-token.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.619Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "woonklypower"
+  },
+  {
+    "_id": "617902aa79cdd36be9434129",
+    "name": "Zum Token",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4826.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.619Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "zumtoken"
+  },
+  {
+    "_id": "617902aa79cdd36be943412a",
+    "name": "Filecoin",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.619Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "filecoin"
+  },
+  {
+    "_id": "617902aa79cdd36be943412b",
+    "name": "Injective Protocol",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "injectiveprotocol"
+  },
+  {
+    "_id": "617902aa79cdd36be943412c",
+    "name": "Tenet",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8193.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "tenet"
+  },
+  {
+    "_id": "617902aa79cdd36be943412d",
+    "name": "CertiK Token",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "certiktoken"
+  },
+  {
+    "_id": "617902aa79cdd36be943412e",
+    "name": "Ditto",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8086.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "ditto"
+  },
+  {
+    "_id": "617902aa79cdd36be943412f",
+    "name": "Fuel Token",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7158.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "fueltoken"
+  },
+  {
+    "_id": "617902aa79cdd36be9434130",
+    "name": "bDollar Share",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8172.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bdollarshare"
+  },
+  {
+    "_id": "617902aa79cdd36be9434131",
+    "name": "Reef.finance",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "reef.finance"
+  },
+  {
+    "_id": "617902aa79cdd36be9434132",
+    "name": "XTZ",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "xtz"
+  },
+  {
+    "_id": "617902aa79cdd36be9434133",
+    "name": "YFII",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5957.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.620Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "yfii"
+  },
+  {
+    "_id": "617902aa79cdd36be9434134",
+    "name": "BLinkToken",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7784.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "blinktoken"
+  },
+  {
+    "_id": "617902aa79cdd36be9434135",
+    "name": "BIFI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7311.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bifi"
+  },
+  {
+    "_id": "617902aa79cdd36be9434136",
+    "name": "FRIES",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7351.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "fries"
+  },
+  {
+    "_id": "617902aa79cdd36be9434137",
+    "name": "AUTO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8387.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "auto"
+  },
+  {
+    "_id": "617902aa79cdd36be9434138",
+    "name": "DAO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8420.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "dao"
+  },
+  {
+    "_id": "617902aa79cdd36be9434139",
+    "name": "WSOTE",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8381.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "wsote"
+  },
+  {
+    "_id": "617902aa79cdd36be943413a",
+    "name": "HELMET",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8265.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "helmet"
+  },
+  {
+    "_id": "617902aa79cdd36be943413c",
+    "name": "ZDCASH",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/zdcash-128x128.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "zdcash"
+  },
+  {
+    "_id": "617902aa79cdd36be943413d",
+    "name": "TOOLS",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/bsctools/bsctools-documentation/main/bsc-tools-logo.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.621Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "tools"
+  },
+  {
+    "_id": "617902aa79cdd36be943413e",
+    "name": "CGG",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8648.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "cgg"
+  },
+  {
+    "_id": "617902aa79cdd36be943413f",
+    "name": "SWG",
+    "desc": "",
+    "logo": "https://assets.coingecko.com/coins/images/12879/small/swirge_logo.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "swg"
+  },
+  {
+    "_id": "617902aa79cdd36be9434140",
+    "name": "BERRY",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8483.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "berry"
+  },
+  {
+    "_id": "617902aa79cdd36be9434141",
+    "name": "ROWAN",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8541.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "rowan"
+  },
+  {
+    "_id": "617902aa79cdd36be9434142",
+    "name": "TPT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5947.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "tpt"
+  },
+  {
+    "_id": "617902aa79cdd36be9434143",
+    "name": "BDEX",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8796.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.497Z",
+    "assetTypeId": "bdex"
+  },
+  {
+    "_id": "617902aa79cdd36be9434144",
+    "name": "SHOPX",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8863.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "shopx"
+  },
+  {
+    "_id": "617902aa79cdd36be9434145",
+    "name": "ALPHA",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "alpha"
+  },
+  {
+    "_id": "617902aa79cdd36be9434146",
+    "name": "BUNNY",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7791.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "bunny"
+  },
+  {
+    "_id": "617902aa79cdd36be9434147",
+    "name": "UST",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "ust"
+  },
+  {
+    "_id": "617902aa79cdd36be9434148",
+    "name": "SUSHI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.622Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "sushi"
+  },
+  {
+    "_id": "617902aa79cdd36be9434149",
+    "name": "COMP",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "comp"
+  },
+  {
+    "_id": "617902aa79cdd36be943414a",
+    "name": "XPO",
+    "desc": "",
+    "logo": "https://avatars.githubusercontent.com/u/80105262",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "xpo"
+  },
+  {
+    "_id": "617902aa79cdd36be943414b",
+    "name": "ATOM",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "atom"
+  },
+  {
+    "_id": "617902aa79cdd36be943414c",
+    "name": "FNX",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5712.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "fnx"
+  },
+  {
+    "_id": "617902aa79cdd36be943414d",
+    "name": "BADGER",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "badger"
+  },
+  {
+    "_id": "617902aa79cdd36be943414e",
+    "name": "SFP",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "sfp"
+  },
+  {
+    "_id": "617902aa79cdd36be943414f",
+    "name": "ZIL",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "zil"
+  },
+  {
+    "_id": "617902aa79cdd36be9434150",
+    "name": "LIT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6833.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "lit"
+  },
+  {
+    "_id": "617902aa79cdd36be9434151",
+    "name": "DODO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "dodo"
+  },
+  {
+    "_id": "617902aa79cdd36be9434152",
+    "name": "DIGG",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8307.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.623Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "digg"
+  },
+  {
+    "_id": "617902aa79cdd36be9434153",
+    "name": "ALICE",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "alice"
+  },
+  {
+    "_id": "617902aa79cdd36be9434154",
+    "name": "NRV",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8755.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "nrv"
+  },
+  {
+    "_id": "617902aa79cdd36be9434155",
+    "name": "BEL",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "bel"
+  },
+  {
+    "_id": "617902aa79cdd36be9434156",
+    "name": "FRONT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "front"
+  },
+  {
+    "_id": "617902aa79cdd36be9434157",
+    "name": "BTCST",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8891.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "btcst"
+  },
+  {
+    "_id": "617902aa79cdd36be9434158",
+    "name": "EGLD",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "egld"
+  },
+  {
+    "_id": "617902aa79cdd36be9434159",
+    "name": "LINA",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7102.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "lina"
+  },
+  {
+    "_id": "617902aa79cdd36be943415a",
+    "name": "WATCH",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8621.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.624Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "watch"
+  },
+  {
+    "_id": "617902aa79cdd36be943415b",
+    "name": "SWTH",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2620.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.625Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "swth"
+  },
+  {
+    "_id": "617902aa79cdd36be943415c",
+    "name": "ITAM",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6490.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "itam"
+  },
+  {
+    "_id": "617902aa79cdd36be943415d",
+    "name": "BYN",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9134.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "byn"
+  },
+  {
+    "_id": "617902aa79cdd36be943415e",
+    "name": "TWIN",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/twinciio/twinci-icon/master/images/twinci-logo-128.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "twin"
+  },
+  {
+    "_id": "617902aa79cdd36be943415f",
+    "name": "TKO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "tko"
+  },
+  {
+    "_id": "617902aa79cdd36be9434160",
+    "name": "ARPA",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "arpa"
+  },
+  {
+    "_id": "617902aa79cdd36be9434161",
+    "name": "UNFI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7672.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "unfi"
+  },
+  {
+    "_id": "617902aa79cdd36be9434162",
+    "name": "DINO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9621.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "dino"
+  },
+  {
+    "_id": "617902aa79cdd36be9434163",
+    "name": "DPET",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9665.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "dpet"
+  },
+  {
+    "_id": "617902aa79cdd36be9434164",
+    "name": "ROSN",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9783.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "rosn"
+  },
+  {
+    "_id": "617902aa79cdd36be9434165",
+    "name": "BELT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8730.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.626Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "belt"
+  },
+  {
+    "_id": "617902aa79cdd36be9434166",
+    "name": "BONDLY",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7931.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "bondly"
+  },
+  {
+    "_id": "617902aa79cdd36be9434167",
+    "name": "FOC",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9259.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "foc"
+  },
+  {
+    "_id": "617902aa79cdd36be9434168",
+    "name": "BARMY",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10340.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "barmy"
+  },
+  {
+    "_id": "617902aa79cdd36be9434169",
+    "name": "BAMI",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/bamidefi/smart-contracts/master/Logo_Bami_kh%C3%B4ng%20ch%E1%BB%AF.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "bami"
+  },
+  {
+    "_id": "617902aa79cdd36be943416a",
+    "name": "NULS",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "nuls"
+  },
+  {
+    "_id": "617902aa79cdd36be943416b",
+    "name": "IOTX",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "iotx"
+  },
+  {
+    "_id": "617902aa79cdd36be943416c",
+    "name": "DHV",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8867.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "dhv"
+  },
+  {
+    "_id": "617902aa79cdd36be943416d",
+    "name": "SHO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6540.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "sho"
+  },
+  {
+    "_id": "617902aa79cdd36be943416e",
+    "name": "RAGE",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8862.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "rage"
+  },
+  {
+    "_id": "617902aa79cdd36be943416f",
+    "name": "KALLY",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9631.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.627Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "kally"
+  },
+  {
+    "_id": "617902aa79cdd36be9434170",
+    "name": "CPIE",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10843.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T03:02:34.975Z",
+    "assetTypeId": "cpie"
+  },
+  {
+    "_id": "617902aa79cdd36be9434171",
+    "name": "LZ",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/lz-logo.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "lz"
+  },
+  {
+    "_id": "617902aa79cdd36be9434172",
+    "name": "LZP",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/128x128%20lzp.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "lzp"
+  },
+  {
+    "_id": "617902aa79cdd36be9434173",
+    "name": "BURP",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10713.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "burp"
+  },
+  {
+    "_id": "617902aa79cdd36be9434174",
+    "name": "DXCT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11211.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "dxct"
+  },
+  {
+    "_id": "617902aa79cdd36be9434175",
+    "name": "O3",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9588.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "o3"
+  },
+  {
+    "_id": "617902aa79cdd36be9434176",
+    "name": "FAM",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/famcentral/Materials/main/logo_FAM_128px.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "fam"
+  },
+  {
+    "_id": "617902aa79cdd36be9434177",
+    "name": "HERO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11067.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "hero"
+  },
+  {
+    "_id": "617902aa79cdd36be9434178",
+    "name": "HEROEGG",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11605.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "heroegg"
+  },
+  {
+    "_id": "617902aa79cdd36be9434179",
+    "name": "FIWA",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11670.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.628Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "fiwa"
+  },
+  {
+    "_id": "617902aa79cdd36be943417a",
+    "name": "THG",
+    "desc": "",
+    "logo": "https://thetanarena.com/images/theta-arena/Page1_IconThetaArena.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.629Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "thg"
+  },
+  {
+    "_id": "617902aa79cdd36be943417b",
+    "name": "ROFI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13164.png",
+    "__v": 0,
+    "createdAt": "2021-10-27T07:41:30.629Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "assetTypeId": "rofi"
+  },
+  {
+    "_id": "6179174b79cdd36be943417c",
+    "name": "MahaDAO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8043.png",
+    "createdAt": "2021-10-27T09:09:31.053Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "__v": 0,
+    "assetTypeId": "mahadao"
+  },
+  {
+    "_id": "617a2b7379cdd36be9434182",
+    "name": "KCS",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
+    "createdAt": "2021-10-28T04:47:47.946Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "__v": 0,
+    "assetTypeId": "kcs"
+  },
+  {
+    "_id": "618007dd79cdd36be9434183",
+    "name": "HERON",
+    "desc": "HERON",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13045.png",
+    "createdAt": "2021-11-01T15:29:33.983Z",
+    "updatedAt": "2021-11-04T02:59:24.498Z",
+    "__v": 0,
+    "assetTypeId": "heron"
+  },
+  {
+    "_id": "6184a35482eace3a993cc035",
+    "assetTypeId": "btctest",
+    "name": "BTC Test",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/btc-test.png",
+    "createdAt": "2021-11-05T03:21:56.926Z",
+    "updatedAt": "2021-11-05T03:21:56.926Z",
+    "__v": 0
+  },
+  {
+    "_id": "6184e3597d9cfc4cdb5ac41c",
+    "assetTypeId": "ethtest",
+    "name": "ETH Test",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/eth.png",
+    "createdAt": "2021-11-05T07:55:05.615Z",
+    "updatedAt": "2021-11-05T07:55:05.615Z",
+    "__v": 0
+  },
+  {
+    "_id": "6184e3777d9cfc4cdb5ac41d",
+    "assetTypeId": "bnbtest",
+    "name": "BNB Test",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/binance-testnet.png",
+    "createdAt": "2021-11-05T07:55:35.609Z",
+    "updatedAt": "2021-11-05T07:55:35.609Z",
+    "__v": 0
+  },
+  {
+    "_id": "6184e3977d9cfc4cdb5ac41e",
+    "assetTypeId": "soltest",
+    "name": "SOL Test",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/other-media/solana-logo.png",
+    "createdAt": "2021-11-05T07:56:07.919Z",
+    "updatedAt": "2021-11-05T07:56:07.919Z",
+    "__v": 0
+  },
+  {
+    "_id": "6184e5017d9cfc4cdb5ac41f",
+    "assetTypeId": "trxtest",
+    "name": "TRX Test",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/launchzone-logo/tron.png",
+    "createdAt": "2021-11-05T08:02:09.385Z",
+    "updatedAt": "2021-11-05T08:02:09.385Z",
+    "__v": 0
+  },
+  {
+    "_id": "618536187d9cfc4cdb5ac420",
+    "assetTypeId": "nino",
+    "name": "NINO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13216.png",
+    "createdAt": "2021-11-05T13:48:08.490Z",
+    "updatedAt": "2021-11-05T13:48:08.490Z",
+    "__v": 0
+  },
+  {
+    "_id": "618554697d9cfc4cdb5ac422",
+    "assetTypeId": "kart",
+    "name": "KART",
+    "desc": "Dragon Kart is the first 3D Play-to-Earn Battle Racing game built on Binance Smart Chain, the characters in the game are taken from a Pikalong comics series by a Vietnamese well-known artist Thang Fly*. This series has been exposed to millions of Vietnamese users in Zalo, the most used communication app in Vietnam (can be compared to Wechat in China or Kakao in Korea) for roughly 5 years.  *Thang Fly is a Vietnamese artist influencer with 1.4M+ followers on Facebook.  Highlights: Talented team with 7-10 years of experiences in technology and related fields. The MVP is available Demo product is ready to be tested.",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12614.png",
+    "createdAt": "2021-11-05T15:57:29.211Z",
+    "updatedAt": "2021-11-05T15:57:29.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "618e2068c4da515f3b6f0616",
+    "assetTypeId": "bombercoin",
+    "name": "Bomber Coin",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12252.png",
+    "createdAt": "2021-11-12T08:06:00.889Z",
+    "updatedAt": "2021-11-12T08:06:00.889Z",
+    "__v": 0
+  },
+  {
+    "_id": "618e6324c4da515f3b6f0618",
+    "assetTypeId": "dynasty",
+    "name": "Dynasty",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14357.png",
+    "createdAt": "2021-11-12T12:50:44.411Z",
+    "updatedAt": "2021-11-28T06:54:31.691Z",
+    "__v": 0
+  },
+  {
+    "_id": "619912ebc4da515f3b6f061b",
+    "assetTypeId": "zuki",
+    "name": "ZUKI",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14136.png",
+    "createdAt": "2021-11-20T15:23:23.883Z",
+    "updatedAt": "2021-11-20T15:24:53.456Z",
+    "__v": 0
+  },
+  {
+    "_id": "61a39f8100922f1e7a0384bf",
+    "assetTypeId": "htd",
+    "name": "HTD",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14422.png",
+    "createdAt": "2021-11-28T15:25:53.653Z",
+    "updatedAt": "2021-11-28T15:25:53.653Z",
+    "__v": 0
+  },
+  {
+    "_id": "61a3a92100922f1e7a0384c1",
+    "assetTypeId": "usdz",
+    "name": "USDZ",
+    "desc": "",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/usdz-logo/usdz-icon.png",
+    "createdAt": "2021-11-28T16:06:57.222Z",
+    "updatedAt": "2021-11-29T04:15:19.743Z",
+    "__v": 0
+  },
+  {
+    "_id": "61a7937800922f1e7a0384c2",
+    "assetTypeId": "dor",
+    "name": "DOR",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13977.png",
+    "createdAt": "2021-12-01T15:23:36.188Z",
+    "updatedAt": "2021-12-01T15:23:36.188Z",
+    "__v": 0
+  },
+  {
+    "_id": "61a8d76e00922f1e7a0384c4",
+    "assetTypeId": "cato",
+    "name": "CATO",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14839.png",
+    "createdAt": "2021-12-02T14:25:50.381Z",
+    "updatedAt": "2021-12-02T14:25:50.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c0a92b00922f1e7a0384c6",
+    "assetTypeId": "belly",
+    "name": "BELLY",
+    "desc": "BELLY",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15703.png",
+    "createdAt": "2021-12-20T16:02:51.858Z",
+    "updatedAt": "2021-12-20T16:02:51.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "61c8e4be00922f1e7a0384c8",
+    "assetTypeId": "spg",
+    "name": "SPG",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15529.png",
+    "createdAt": "2021-12-26T21:55:10.624Z",
+    "updatedAt": "2021-12-26T21:55:10.624Z",
+    "__v": 0
+  },
+  {
+    "_id": "61d1aa2600922f1e7a0384ca",
+    "assetTypeId": "gwt",
+    "name": "GWT",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13236.png",
+    "createdAt": "2022-01-02T13:35:34.751Z",
+    "updatedAt": "2022-01-02T13:35:34.751Z",
+    "__v": 0
+  },
+  {
+    "_id": "61d5c54400922f1e7a0384cc",
+    "assetTypeId": "lus",
+    "name": "LUS",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16197.png",
+    "createdAt": "2022-01-05T16:20:20.123Z",
+    "updatedAt": "2022-01-05T16:20:20.123Z",
+    "__v": 0
+  },
+  {
+    "_id": "61d993ee00922f1e7a0384ce",
+    "assetTypeId": "f2c",
+    "name": "F2C",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15951.png",
+    "createdAt": "2022-01-08T13:38:54.252Z",
+    "updatedAt": "2022-01-08T13:38:54.252Z",
+    "__v": 0
+  },
+  {
+    "_id": "61ed67bc00922f1e7a0384d0",
+    "assetTypeId": "tankbattle",
+    "name": "Tank Battle",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15695.png",
+    "createdAt": "2022-01-23T14:35:40.506Z",
+    "updatedAt": "2022-01-23T14:35:40.506Z",
+    "__v": 0
+  },
+  {
+    "_id": "61ee891f00922f1e7a0384d2",
+    "assetTypeId": "ninneko(mata)",
+    "name": "Ninneko (Mata)",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17578.png",
+    "createdAt": "2022-01-24T11:10:23.301Z",
+    "updatedAt": "2022-01-24T11:10:23.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "61f5660e00922f1e7a0384d4",
+    "assetTypeId": "unilab",
+    "name": "Unilab",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16899.png",
+    "createdAt": "2022-01-29T16:06:38.760Z",
+    "updatedAt": "2022-01-29T16:06:38.760Z",
+    "__v": 0
+  },
+  {
+    "_id": "61f7c6e400922f1e7a0384d6",
+    "assetTypeId": "metagear",
+    "name": "MetaGear",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15761.png",
+    "createdAt": "2022-01-31T11:24:20.937Z",
+    "updatedAt": "2022-01-31T11:24:20.937Z",
+    "__v": 0
+  },
+  {
+    "_id": "623c94a8f9a89d81aba411c4",
+    "assetTypeId": "stman",
+    "name": "STMAN",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15515.png",
+    "createdAt": "2022-03-24T15:56:24.391Z",
+    "updatedAt": "2022-03-24T15:56:24.391Z",
+    "__v": 0
+  },
+  {
+    "_id": "6244634ff9a89d26b4a7af37",
+    "assetTypeId": "mstation",
+    "name": "MStation",
+    "desc": "",
+    "logo": "https://pbs.twimg.com/profile_images/1487992398722793474/xkjby5hf_400x400.jpg",
+    "createdAt": "2022-03-30T14:03:59.304Z",
+    "updatedAt": "2022-03-30T14:05:27.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "6262c075d2a4e43e0469a6c1",
+    "assetTypeId": "metabomb",
+    "name": "Metabomb",
+    "desc": "",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19299.png",
+    "createdAt": "2022-04-22T14:49:25.005Z",
+    "updatedAt": "2022-04-22T14:49:25.005Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "network": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimal": 8,
+    "cmcId": 1,
+    "cgkId": "bitcoin",
+    "apiSymbol": "btc",
+    "chainType": "main",
+    "isSegWit": true
+  },
+  {
+    "network": "bitcoin",
+    "name": "Bitcoin Legacy",
+    "symbol": "BTC",
+    "decimal": 8,
+    "cmcId": 1,
+    "cgkId": "bitcoin",
+    "apiSymbol": "btc",
+    "chainType": "main",
+    "typeCoinInfo": "BTC"
+  },
+  {
+    "network": "ethereum",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimal": 18,
+    "cmcId": 1027,
+    "cgkId": "ethereum"
+  },
+  {
+    "network": "ezdefi",
+    "name": "ZD",
+    "symbol": "ZD",
+    "decimal": 18,
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/zd.svg"
+  },
+  {
+    "network": "solana",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimal": 9,
+    "cmcId": 5426,
+    "cgkId": "solana"
+  },
+  {
+    "network": "solana",
+    "name": "Serum",
+    "symbol": "SRM",
+    "decimal": 6,
+    "cmcId": 6187,
+    "cgkId": "serum",
+    "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Binance Smart Chain",
+    "symbol": "BNB",
+    "suffix": "BSC",
+    "decimal": 18,
+    "cmcId": 1839,
+    "cgkId": "binancecoin"
+  },
+  {
+    "network": "litecoin",
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "decimal": 8,
+    "cmcId": 2,
+    "cgkId": "litecoin",
+    "apiSymbol": "ltc",
+    "chainType": "main",
+    "isSegWit": true
+  },
+  {
+    "network": "litecoin",
+    "name": "Litecoin Legacy",
+    "symbol": "LTC",
+    "decimal": 8,
+    "cmcId": 2,
+    "cgkId": "litecoin",
+    "apiSymbol": "ltc",
+    "chainType": "main",
+    "typeCoinInfo": "LTC"
+  },
+  {
+    "network": "bitcoin-cash",
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimal": 8,
+    "cmcId": 1831,
+    "cgkId": "bitcoin-cash"
+  },
+  {
+    "network": "ripple",
+    "name": "Ripple",
+    "symbol": "XRP",
+    "decimal": 8,
+    "cmcId": 52,
+    "cgkId": "ripple"
+  },
+  {
+    "network": "nexty",
+    "name": "Nexty",
+    "symbol": "NTY",
+    "decimal": 18,
+    "cmcId": 2714
+  },
+  {
+    "network": "ethereum-classic",
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "decimal": 18,
+    "cmcId": 1321,
+    "cgkId": "ethereum-classic"
+  },
+  {
+    "network": "ethereum",
+    "name": "RiveX",
+    "symbol": "RVX",
+    "decimal": 18,
+    "cmcId": 4697,
+    "address": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94"
+  },
+  {
+    "network": "ethereum",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimal": 18,
+    "cmcId": 4943,
+    "cgkId": "dai",
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+  },
+  {
+    "network": "ethereum",
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimal": 18,
+    "cmcId": 1518,
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+  },
+  {
+    "network": "ethereum",
+    "name": "ChainLink",
+    "symbol": "LINK",
+    "decimal": 18,
+    "cmcId": 1975,
+    "cgkId": "chainlink",
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+  },
+  {
+    "network": "ethereum",
+    "name": "Tokoin",
+    "symbol": "TOKO",
+    "decimal": 18,
+    "cmcId": 4299,
+    "cgkId": "tokoin",
+    "address": "0xa0F0546Eb5E3eE7e8cfC5DA12e5949F3AE622675"
+  },
+  {
+    "network": "ethereum",
+    "name": "Kyber Network",
+    "symbol": "KNC",
+    "decimal": 18,
+    "cmcId": 1982,
+    "cgkId": "kyber-network",
+    "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+  },
+  {
+    "network": "ethereum",
+    "name": "UTU",
+    "symbol": "UTU",
+    "decimal": 18,
+    "logo": "https://assets.coingecko.com/coins/images/12831/small/Aa5nmbkJ_400x400.png",
+    "cgkId": "utu-coin",
+    "address": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b"
+  },
+  {
+    "network": "ethereum",
+    "name": "VeraOne",
+    "symbol": "VRO",
+    "decimal": 8,
+    "cmcId": 5539,
+    "cgkId": "veraone",
+    "address": "0x10bc518c32fbae5e38ecb50a612160571bd81e44"
+  },
+  {
+    "network": "ethereum",
+    "name": "UpBots",
+    "symbol": "UBXT",
+    "decimal": 18,
+    "cmcId": 7040,
+    "cgkId": "upbots",
+    "address": "0x8564653879a18c560e7c0ea0e084c516c62f5653"
+  },
+  {
+    "network": "ethereum",
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "decimal": 18,
+    "cmcId": 1697,
+    "cgkId": "basic-attention-token",
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+  },
+  {
+    "network": "ethereum",
+    "name": "VeChain",
+    "symbol": "VET",
+    "decimal": 18,
+    "cmcId": 3077,
+    "cgkId": "vechain",
+    "address": "0xd850942ef8811f2a866692a623011bde52a462c1"
+  },
+  {
+    "network": "ethereum",
+    "name": "Crypto.com Chain",
+    "symbol": "CRO",
+    "decimal": 8,
+    "cmcId": 3635,
+    "cgkId": "crypto-com-chain",
+    "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+  },
+  {
+    "network": "ethereum",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimal": 18,
+    "cmcId": 3408,
+    "cgkId": "usd-coin",
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+  },
+  {
+    "network": "ethereum",
+    "name": "OmiseGO",
+    "symbol": "OMG",
+    "decimal": 18,
+    "cmcId": 1808,
+    "cgkId": "omisego",
+    "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+  },
+  {
+    "network": "ethereum",
+    "name": "HOT Token",
+    "symbol": "HOT",
+    "decimal": 18,
+    "cmcId": 2682,
+    "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+  },
+  {
+    "network": "ethereum",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimal": 18,
+    "cmcId": 2563,
+    "cgkId": "true-usd",
+    "address": "0x0000000000085d4780B73119b644AE5ecd22b376"
+  },
+  {
+    "network": "ethereum",
+    "name": "Augur",
+    "symbol": "REP",
+    "decimal": 18,
+    "cmcId": 1104,
+    "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862"
+  },
+  {
+    "network": "bitcoin-test",
+    "name": "Bitcoin Testnet",
+    "symbol": "BTC-TEST",
+    "decimal": 8,
+    "cmcId": 1,
+    "apiSymbol": "btc",
+    "chainType": "test3"
+  },
+  {
+    "network": "nexty",
+    "name": "Nexty Token Foundation",
+    "symbol": "NTF",
+    "decimal": 18,
+    "address": "0x2c783ad80ff980ec75468477e3dd9f86123ecbda",
+    "logo": "https://merchant.ezdefi.com/assets/tokens/ntf.png"
+  },
+  {
+    "network": "nexty",
+    "name": "New Stable Dollar",
+    "symbol": "NEWSD",
+    "decimal": 6,
+    "address": "0x0000000000000000000000000000000000045678",
+    "logo": "https://merchant.ezdefi.com/assets/tokens/newsd.png"
+  },
+  {
+    "network": "nexty",
+    "name": "Mega NTY",
+    "symbol": "MNTY",
+    "decimal": 24,
+    "address": "0x0000000000000000000000000000000000034567",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/nty.svg"
+  },
+  {
+    "network": "nexty",
+    "name": "SicloCoin",
+    "symbol": "SCL",
+    "address": "0xdd47bb338fece64c141b8c571115491c8e1f14a1",
+    "decimal": 18,
+    "logo": "https://raw.githubusercontent.com/luizmgjf/Parceiros/master/Siclocon.png"
+  },
+  {
+    "network": "nexty",
+    "name": "POC",
+    "symbol": "POC",
+    "decimal": 18,
+    "address": "0x14cCf9F6653Eac614a377eE827f0520601D3e68C",
+    "logo": "https://citizen.poc.foundation/assets/images/icon.png"
+  },
+  {
+    "network": "tron",
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimal": 6,
+    "cmcId": 1958,
+    "cgkId": "tron"
+  },
+  {
+    "network": "tron",
+    "name": "Tether TRC20",
+    "symbol": "USDT",
+    "decimal": 6,
+    "cmcId": 825,
+    "cgkId": "tether",
+    "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+  },
+  {
+    "network": "ethereum",
+    "name": "USDT ERC20",
+    "symbol": "USDT",
+    "decimal": 6,
+    "cmcId": 825,
+    "cgkId": "tether",
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+  },
+  {
+    "network": "ethereum",
+    "name": "LIEN",
+    "symbol": "LIEN",
+    "decimal": 8,
+    "cmcId": 6705,
+    "cgkId": "lien",
+    "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e"
+  },
+  {
+    "network": "ethereum",
+    "name": "MahaDAO",
+    "symbol": "MAHA",
+    "decimal": 18,
+    "cmcId": 8043,
+    "cgkId": "mahadao",
+    "address": "0xb4d930279552397bba2ee473229f89ec245bc365"
+  },
+  {
+    "network": "ethereum",
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimal": 18,
+    "cmcId": 6719,
+    "cgkId": "the-graph",
+    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+  },
+  {
+    "network": "ethereum",
+    "name": "DEGO ERC20",
+    "symbol": "DEGO",
+    "decimal": 18,
+    "cmcId": 7087,
+    "cgkId": "dego-finance",
+    "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "DEGO BEP20",
+    "symbol": "DEGO",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/icon-128x128.png"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "BSCX",
+    "symbol": "BSCX",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
+    "logo": "https://swap.bscex.org/favicon.png"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "TaxiToken",
+    "symbol": "TAXI",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0xb08560Ac3832F680d09b33Cf3d8982bD78AFcba8",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/logo/taxi.png"
+  },
+  {
+    "network": "ethereum",
+    "name": "cBRL",
+    "symbol": "cBRL",
+    "decimal": 6,
+    "cmcId": 6880,
+    "address": "0xa6fa6531acdf1f9f96eddd66a0f9481e35c2e42a"
+  },
+  {
+    "network": "ethereum",
+    "name": "VNDC",
+    "symbol": "VNDC",
+    "decimal": 0,
+    "cmcId": 4805,
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+  },
+  {
+    "network": "ethereum",
+    "name": "DREP",
+    "symbol": "DREP",
+    "decimal": 18,
+    "cmcId": 3924,
+    "address": "0x22de9912cd3d74953b1cd1f250b825133cc2c1b3"
+  },
+  {
+    "network": "ethereum",
+    "name": "Sperax",
+    "symbol": "SPA",
+    "decimal": 18,
+    "cmcId": 6715,
+    "address": "0xf7623a0a44045b907d81aad8479aa3c4a818211d"
+  },
+  {
+    "network": "ethereum",
+    "name": "FLETA",
+    "symbol": "FLETA",
+    "decimal": 18,
+    "cmcId": 4103,
+    "address": "0x7788d759f21f53533051a9ae657fa05a1e068fc6"
+  },
+  {
+    "network": "ethereum",
+    "name": "StableUSD",
+    "symbol": "USDS",
+    "decimal": 6,
+    "cmcId": 3719,
+    "address": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe"
+  },
+  {
+    "network": "ethereum",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "decimal": 1818,
+    "cmcId": 4805,
+    "cgkId": "yearn-finance",
+    "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+  },
+  {
+    "network": "ethereum",
+    "name": "MANDTRA DAO",
+    "symbol": "OM",
+    "decimal": 18,
+    "cmcId": 6536,
+    "address": "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2"
+  },
+  {
+    "network": "ethereum",
+    "name": "KardiaChain",
+    "symbol": "KAI",
+    "decimal": 18,
+    "cmcId": 5453,
+    "address": "0xBD6467a31899590474cE1e84F70594c53D628e46"
+  },
+  {
+    "network": "ethereum",
+    "name": "MCDEX",
+    "symbol": "MCB",
+    "decimal": 18,
+    "cmcId": 5956,
+    "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+  },
+  {
+    "network": "tron",
+    "name": "ATT",
+    "symbol": "ATT",
+    "decimal": 6,
+    "address": "TVwXxvyYawS21PT1B7XZxBZCMbQZLUENoE",
+    "logo": "https://data.trontokens.org/medias/images/tokens/3703/logo-ATT.jpeg"
+  },
+  {
+    "network": "tron",
+    "name": "TRONWALLET",
+    "symbol": "TWX",
+    "decimal": 6,
+    "address": "TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
+    "logo": "https://data.trontokens.org/medias/images/tokens/2382/logo-TWX.png"
+  },
+  {
+    "network": "tron",
+    "name": "TRONbet",
+    "symbol": "ANTE",
+    "decimal": 6,
+    "address": "TCN77KWWyUyi2A4Cu7vrh5dnmRyvUuME1E",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/tronbet.svg"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "zSeed",
+    "symbol": "zSeed",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/icon-128x128.png"
+  },
+  {
+    "network": "ezdefi",
+    "name": "zSeed ezRC20",
+    "symbol": "zSeed",
+    "suffix": "ZD",
+    "decimal": 18,
+    "address": "0x79671543c915A2382F88FdFc640aA4166D1A093E",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/zseed-token-logo/icon-128x128.png"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "logo": "https://bscscan.com/token/images/pancake_32.png?=v1"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "ZD BEP20",
+    "symbol": "ZD",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0x1c213179c2c08906fb759878860652a61727ed14",
+    "logo": "https://raw.githubusercontent.com/ezDeFi/ezdefi-media/master/ezdefi-logo/token-native.svg"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Trust Wallet",
+    "symbol": "TWT",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+    "logo": "https://bscscan.com/token/images/trust_32.png?v=1"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Bakery Token",
+    "symbol": "BAKE",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "logo": "https://bscscan.com/token/images/bakeryswap_32.png"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Burger Swap",
+    "symbol": "BURGER",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+    "logo": "https://bscscan.com/token/images/burgerswap_32.png"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Binance-Peg USDT Token",
+    "symbol": "USDT",
+    "suffix": "BSC",
+    "decimal": 18,
+    "cmcId": 825,
+    "cgkId": "tether",
+    "address": "0x55d398326f99059ff775485246999027b3197955"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Binance-Peg BTCB Token",
+    "symbol": "BTCB",
+    "suffix": "BSC",
+    "decimal": 18,
+    "cmcId": 1,
+    "cgkId": "bitcoin",
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Binance-Peg Ethereum Token",
+    "symbol": "ETH",
+    "suffix": "BSC",
+    "decimal": 18,
+    "cmcId": 1027,
+    "cgkId": "ethereum",
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+  },
+  {
+    "network": "binance-smart-chain",
+    "name": "Binance-Peg BUSD Token",
+    "symbol": "BUSD",
+    "suffix": "BSC",
+    "decimal": 18,
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "logo": "https://bscscan.com/token/images/busd_32.png"
+  },
+  {
+    "network": "solana",
+    "name": "Mega Serum",
+    "symbol": "MSRM",
+    "suffix": "SOL",
+    "decimal": 0,
+    "cmcId": 6187,
+    "address": "MSRMcoVyrFxnSgo5uXwone5SKcGhT1KEJMFEkMEWf9L"
+  },
+  {
+    "network": "solana",
+    "name": "Wrapped Bitcoin Solana",
+    "symbol": "BTC",
+    "suffix": "SOL",
+    "decimal": 6,
+    "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+    "cmcId": 1,
+    "cgkId": "bitcoin"
+  },
+  {
+    "network": "solana",
+    "name": "Wrapped USDT Solana",
+    "symbol": "USDT",
+    "suffix": "SOL",
+    "decimal": 6,
+    "cmcId": 825,
+    "cgkId": "tether",
+    "address": "BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4"
+  },
+  {
+    "network": "ezdefi",
+    "name": "aSRM",
+    "symbol": "aSRM",
+    "suffix": "ZD",
+    "decimal": 18,
+    "address": "0xD8cD9DCB9129afd033b6C75b23C65DC5fCdcd022",
+    "logo": "https://nextyezpay.s3-ap-southeast-1.amazonaws.com/asrm.svg"
+  },
+  {
+    "network": "ezdefi",
+    "name": "DOXI",
+    "symbol": "DOXI",
+    "suffix": "ZD",
+    "decimal": 18,
+    "address": "0xc4209C25a2151CBDc05B7cbbc0c49a5e1F5D4F73",
+    "logo": "https://raw.githubusercontent.com/DOxi-D/DOxi/main/Logo%20DOxi.png"
+  }
+]
