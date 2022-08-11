@@ -1,0 +1,6 @@
+[
+  { "origin": "ezdefi.com$", "allow": ["get", "set", "del", "getKeys", "clear"]},
+  { "origin": "lz.finance$", "allow": ["get", "set", "del", "getKeys", "clear"]},
+  { "origin": "launchzone.github.io$", "allow": ["get", "set", "del", "getKeys", "clear"]},
+  { "origin": "backseats.io$", "allow": ["get", "set", "del", "getKeys", "clear"]}
+]
