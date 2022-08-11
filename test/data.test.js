@@ -58,7 +58,7 @@ const isValidMobilev2 = () => {
 
 const isValidToken = () => {
     let networkArr = getNetworks()
-    let mobileContent = fs.readFileSync('./wallet/lists/token', 'utf8')
+    let mobileContent = fs.readFileSync('./wallet/lists/tokens', 'utf8')
     let mobileObj = JSON.parse(mobileContent)
     for (let i = 0; i < mobileObj.length; i++) {
         if (networkArr.indexOf(mobileObj[i].network) != -1) {
@@ -71,7 +71,7 @@ const isValidToken = () => {
 
 const isValidListToken = () => {
     let networkArr = getNetworks()
-    let mobileContent = fs.readFileSync('./wallet/list-token', 'utf8')
+    let mobileContent = fs.readFileSync('./wallet/list-tokens', 'utf8')
     let mobileObj = JSON.parse(mobileContent)
     for (let i = 0; i < mobileObj.length; i++) {
         if (networkArr.indexOf(mobileObj[i].network) != -1) {
