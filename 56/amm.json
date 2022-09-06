@@ -111,7 +111,8 @@
     },
     "dodo2": {
         "router": "0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486",
-        "icon": "https://dodoex.io/favicon.ico"
+        "icon": "https://dodoex.io/favicon.ico",
+        "gasUsed": 130000
     },
     "synapse": {
         "router": "0x28ec0B36F0819ecB5005cAB836F4ED5a2eCa4D13",
