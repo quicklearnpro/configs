@@ -19,6 +19,11 @@
     },
 	"synapse": {
 		"router": "0x9Dd329F5411466d9e0C488fF72519CA9fEf0cb40",
+        "tokens": [
+            "0x2913E812Cf0dcCA30FB28E6Cac3d2DCFF4497688",
+            "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+        ],
 		"icon": "https://synapseprotocol.com/favicon.ico",
 		"gasUsed": 800000
 	}
