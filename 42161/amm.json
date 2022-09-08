@@ -1,37 +1,49 @@
 {
-	"sushi": {
-		"type": "uniswap",
-		"factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
-		"factoryBlock": 70,
-		"initCodeHash": "0x8d0a67317d0f3996ce544776afa7c503e8c33d0475a0660e08748d1a8cad14a5",
-		"router": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506",
-		"icon": "https://sushi.com/favicon.ico",
-		"gasUsed": 800000,
-		"fee10000": 30
+    "sushi": {
+        "type": "uniswap",
+        "factory": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+        "factoryBlock": 70,
+        "initCodeHash": "0x8d0a67317d0f3996ce544776afa7c503e8c33d0475a0660e08748d1a8cad14a5",
+        "router": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506",
+        "icon": "https://sushi.com/favicon.ico",
+        "gasUsed": 800000,
+        "fee10000": 30
     },
-	"swapr": {
-		"type": "uniswap",
-		"factory": "0x359f20ad0f42d75a5077e65f30274cabe6f4f01a",
-		"factoryBlock": 277186,
-		"initCodeHash": "0xc01c1e64371f21b8eb1e6a789c5e08a08972a8b6c4c3993a5aac4229e521b61b",
-		"router": "0x530476d5583724a89c8841eb6da76e7af4c0f17e",
-		"icon": "https://swapr.eth.link/favicon.png",
-		"gasUsed": 800000,
-		"fee10000": 30
+    "swapr": {
+        "type": "uniswap",
+        "factory": "0x359f20ad0f42d75a5077e65f30274cabe6f4f01a",
+        "factoryBlock": 277186,
+        "initCodeHash": "0xc01c1e64371f21b8eb1e6a789c5e08a08972a8b6c4c3993a5aac4229e521b61b",
+        "router": "0x530476d5583724a89c8841eb6da76e7af4c0f17e",
+        "icon": "https://swapr.eth.link/favicon.png",
+        "gasUsed": 800000,
+        "fee10000": 30
     },
     "dodo2": {
         "router": "0x88CBf433471A0CD8240D2a12354362988b4593E5",
-		"icon": "https://dodoex.io/favicon.ico",
-		"gasUsed": 130000
+        "icon": "https://dodoex.io/favicon.ico",
+        "gasUsed": 130000
     },
-	"synapse": {
-		"router": "0x9Dd329F5411466d9e0C488fF72519CA9fEf0cb40",
+    "synapse": {
+        "router": "0x9Dd329F5411466d9e0C488fF72519CA9fEf0cb40",
         "tokens": [
-            "0x2913E812Cf0dcCA30FB28E6Cac3d2DCFF4497688",
-            "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+            {
+                "address": "0x2913E812Cf0dcCA30FB28E6Cac3d2DCFF4497688",
+                "symbol": "nUSD",
+                "decimal": "18"
+            },
+            {
+                "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+                "symbol": "USDC",
+                "decimal": "6"
+            },
+            {
+                "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+                "symbol": "USDT",
+                "decimal": "6"
+            }
         ],
-		"icon": "https://synapseprotocol.com/favicon.ico",
-		"gasUsed": 800000
-	}
+        "icon": "https://synapseprotocol.com/favicon.ico",
+        "gasUsed": 800000
+    }
 }
