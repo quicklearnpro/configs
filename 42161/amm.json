@@ -21,6 +21,11 @@
     },
     "dodo2": {
         "router": "0x88CBf433471A0CD8240D2a12354362988b4593E5",
+        "factories": [
+            "0xa6Cf3d163358aF376ec5e8B7Cc5e102a05FdE63D",
+            "0xC8fE2440744dcd733246a4dB14093664DEFD5A53",
+            "0xDa4c4411c55B0785e501332354A036c04833B72b"
+        ],
         "icon": "https://dodoex.io/favicon.ico",
         "gasUsed": 130000
     },
