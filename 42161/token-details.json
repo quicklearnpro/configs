@@ -1,2 +1,33 @@
 {
+    "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+        "name": "Binance Coin",
+        "network": "binance-smart-chain",
+        "decimal": 18,
+        "symbol": "ETH",
+        "cmcId": 1839,
+        "cgkId": "binancecoin",
+        "isSegWit": false,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+    },
+    "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": {
+        "name": "USDT BEP20",
+        "decimal": 6,
+        "symbol": "USDT",
+        "cmcId": 825,
+        "cgkId": "tether",
+        "isSegWit": false,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    },
+    "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
+        "name": "Wrapped ETH",
+        "decimal": 18,
+        "symbol": "WETH",
+        "cmcId": 7192,
+        "cgkId": "weth",
+        "isSegWit": false,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+    }
 }
