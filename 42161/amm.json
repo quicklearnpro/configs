@@ -6,7 +6,7 @@
         "initCodeHash": "0x8d0a67317d0f3996ce544776afa7c503e8c33d0475a0660e08748d1a8cad14a5",
         "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
         "icon": "https://sushi.com/favicon.ico",
-        "gasUsed": 800000,
+        "gasUsed": 80000,
         "fee10000": 30
     },
     "swapr": {
@@ -16,7 +16,7 @@
         "initCodeHash": "0xc01c1e64371f21b8eb1e6a789c5e08a08972a8b6c4c3993a5aac4229e521b61b",
         "router": "0x530476d5583724A89c8841eB6Da76E7Af4C0F17E",
         "icon": "https://swapr.eth.link/favicon.png",
-        "gasUsed": 800000,
+        "gasUsed": 80000,
         "fee10000": 30
     },
     "dodo2": {
@@ -49,6 +49,6 @@
             }
         ],
         "icon": "https://synapseprotocol.com/favicon.ico",
-        "gasUsed": 800000
+        "gasUsed": 75000
     }
 }
