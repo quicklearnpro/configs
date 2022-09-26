@@ -7,7 +7,7 @@
         "cmcId": 1839,
         "cgkId": "binancecoin",
         "isSegWit": false,
-        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
         "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     },
     "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": {
@@ -606,7 +606,7 @@
         "symbol": "gOHM"
     },
     "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
-        "logo": "https://arbiscan.io/token/images/weth_28.png",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
         "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "name": "Wrapped Ether",
         "decimal": 18,
