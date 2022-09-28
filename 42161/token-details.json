@@ -1,0 +1,713 @@
+{
+    "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+        "name": "ETH",
+        "network": "binance-smart-chain",
+        "decimal": 18,
+        "symbol": "ETH",
+        "cmcId": 1839,
+        "cgkId": "binancecoin",
+        "isSegWit": false,
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+    },
+    "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9": {
+        "logo": "https://arbiscan.io/token/images/tether_32.png",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "name": "Tether USD",
+        "decimal": 6,
+        "symbol": "USDT"
+    },
+    "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8": {
+        "logo": "https://arbiscan.io/token/images/centre-usdc_28.png",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "name": "USD Coin (Arb1)",
+        "decimal": 6,
+        "symbol": "USDC"
+    },
+    "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
+        "logo": "https://arbiscan.io/token/images/MCDDai_32.png",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "Dai Stablecoin",
+        "decimal": 18,
+        "symbol": "DAI"
+    },
+    "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f": {
+        "logo": "https://arbiscan.io/token/images/wbtc_28.png",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "name": "Wrapped BTC",
+        "decimal": 8,
+        "symbol": "WBTC"
+    },
+    "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0": {
+        "logo": "https://arbiscan.io/token/images/uniswap_32.png",
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "name": "Uniswap",
+        "decimal": 18,
+        "symbol": "UNI"
+    },
+    "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4": {
+        "logo": "https://arbiscan.io/token/images/chainlink_32.png?v=1",
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "name": "ChainLink Token",
+        "decimal": 18,
+        "symbol": "LINK"
+    },
+    "0x1A4dA80967373fd929961e976b4b53ceeC063a15": {
+        "logo": "https://arbiscan.io/token/images/terraluna_32.png",
+        "address": "0x1A4dA80967373fd929961e976b4b53ceeC063a15",
+        "name": "LUNA",
+        "decimal": 6,
+        "symbol": "LUNA"
+    },
+    "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F": {
+        "logo": "https://arbiscan.io/token/images/frax_32.png",
+        "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "name": "Frax",
+        "decimal": 18,
+        "symbol": "FRAX"
+    },
+    "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07": {
+        "logo": "https://arbiscan.io/token/images/trueusd_32.png",
+        "address": "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07",
+        "name": "TrueUSD",
+        "decimal": 18,
+        "symbol": "TUSD"
+    },
+    "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614": {
+        "logo": "https://arbiscan.io/token/images/TheGraph_32.png",
+        "address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
+        "name": "Graph Token",
+        "decimal": 18,
+        "symbol": "GRT"
+    },
+    "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f": {
+        "logo": "https://arbiscan.io/token/images/usddtron_32.png",
+        "address": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
+        "name": "Decentralized USD",
+        "decimal": 18,
+        "symbol": "USDD"
+    },
+    "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE": {
+        "logo": "https://arbiscan.io/token/images/loopring-lrc_32.png",
+        "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+        "name": "LoopringCoin V2",
+        "decimal": 18,
+        "symbol": "LRC"
+    },
+    "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7": {
+        "logo": "https://arbiscan.io/token/images/fraxsharefxs_32.png",
+        "address": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
+        "name": "Frax Share",
+        "decimal": 18,
+        "symbol": "FXS"
+    },
+    "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978": {
+        "logo": "https://arbiscan.io/token/images/Curvefi_32.png",
+        "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+        "name": "Curve DAO Token",
+        "decimal": 18,
+        "symbol": "CRV"
+    },
+    "0x354A6dA3fcde098F8389cad84b0182725c6C91dE": {
+        "logo": "https://arbiscan.io/token/images/compound_32.png",
+        "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
+        "name": "Compound",
+        "decimal": 18,
+        "symbol": "COMP"
+    },
+    "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1": {
+        "logo": "https://arbiscan.io/token/images/gnosans_32.png",
+        "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
+        "name": "Gnosis Token",
+        "decimal": 18,
+        "symbol": "GNO"
+    },
+    "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a": {
+        "logo": "https://arbiscan.io/token/images/gmxarbi_32.png",
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "name": "GMX",
+        "decimal": 18,
+        "symbol": "GMX"
+    },
+    "0x13780E6d5696DD91454F6d3BbC2616687fEa43d0": {
+        "logo": "https://arbiscan.io/token/images/terraustbtt_32.png",
+        "address": "0x13780E6d5696DD91454F6d3BbC2616687fEa43d0",
+        "name": "TerraUSD",
+        "decimal": 6,
+        "symbol": "UST"
+    },
+    "0x82e3A8F066a6989666b031d916c43672085b1582": {
+        "logo": "https://arbiscan.io/token/images/yfi_32.png",
+        "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
+        "name": "yearn.finance",
+        "decimal": 18,
+        "symbol": "YFI"
+    },
+    "0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb": {
+        "logo": "https://arbiscan.io/token/images/synapse_32.png",
+        "address": "0x080F6AEd32Fc474DD5717105Dba5ea57268F46eb",
+        "name": "Synapse",
+        "decimal": 18,
+        "symbol": "SYN"
+    },
+    "0x289ba1701C2F088cf0faf8B3705246331cB8A839": {
+        "logo": "https://arbiscan.io/token/images/livepeer_32.png",
+        "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+        "name": "Livepeer Token",
+        "decimal": 18,
+        "symbol": "LPT"
+    },
+    "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A": {
+        "logo": "https://arbiscan.io/token/images/mimstablecoin_32.png",
+        "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+        "name": "Magic Internet Money",
+        "decimal": 18,
+        "symbol": "MIM"
+    },
+    "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A": {
+        "logo": "https://arbiscan.io/token/images/sushitoken_32.png",
+        "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+        "name": "SushiToken",
+        "decimal": 18,
+        "symbol": "SUSHI"
+    },
+    "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8": {
+        "logo": "https://arbiscan.io/token/images/Balancer_32.png",
+        "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+        "name": "Balancer",
+        "decimal": 18,
+        "symbol": "BAL"
+    },
+    "0xd693Ec944A85eeca4247eC1c3b130DCa9B0C3b22": {
+        "logo": "https://arbiscan.io/token/images/umavotingtokenv1_32.png",
+        "address": "0xd693Ec944A85eeca4247eC1c3b130DCa9B0C3b22",
+        "name": "UMA Voting Token v1",
+        "decimal": 18,
+        "symbol": "UMA"
+    },
+    "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB": {
+        "logo": "https://arbiscan.io/token/images/kybernetworkknc_32.png",
+        "address": "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB",
+        "name": "Kyber Network Crystal v2",
+        "decimal": 18,
+        "symbol": "KNC"
+    },
+    "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF": {
+        "logo": "https://arbiscan.io/token/images/spelltoken_32.png",
+        "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
+        "name": "Spell Token",
+        "decimal": 18,
+        "symbol": "SPELL"
+    },
+    "0x6FE14d3CC2f7bDdffBa5CdB3BBE7467dd81ea101": {
+        "logo": "https://arbiscan.io/token/images/coti_32.png",
+        "address": "0x6FE14d3CC2f7bDdffBa5CdB3BBE7467dd81ea101",
+        "name": "COTI Token",
+        "decimal": 18,
+        "symbol": "COTI"
+    },
+    "0x3a8B787f78D775AECFEEa15706D4221B40F345AB": {
+        "logo": "https://arbiscan.io/token/images/celer_28.png",
+        "address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
+        "name": "CelerToken",
+        "decimal": 18,
+        "symbol": "CELR"
+    },
+    "0x319f865b287fCC10b30d8cE6144e8b6D1b476999": {
+        "logo": "https://arbiscan.io/token/images/cartesi_32.png",
+        "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+        "name": "Cartesi Token",
+        "decimal": 18,
+        "symbol": "CTSI"
+    },
+    "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3": {
+        "logo": "https://arbiscan.io/token/images/multichain_32.png",
+        "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+        "name": "Multichain",
+        "decimal": 18,
+        "symbol": "MULTI"
+    },
+    "0xA970AF1a584579B618be4d69aD6F73459D112F95": {
+        "logo": "https://arbiscan.io/token/images/SynthetixsUSD_32.png?v=1",
+        "address": "0xA970AF1a584579B618be4d69aD6F73459D112F95",
+        "name": "Synth sUSD",
+        "decimal": 18,
+        "symbol": "sUSD"
+    },
+    "0x6694340fc020c5E6B96567843da2df01b2CE1eb6": {
+        "logo": "https://arbiscan.io/token/images/stargate_32.png",
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "name": "StargateToken",
+        "decimal": 18,
+        "symbol": "STG"
+    },
+    "0xBfa641051Ba0a0Ad1b0AcF549a89536A0D76472E": {
+        "logo": "https://arbiscan.io/token/images/badger_32.png",
+        "address": "0xBfa641051Ba0a0Ad1b0AcF549a89536A0D76472E",
+        "name": "Badger",
+        "decimal": 18,
+        "symbol": "BADGER"
+    },
+    "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d": {
+        "logo": "https://arbiscan.io/token/images/mai_32.png",
+        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+        "name": "Mai Stablecoin",
+        "decimal": 18,
+        "symbol": "MAI"
+    },
+    "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1": {
+        "logo": "https://arbiscan.io/token/images/barnbridge_32.png",
+        "address": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
+        "name": "BarnBridge Governance Token",
+        "decimal": 18,
+        "symbol": "BOND"
+    },
+    "0x753D224bCf9AAFaCD81558c32341416df61D3DAC": {
+        "logo": "https://arbiscan.io/token/images/perpetual_32.png",
+        "address": "0x753D224bCf9AAFaCD81558c32341416df61D3DAC",
+        "name": "Perpetual",
+        "decimal": 18,
+        "symbol": "PERP"
+    },
+    "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581": {
+        "logo": "https://arbiscan.io/token/images/dodo_32.png",
+        "address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
+        "name": "DODO bird",
+        "decimal": 18,
+        "symbol": "DODO"
+    },
+    "0xef888bcA6AB6B1d26dbeC977C455388ecd794794": {
+        "logo": "https://arbiscan.io/token/images/RariGovernanceToken_32.png",
+        "address": "0xef888bcA6AB6B1d26dbeC977C455388ecd794794",
+        "name": "Rari Governance Token",
+        "decimal": 18,
+        "symbol": "RGT"
+    },
+    "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7": {
+        "logo": "https://arbiscan.io/token/images/angleeurarbi_32.png",
+        "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
+        "name": "agEUR",
+        "decimal": 18,
+        "symbol": "agEUR"
+    },
+    "0xAC9Ac2C17cdFED4AbC80A53c5553388575714d03": {
+        "logo": "https://arbiscan.io/token/images/automata_32.png",
+        "address": "0xAC9Ac2C17cdFED4AbC80A53c5553388575714d03",
+        "name": "Automata",
+        "decimal": 18,
+        "symbol": "ATA"
+    },
+    "0x39f91452a6E9994762876e1EDd87Be28a46d5c99": {
+        "logo": "https://arbiscan.io/token/images/diadataarb_32.png",
+        "address": "0x39f91452a6E9994762876e1EDd87Be28a46d5c99",
+        "name": "DIAToken",
+        "decimal": 18,
+        "symbol": "DIA"
+    },
+    "0x5298060A95205BE6Dd4aBc21910A4bB23D6DCD8b": {
+        "logo": "https://arbiscan.io/token/images/routerprotocol_32.png",
+        "address": "0x5298060A95205BE6Dd4aBc21910A4bB23D6DCD8b",
+        "name": "Route",
+        "decimal": 18,
+        "symbol": "ROUTE"
+    },
+    "0xA7Aa2921618e3D63dA433829d448b58C9445A4c3": {
+        "logo": "https://arbiscan.io/token/images/dvf_32.png",
+        "address": "0xA7Aa2921618e3D63dA433829d448b58C9445A4c3",
+        "name": "DeversiFi Token",
+        "decimal": 18,
+        "symbol": "DVF"
+    },
+    "0x2aD62674A64E698C24831Faf824973C360430140": {
+        "logo": "https://arbiscan.io/token/images/unibright_32.png",
+        "address": "0x2aD62674A64E698C24831Faf824973C360430140",
+        "name": "UniBright",
+        "decimal": 8,
+        "symbol": "UBT"
+    },
+    "0x99F40b01BA9C469193B360f72740E416B17Ac332": {
+        "logo": "https://arbiscan.io/token/images/mathwallet_32.png",
+        "address": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
+        "name": "MATH Token",
+        "decimal": 18,
+        "symbol": "MATH"
+    },
+    "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9": {
+        "logo": "https://arbiscan.io/token/images/stakedao_32.png",
+        "address": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
+        "name": "Stake DAO Token",
+        "decimal": 18,
+        "symbol": "SDT"
+    },
+    "0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286": {
+        "logo": "https://arbiscan.io/token/images/fusetoken_32.png",
+        "address": "0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286",
+        "name": "Fuse Token",
+        "decimal": 18,
+        "symbol": "FUSE"
+    },
+    "0x55678cd083fcDC2947a0Df635c93C838C89454A3": {
+        "logo": "https://arbiscan.io/token/images/imtokenlon_32.png",
+        "address": "0x55678cd083fcDC2947a0Df635c93C838C89454A3",
+        "name": "Tokenlon",
+        "decimal": 18,
+        "symbol": "LON"
+    },
+    "0x031d35296154279DC1984dCD93E392b1f946737b": {
+        "logo": "https://arbiscan.io/token/images/cap_32.png",
+        "address": "0x031d35296154279DC1984dCD93E392b1f946737b",
+        "name": "Cap",
+        "decimal": 18,
+        "symbol": "CAP"
+    },
+    "0x55704A0e9E2eb59E176C5b69655DbD3DCDCFc0F0": {
+        "logo": "https://arbiscan.io/token/images/ovr_32.png",
+        "address": "0x55704A0e9E2eb59E176C5b69655DbD3DCDCFc0F0",
+        "name": "OVR",
+        "decimal": 18,
+        "symbol": "OVR"
+    },
+    "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689": {
+        "logo": "https://arbiscan.io/token/images/DF_32.png",
+        "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+        "name": "dForce",
+        "decimal": 18,
+        "symbol": "DF"
+    },
+    "0xBA9a5Dd807c9F072850bE15a52dF3408BA25Fd18": {
+        "logo": "https://arbiscan.io/token/images/btuprotocol_32.png",
+        "address": "0xBA9a5Dd807c9F072850bE15a52dF3408BA25Fd18",
+        "name": "BTU Protocol",
+        "decimal": 18,
+        "symbol": "BTU"
+    },
+    "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234": {
+        "logo": "https://arbiscan.io/token/images/CreamFinance_32.png",
+        "address": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
+        "name": "Cream",
+        "decimal": 18,
+        "symbol": "CREAM"
+    },
+    "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42": {
+        "logo": "https://arbiscan.io/token/images/mcdextoken_32.png",
+        "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+        "name": "MCDEX Token",
+        "decimal": 18,
+        "symbol": "MCB"
+    },
+    "0x5298Ee77A8f9E226898403eBAC33e68a62F770A0": {
+        "logo": "https://arbiscan.io/token/images/meta_32.png",
+        "address": "0x5298Ee77A8f9E226898403eBAC33e68a62F770A0",
+        "name": "Meta",
+        "decimal": 18,
+        "symbol": "MTA"
+    },
+    "0xaaA62D9584Cbe8e4D68A43ec91BfF4fF1fAdB202": {
+        "logo": "https://arbiscan.io/token/images/antimatter_32.png",
+        "address": "0xaaA62D9584Cbe8e4D68A43ec91BfF4fF1fAdB202",
+        "name": "Antimatter.Finance Governance Token",
+        "decimal": 18,
+        "symbol": "MATTER"
+    },
+    "0x1D54Aa7E322e02A0453c0F2fA21505cE7F2E9E93": {
+        "logo": "https://arbiscan.io/token/images/dfynnetwork_32.png",
+        "address": "0x1D54Aa7E322e02A0453c0F2fA21505cE7F2E9E93",
+        "name": "DFYN Token",
+        "decimal": 18,
+        "symbol": "DFYN"
+    },
+    "0x07E49d5dE43DDA6162Fa28D24d5935C151875283": {
+        "logo": "https://arbiscan.io/token/images/cvifinance-govi_32.png",
+        "address": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
+        "name": "GOVI",
+        "decimal": 18,
+        "symbol": "GOVI"
+    },
+    "0xa684cd057951541187f288294a1e1C2646aA2d24": {
+        "logo": "https://arbiscan.io/token/images/vestafinance_32.png",
+        "address": "0xa684cd057951541187f288294a1e1C2646aA2d24",
+        "name": "Vesta",
+        "decimal": 18,
+        "symbol": "VSTA"
+    },
+    "0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12": {
+        "logo": "https://arbiscan.io/token/images/deri_32.png",
+        "address": "0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12",
+        "name": "Deri",
+        "decimal": 18,
+        "symbol": "DERI"
+    },
+    "0xEe9801669C6138E84bD50dEB500827b776777d28": {
+        "logo": "https://arbiscan.io/token/images/o3swap_32.png",
+        "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+        "name": "O3 Swap Token",
+        "decimal": 18,
+        "symbol": "O3"
+    },
+    "0x51318B7D00db7ACc4026C88c3952B66278B6A67F": {
+        "logo": "https://arbiscan.io/token/images/plutusdao2_32.png",
+        "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
+        "name": "Plutus",
+        "decimal": 18,
+        "symbol": "PLS"
+    },
+    "0x965772e0E9c84b6f359c8597C891108DcF1c5B1A": {
+        "logo": "https://arbiscan.io/token/images/pickle_32.png",
+        "address": "0x965772e0E9c84b6f359c8597C891108DcF1c5B1A",
+        "name": "PickleToken",
+        "decimal": 18,
+        "symbol": "PICKLE"
+    },
+    "0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B": {
+        "logo": "https://arbiscan.io/token/images/handlefi_32.png",
+        "address": "0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B",
+        "name": "handleFOREX",
+        "decimal": 18,
+        "symbol": "FOREX"
+    },
+    "0x6F5401c53e2769c858665621d22DDBF53D8d27c5": {
+        "logo": "https://arbiscan.io/token/images/connectfinancial_32.png",
+        "address": "0x6F5401c53e2769c858665621d22DDBF53D8d27c5",
+        "name": "Connect Financial",
+        "decimal": 18,
+        "symbol": "CNFI"
+    },
+    "0x7cb16cb78ea464aD35c8a50ABF95dff3c9e09d5d": {
+        "logo": "https://arbiscan.io/token/images/0xbitcoin_32.png",
+        "address": "0x7cb16cb78ea464aD35c8a50ABF95dff3c9e09d5d",
+        "name": "0xBitcoin Token",
+        "decimal": 8,
+        "symbol": "0xBTC"
+    },
+    "0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3": {
+        "logo": "https://arbiscan.io/token/images/doubloon_32.png",
+        "address": "0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3",
+        "name": "Doubloon Token",
+        "decimal": 18,
+        "symbol": "DBL"
+    },
+    "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017": {
+        "logo": "https://arbiscan.io/token/images/radiantcapital_32.png",
+        "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+        "name": "Radiant",
+        "decimal": 18,
+        "symbol": "RDNT"
+    },
+    "0x848e0BA28B637e8490D88BaE51fA99C87116409B": {
+        "logo": "https://arbiscan.io/token/images/agave_32.png",
+        "address": "0x848e0BA28B637e8490D88BaE51fA99C87116409B",
+        "name": "Agave",
+        "decimal": 18,
+        "symbol": "AGVE"
+    },
+    "0x10010078a54396F62c96dF8532dc2B4847d47ED3": {
+        "logo": "https://arbiscan.io/token/images/hundredfinance_32.png",
+        "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+        "name": "Hundred Finance",
+        "decimal": 18,
+        "symbol": "HND"
+    },
+    "0x326c33FD1113c1F29B35B4407F3d6312a8518431": {
+        "logo": "https://arbiscan.io/token/images/strips_32.png",
+        "address": "0x326c33FD1113c1F29B35B4407F3d6312a8518431",
+        "name": "Strips Token",
+        "decimal": 18,
+        "symbol": "STRP"
+    },
+    "0x3BD2dFd03BC7c3011ed7fb8c4d0949B382726cee": {
+        "logo": "https://arbiscan.io/token/images/roobeefin_32.png",
+        "address": "0x3BD2dFd03BC7c3011ed7fb8c4d0949B382726cee",
+        "name": "ROOBEE",
+        "decimal": 18,
+        "symbol": "ROOBEE"
+    },
+    "0xA5eC9d64b64b8B9E94FEaA7538c084b38117E7Ba": {
+        "logo": "https://arbiscan.io/token/images/blanktoken_32.png",
+        "address": "0xA5eC9d64b64b8B9E94FEaA7538c084b38117E7Ba",
+        "name": "GoBlank Token",
+        "decimal": 18,
+        "symbol": "BLANK"
+    },
+    "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA": {
+        "logo": "https://arbiscan.io/token/images/alchemy_32.png",
+        "address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
+        "name": "Alchemy",
+        "decimal": 18,
+        "symbol": "ALCH"
+    },
+    "0x6F67043201C903bbCBC129750CB3b328Dd56a0a5": {
+        "logo": "https://arbiscan.io/token/images/basiscash_32.png",
+        "address": "0x6F67043201C903bbCBC129750CB3b328Dd56a0a5",
+        "name": "BAC",
+        "decimal": 18,
+        "symbol": "BAC"
+    },
+    "0xB965029343D55189c25a7f3e0c9394DC0F5D41b1": {
+        "logo": "https://arbiscan.io/token/images/indexed_32.png",
+        "address": "0xB965029343D55189c25a7f3e0c9394DC0F5D41b1",
+        "name": "Indexed",
+        "decimal": 18,
+        "symbol": "NDX"
+    },
+    "0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25": {
+        "logo": "https://arbiscan.io/token/images/aluna_32.png",
+        "address": "0x9b3fa2A7C3EB36d048A5d38d81E7fAFC6bc47B25",
+        "name": "Aluna",
+        "decimal": 18,
+        "symbol": "ALN"
+    },
+    "0xF80D589b3Dbe130c270a69F1a69D050f268786Df": {
+        "logo": "https://arbiscan.io/token/images/datamine_32.png",
+        "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+        "name": "Flux",
+        "decimal": 18,
+        "symbol": "FLUX"
+    },
+    "0xea986d33eF8a20A96120ecc44dBdD49830192043": {
+        "logo": "https://arbiscan.io/token/images/auctus_32.png",
+        "address": "0xea986d33eF8a20A96120ecc44dBdD49830192043",
+        "name": "Auctus Token",
+        "decimal": 18,
+        "symbol": "AUC"
+    },
+    "0xa4f595Ba35161c9fFE3db8c03991B9C2CBB26C6b": {
+        "logo": "https://arbiscan.io/token/images/lyscapital_32.png",
+        "address": "0xa4f595Ba35161c9fFE3db8c03991B9C2CBB26C6b",
+        "name": "LYS",
+        "decimal": 18,
+        "symbol": "LYS"
+    },
+    "0x2eD14d1788dfB780fD216706096AeD018514ECcd": {
+        "logo": "https://arbiscan.io/token/images/vox_32.png",
+        "address": "0x2eD14d1788dfB780fD216706096AeD018514ECcd",
+        "name": "Vox.Finance",
+        "decimal": 18,
+        "symbol": "VOX"
+    },
+    "0x115D8bF0a53e751f8A472F88D587944EC1C8CA6D": {
+        "logo": "https://arbiscan.io/token/images/ptokenbtc_32.png",
+        "address": "0x115D8bF0a53e751f8A472F88D587944EC1C8CA6D",
+        "name": "pTokens BTC",
+        "decimal": 18,
+        "symbol": "pBTC"
+    },
+    "0x078f358208685046a11C85e8ad32895DED33A249": {
+        "logo": "https://arbiscan.io/token/images/aarbwbtc_32.png",
+        "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+        "name": "Aave Arbitrum WBTC",
+        "decimal": 8,
+        "symbol": "aArbWBTC"
+    },
+    "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1": {
+        "logo": "https://arbiscan.io/token/images/ohmgovernance_32.png",
+        "address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+        "name": "Governance OHM",
+        "decimal": 18,
+        "symbol": "gOHM"
+    },
+    "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1": {
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "name": "Wrapped Ether",
+        "decimal": 18,
+        "symbol": "WETH"
+    },
+    "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55": {
+        "logo": "https://arbiscan.io/token/images/dopex-dpx_32.png",
+        "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+        "name": "Dopex Governance Token",
+        "decimal": 18,
+        "symbol": "DPX"
+    },
+    "0x32Eb7902D4134bf98A28b963D26de779AF92A212": {
+        "logo": "https://arbiscan.io/token/images/dopex-rdpx_32.png",
+        "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+        "name": "Dopex Rebate Token",
+        "decimal": 18,
+        "symbol": "RDPX"
+    },
+    "0x6E6a3D8F1AfFAc703B1aEF1F43B8D2321bE40043": {
+        "logo": "https://arbiscan.io/token/images/olympusdao_32.png",
+        "address": "0x6E6a3D8F1AfFAc703B1aEF1F43B8D2321bE40043",
+        "name": "Olympus",
+        "decimal": 9,
+        "symbol": "OHM"
+    },
+    "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530": {
+        "logo": "https://arbiscan.io/token/images/aarblink_32.png",
+        "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+        "name": "Aave Arbitrum LINK",
+        "decimal": 18,
+        "symbol": "aArbLINK"
+    },
+    "0xF0DFAD1817b5ba73726B02Ab34dd4B4B00bcD392": {
+        "logo": "https://arbiscan.io/token/images/minatodao_32.png",
+        "address": "0xF0DFAD1817b5ba73726B02Ab34dd4B4B00bcD392",
+        "name": "Minato",
+        "decimal": 18,
+        "symbol": "MNTO"
+    },
+    "0x86b3353387F560295a8Fa7902679735E5f076Bd5": {
+        "logo": "https://arbiscan.io/token/images/omicron_32.png",
+        "address": "0x86b3353387F560295a8Fa7902679735E5f076Bd5",
+        "name": "Omicron",
+        "decimal": 9,
+        "symbol": "OMIC"
+    },
+    "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE": {
+        "logo": "https://arbiscan.io/token/images/aarbdai_32.png",
+        "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+        "name": "Aave Arbitrum DAI",
+        "decimal": 18,
+        "symbol": "aArbDAI"
+    },
+    "0x625E7708f30cA75bfd92586e17077590C60eb4cD": {
+        "logo": "https://arbiscan.io/token/images/aave_32.png",
+        "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+        "name": "Aave Arbitrum USDC",
+        "decimal": 6,
+        "symbol": "aArbUSDC"
+    },
+    "0x6ab707Aca953eDAeFBc4fD23bA73294241490620": {
+        "logo": "https://arbiscan.io/token/images/aarbusdt_32.png",
+        "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+        "name": "Aave Arbitrum USDT",
+        "decimal": 6,
+        "symbol": "aArbUSDT"
+    },
+    "0x3509f19581aFEDEff07c53592bc0Ca84e4855475": {
+        "logo": "https://arbiscan.io/token/images/xdollar_32.png",
+        "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+        "name": "xDollar Stablecoin",
+        "decimal": 18,
+        "symbol": "xUSD"
+    },
+    "0xAE6e3540E97b0b9EA8797B157B510e133afb6282": {
+        "logo": "https://arbiscan.io/token/images/degenindex_32.png",
+        "address": "0xAE6e3540E97b0b9EA8797B157B510e133afb6282",
+        "name": "DEGEN Index",
+        "decimal": 18,
+        "symbol": "DEGEN"
+    },
+    "0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709": {
+        "logo": "https://arbiscan.io/token/images/fluid_32.png",
+        "address": "0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709",
+        "name": "DigitalDollar",
+        "decimal": 6,
+        "symbol": "DUSD"
+    },
+    "0x5837d843D49ffdefC78Fe09B5F371427c917946F": {
+        "logo": "https://arbiscan.io/token/images/chemix_32.png",
+        "address": "0x5837d843D49ffdefC78Fe09B5F371427c917946F",
+        "name": "QIAN second generation dollar",
+        "decimal": 18,
+        "symbol": "QSD"
+    },
+    "0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA": {
+        "logo": "https://arbiscan.io/token/images/fluidfi_32.png?v=2",
+        "address": "0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA",
+        "name": "FluidFi",
+        "decimal": 18,
+        "symbol": "FLUID"
+    }
+}

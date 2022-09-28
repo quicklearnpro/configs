@@ -1,5 +1,6 @@
 {
     "pancake": {
+        "type": "uniswap",
         "factory": "0xBCfCcbde45cE874adCB698cC183deBcF17952812",
         "factoryBlock": 586851,
         "initCodeHash": "0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66",
@@ -9,6 +10,7 @@
         "fee10000": 20
     },
     "bakery": {
+        "type": "uniswap",
         "factory": "0x01bF7C66c6BD861915CdaaE475042d3c4BaE16A7",
         "factoryBlock": 470617,
         "initCodeHash": "0xe2e87433120e32c4738a7d8f3271f3d872cbe16241d67537139158d90bac61d3",
@@ -18,6 +20,7 @@
         "fee10000": 30
     },
     "pancake2": {
+        "type": "uniswap",
         "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
         "factoryBlock": 6809737,
         "initCodeHash": "0x00fb7f630766e6a796048ea87d01acd3068e8ff67d078148a3fa3f4a84f69bd5",
@@ -27,6 +30,7 @@
         "fee10000": 25
     },
     "jul": {
+        "type": "uniswap",
         "factory": "0x553990F2CBA90272390f62C5BDb1681fFc899675",
         "factoryBlock": 784352,
         "initCodeHash": "0xb1e98e21a5335633815a8cfb3b580071c2e4561c50afd57a8746def9ed890b18",
@@ -36,6 +40,7 @@
         "fee10000": 30
     },
     "ape": {
+        "type": "uniswap",
         "factory": "0x0841BD0B734E4F5853f0dD8d7Ea041c241fb0Da6",
         "factoryBlock": 4855901,
         "initCodeHash": "0xf4ccce374816856d11f00e4069e7cada164065686fbef53c6167a63ec2fd8c5b",
@@ -45,15 +50,17 @@
         "fee10000": 20
     },
     "bi": {
+        "type": "uniswap",
         "factory": "0x858E3312ed3A876947EA49d572A7C42DE08af7EE",
         "factoryBlock": 7664646,
         "initCodeHash": "0xfea293c909d87cd4153593f077b76bb7e94340200f4ee84211ae8e4f9bd7ffdf",
         "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
-        "icon": "https://biswap.org/icon.png",
+        "icon": "https://biswap.org/logo.png",
         "gasUsed": 200000,
         "fee10000": 10
     },
     "mdex": {
+        "type": "uniswap",
         "factory": "0x3CD1C46068dAEa5Ebb0d3f55F6915B10648062B8",
         "factoryBlock": 6300120,
         "initCodeHash": "0x0d994d996174b05cfc7bed897dc1b20b4c458fc8d64fe98bc78b3c64a6b4d093",
@@ -63,6 +70,7 @@
         "fee10000": 30
     },
     "cafe": {
+        "type": "uniswap",
         "factory": "0x3e708FdbE3ADA63fc94F8F61811196f1302137AD",
         "factoryBlock": 5865260,
         "initCodeHash": "0x90bcdb5d0bf0e8db3852b0b7d7e05cc8f7c6eb6d511213c5ba02d1d1dbeda8d3",
@@ -72,6 +80,7 @@
         "fee10000": 20
     },
     "jet": {
+        "type": "uniswap",
         "factory": "0x0eb58E5c8aA63314ff5547289185cC4583DfCBD5",
         "factoryBlock": 7091833,
         "initCodeHash": "0x3125d0a15fa7af49ce234ba1cf5f931bad0504242e0e1ee9fcd7d1d7aa88c651",
@@ -81,6 +90,7 @@
         "fee10000": 30
     },
     "baby": {
+        "type": "uniswap",
         "factory": "0x86407bEa2078ea5f5EB5A52B2caA963bC1F889Da",
         "factoryBlock": 7911393,
         "initCodeHash": "0x48c8bec5512d397a5d512fbb7d83d515e7b6d91e9838730bd1aa1b16575da7f5",
@@ -90,6 +100,7 @@
         "fee10000": 30
     },
     "openocean": {
+        "type": "uniswap",
         "factory": "0xd76d8C2A7CA0a1609Aea0b9b5017B3F7782891bf",
         "factoryBlock": 8970640,
         "initCodeHash": "0xe7da666f616ba3bdb18c6908b22d556a41659bdd652762c246b8d1fa4f7506b4",
@@ -98,8 +109,40 @@
         "gasUsed": 80000,
         "fee10000": 20
     },
+    "dodo2": {
+        "router": "0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486",
+        "factories": [
+            "0xd9CAc3D964327e47399aebd8e1e6dCC4c251DaAE",
+            "0x0fb9815938Ad069Bf90E14FE6C596c514BEDe767",
+            "0x790B4A80Fb1094589A3c0eFC8740aA9b0C1733fB"
+        ],
+        "icon": "https://dodoex.io/favicon.ico",
+        "gasUsed": 130000
+    },
     "synapse": {
         "router": "0x28ec0B36F0819ecB5005cAB836F4ED5a2eCa4D13",
+        "tokens": [
+            {
+                "address": "0x23b891e5C62E0955ae2bD185990103928Ab817b3",
+                "symbol": "NUSD",
+                "decimal": "18"
+            },
+            {
+                "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+                "symbol": "BUSD",
+                "decimal": "18"
+            },
+            {
+                "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+                "symbol": "USDC",
+                "decimal": "18"
+            },
+            {
+                "address": "0x55d398326f99059fF775485246999027B3197955",
+                "symbol": "USDT",
+                "decimal": "18"
+            }
+        ],
         "icon": "https://synapseprotocol.com/favicon.ico",
         "gasUsed": 75000
     }
