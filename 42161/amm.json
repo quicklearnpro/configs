@@ -26,13 +26,8 @@
             "0xC8fE2440744dcd733246a4dB14093664DEFD5A53",
             "0xDa4c4411c55B0785e501332354A036c04833B72b"
         ],
-        "icon": "https://dodoex.io/favicon.ico",
-        "gasUsed": 130000
-    },
-    "dodo1": {
-        "router": "0x8F8Dd7DB1bDA5eD3da8C9daf3bfa471c12d58486",
-        "pools": {
-            "0xfe176a2b1e1f67250d2903b8d25f56c0dabcd6b2": [
+        "pools1": {
+            "0xFE176A2b1e1F67250d2903B8d25f56C0DaBcd6b2": [
                 "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
                 "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
             ],
