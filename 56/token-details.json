@@ -1475,5 +1475,14 @@
     "cmcId": null,
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19299.png",
     "address": "0x2baD52989Afc714C653da8e5C47bF794A8f7b11D"
+  },
+  "0xa83Bfcf9E252Adf1F39937984A4E113Eda6E445b": {
+    "name": "Plant Empires",
+    "network": "binance-smart-chain",
+    "decimal": 18,
+    "symbol": "PEFI",
+    "cmcId": 20747,
+    "logo": "https://rofi-games-cdn.b-cdn.net/platform/games/plant-empires/32x32.png",
+    "address": "0xa83Bfcf9E252Adf1F39937984A4E113Eda6E445b"
   }
 }
