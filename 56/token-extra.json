@@ -1,8 +1,4 @@
 {
-    "0x198271b868daE875bFea6e6E4045cDdA5d6B9829": {
-        "symbol": "AFD",
-        "tax": 1
-    },
     "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688": {
         "tax": 0.1,
         "extraGas": 830226
