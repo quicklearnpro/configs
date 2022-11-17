@@ -8,5 +8,6 @@
         "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
     ],
     "aggregator": "0xb929e83EDFC042D7c0BBEfBe99adBb7FDaBe27D5",
-    "broker": "0xd553810a1AF6E27043c19cF5d67f3Cf4178D83fB"
+    "broker": "0xd553810a1AF6E27043c19cF5d67f3Cf4178D83fB",
+    "kyberSwapAggregatorApi": "https://aggregator-api.kyberswap.com/arbitrum/route/encode"
 }
