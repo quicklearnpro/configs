@@ -10,7 +10,7 @@
     "aggregator": "0xb929e83EDFC042D7c0BBEfBe99adBb7FDaBe27D5",
     "broker": "0xd553810a1AF6E27043c19cF5d67f3Cf4178D83fB",
     "kyberSwapAggregatorApi": "https://aggregator-api.kyberswap.com/arbitrum/route/encode",
-    "kyberRoutes": [
+    "kyberRouters": [
         "0x00555513Acf282B42882420E5e5bA87b44D8fA6E",
         "0x617Dee16B86534a5d792A4d7A62FB491B544111E"
     ]
