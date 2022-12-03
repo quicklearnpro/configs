@@ -709,5 +709,12 @@
         "name": "FluidFi",
         "decimal": 18,
         "symbol": "FLUID"
+    },
+    "0x954ac1c73e16c77198e83C088aDe88f6223F3d44": {
+        "logo": "https://arbiscan.io/token/images/levi_32.png",
+        "address": "0x954ac1c73e16c77198e83C088aDe88f6223F3d44",
+        "name": "LeverageInu",
+        "decimal": 18,
+        "symbol": "LEVI"
     }
 }

@@ -9,5 +9,10 @@
         "0x14016E85a25aeb13065688cAFB43044C2ef86784"
     ],
     "aggregator": "0x9a7b42f2cC543ab1bcFEB2b9F8b9cB8CC0F38E5F",
-    "broker": "0x45F19b5aBA58D83CF09923b7C861Be19bDe752A1"
+    "broker": "0x45F19b5aBA58D83CF09923b7C861Be19bDe752A1",
+    "kyberSwapAggregatorApi": "https://aggregator-api.kyberswap.com/bsc/route/encode",
+    "kyberRouters": [
+        "0x00555513Acf282B42882420E5e5bA87b44D8fA6E",
+        "0x617Dee16B86534a5d792A4d7A62FB491B544111E"
+    ]
 }
