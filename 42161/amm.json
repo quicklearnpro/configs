@@ -13,7 +13,7 @@
         "type": "univ3",
         "factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
         "factoryBlock": 165,
-        "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "router": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45",
         "icon": "https://uniswap.org/favicon.ico",
         "gasUsed": 80000,
         "fee10000": 30
