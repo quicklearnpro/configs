@@ -9,6 +9,15 @@
         "gasUsed": 80000,
         "fee10000": 30
     },
+    "univ3": {
+        "type": "univ3",
+        "factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+        "factoryBlock": 165,
+        "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+        "icon": "https://uniswap.org/favicon.ico",
+        "gasUsed": 80000,
+        "fee10000": 30
+    },
     "swapr": {
         "type": "uniswap",
         "factory": "0x359F20Ad0F42D75a5077e65F30274cABe6f4F01a",
