@@ -1,1 +1,205 @@
-{}
+{
+  "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58": {
+    "logo": "https://optimistic.etherscan.io/token/images/tether_32.png",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "decimal": 6
+  },
+  "0x7F5c764cBc14f9669B88837ca1490cCa17c31607": {
+    "logo": "https://optimistic.etherscan.io/token/images/usdc_32.png",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "decimal": 6
+  },
+  "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1": {
+    "logo": "https://optimistic.etherscan.io/token/images/MCDDai_32.png",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "decimal": 18
+  },
+  "0x68f180fcCe6836688e9084f035309E29Bf0A2095": {
+    "logo": "https://optimistic.etherscan.io/token/images/wbtc_28.png?v=1",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "decimal": 8
+  },
+  "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6": {
+    "logo": "https://optimistic.etherscan.io/token/images/chainlink_32.png",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "decimal": 18
+  },
+  "0xFdb794692724153d1488CcdBE0C56c252596735F": {
+    "logo": "https://optimistic.etherscan.io/token/images/lidodao_32.png",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+    "decimal": 18
+  },
+  "0x2E3D870790dC77A83DD1d18184Acc7439A53f475": {
+    "logo": "https://optimistic.etherscan.io/token/images/fraxop_32.png",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+    "decimal": 18
+  },
+  "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4": {
+    "logo": "https://optimistic.etherscan.io/token/images/SynthetixSNX_32.png",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+    "decimal": 18
+  },
+  "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be": {
+    "logo": "https://optimistic.etherscan.io/token/images/fraxshareop_32.png",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+    "decimal": 18
+  },
+  "0xC22885e06cd8507c5c74a948C59af853AEd1Ea5C": {
+    "logo": "https://optimistic.etherscan.io/token/images/usddtron_32.png",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "address": "0xC22885e06cd8507c5c74a948C59af853AEd1Ea5C",
+    "decimal": 18
+  },
+  "0x4200000000000000000000000000000000000042": {
+    "logo": "https://optimistic.etherscan.io/token/images/optimism_32.png",
+    "name": "Optimism",
+    "symbol": "OP",
+    "address": "0x4200000000000000000000000000000000000042",
+    "decimal": 18
+  },
+  "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80": {
+    "logo": "https://optimistic.etherscan.io/token/images/terraustbtt_32.png",
+    "name": "TerraUSD",
+    "symbol": "UST",
+    "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
+    "decimal": 6
+  },
+  "0xa00E3A3511aAC35cA78530c85007AFCd31753819": {
+    "logo": "https://optimistic.etherscan.io/token/images/kybernetworkknc_32.png",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+    "decimal": 18
+  },
+  "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9": {
+    "logo": "https://optimistic.etherscan.io/token/images/SynthetixsUSD_32.png",
+    "name": "Synth sUSD",
+    "symbol": "sUSD",
+    "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+    "decimal": 18
+  },
+  "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642": {
+    "logo": "https://optimistic.etherscan.io/token/images/beefy_32.png",
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+    "decimal": 18
+  },
+  "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49": {
+    "logo": "https://optimistic.etherscan.io/token/images/SynthetixsETH_32.png",
+    "name": "Synth sETH",
+    "symbol": "sETH",
+    "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+    "decimal": 18
+  },
+  "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B": {
+    "logo": "https://optimistic.etherscan.io/token/images/bobstable_32.png",
+    "name": "BOB",
+    "symbol": "BOB",
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "decimal": 18
+  },
+  "0x217D47011b23BB961eB6D93cA9945B7501a5BB11": {
+    "logo": "https://optimistic.etherscan.io/token/images/thalesfin_32.png",
+    "name": "Thales DAO Token",
+    "symbol": "THALES",
+    "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+    "decimal": 18
+  },
+  "0x73cb180bf0521828d8849bc8CF2B920918e23032": {
+    "logo": "https://optimistic.etherscan.io/token/images/usdplus_32.png",
+    "name": "USD+",
+    "symbol": "USD+",
+    "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+    "decimal": 6
+  },
+  "0x298B9B95708152ff6968aafd889c6586e9169f1D": {
+    "logo": "https://optimistic.etherscan.io/token/images/Synthetix_sBTC_32.png",
+    "name": "Synth sBTC",
+    "symbol": "sBTC",
+    "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+    "decimal": 18
+  },
+  "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC": {
+    "logo": "https://optimistic.etherscan.io/token/images/Hop_32.png",
+    "name": "Hop",
+    "symbol": "HOP",
+    "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+    "decimal": 18
+  },
+  "0xB548f63D4405466B36C0c0aC3318a22fDcec711a": {
+    "logo": "https://optimistic.etherscan.io/token/images/RariGovernanceToken_32.png?v=2",
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
+    "decimal": 18
+  },
+  "0xEe9801669C6138E84bD50dEB500827b776777d28": {
+    "logo": "https://optimistic.etherscan.io/token/images/03swap_32.png",
+    "name": "O3 Swap Token",
+    "symbol": "O3",
+    "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+    "decimal": 18
+  },
+  "0x1da650C3B2DaA8AA9Ff6F661d4156Ce24d08A062": {
+    "logo": "https://optimistic.etherscan.io/token/images/dentacoin_32.png",
+    "name": "Dentacoin",
+    "symbol": "DCN",
+    "address": "0x1da650C3B2DaA8AA9Ff6F661d4156Ce24d08A062",
+    "decimal": 0
+  },
+  "0xEcF46257ed31c329F204Eb43E254C609dee143B3": {
+    "logo": "https://optimistic.etherscan.io/token/images/rigoblock_32.png",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "address": "0xEcF46257ed31c329F204Eb43E254C609dee143B3",
+    "decimal": 18
+  },
+  "0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9": {
+    "logo": "https://optimistic.etherscan.io/token/images/picklefinance_32.png",
+    "name": "PickleToken",
+    "symbol": "PICKLE",
+    "address": "0x0c5b4c92c948691EEBf185C17eeB9c230DC019E9",
+    "decimal": 18
+  },
+  "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08": {
+    "logo": "https://optimistic.etherscan.io/token/images/Synthetix_sLINK_32.png",
+    "name": "Synth sLINK",
+    "symbol": "sLINK",
+    "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+    "decimal": 18
+  },
+  "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358": {
+    "logo": "https://optimistic.etherscan.io/token/images/roobeefin_32.png",
+    "name": "ROOBEE",
+    "symbol": "ROOBEE",
+    "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
+    "decimal": 18
+  },
+  "0x00a35FD824c717879BF370E70AC6868b95870Dfb": {
+    "logo": "https://optimistic.etherscan.io/token/images/ironbanktoken_32.png",
+    "name": "IronBank",
+    "symbol": "IB",
+    "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb",
+    "decimal": 18
+  }
+}
