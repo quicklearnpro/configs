@@ -1,4 +1,22 @@
 {
+  "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE": {
+    "name": "ETH",
+    "network": "binance-smart-chain",
+    "decimal": 18,
+    "symbol": "ETH",
+    "cmcId": 1839,
+    "cgkId": "binancecoin",
+    "isSegWit": false,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+  },
+  "0x4200000000000000000000000000000000000006": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "decimal": 18,
+    "symbol": "WETH"
+  },
   "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58": {
     "logo": "https://optimistic.etherscan.io/token/images/tether_32.png",
     "name": "Tether USD",
