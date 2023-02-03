@@ -13,7 +13,7 @@
         "type": "uniswap",
         "factory": "0x8bcedd62dd46f1a76f8a1633d4f5b76e0cda521e",
         "factoryBlock": 1286908,
-        "initCodeHash": "0xe2e87433120e32c4738a7d8f3271f3d872cbe16241d67537139158d90bac61d3",
+        "initCodeHash": "",
         "router": "0xE6Df0BB08e5A97b40B21950a0A51b94c4DbA0Ff6",
         "icon": "https://ipfs.zipswap.fi/favicon.png",
         "gasUsed": 80000,
@@ -28,8 +28,8 @@
                 "decimal": "18"
             },
             {
-                "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-                "symbol": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "symbol": "USDC",
                 "decimal": "6"
             },
             {
