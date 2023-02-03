@@ -1,0 +1,18 @@
+{
+    "name": "Optimism",
+    "nativeSymbol": "ETH",
+    "wrappedTokenAddress": "0x4200000000000000000000000000000000000006",
+    "stablecoins": [
+        "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+        "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+        "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    ],
+    "aggregator": "0xe5da6e7762de4fa52816b22f57077e2d440ec262",
+    "broker": "....",
+    "kyberSwapAggregatorApi": "https://aggregator-api.kyberswap.com/optimism/route/encode",
+    "kyberRouters": [
+        "0x00555513Acf282B42882420E5e5bA87b44D8fA6E",
+        "0x617Dee16B86534a5d792A4d7A62FB491B544111E",
+        "0x6131B5fae19EA4f9D964eAc0408E4408b66337b5"
+    ]
+}
