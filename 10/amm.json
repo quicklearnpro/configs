@@ -1,1 +1,44 @@
-{}
+{
+    "Velodrome": {
+        "type": "uniswap",
+        "factory": "0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746",
+        "factoryBlock": 10078686,
+        "initCodeHash": "0xc1ac28b1c4ebe53c0cff67bab5878c4eb68759bb1e9f73977cd266b247d149f0",
+        "router": "0x9c12939390052919aF3155f41Bf4160Fd3666A6f",
+        "icon": "https://app.velodrome.finance/favicon.png",
+        "gasUsed": 80000,
+        "fee10000": 20
+    },
+    "ZipSwap": {
+        "type": "uniswap",
+        "factory": "0x8bcedd62dd46f1a76f8a1633d4f5b76e0cda521e",
+        "factoryBlock": 1286908,
+        "initCodeHash": "",
+        "router": "0xE6Df0BB08e5A97b40B21950a0A51b94c4DbA0Ff6",
+        "icon": "https://ipfs.zipswap.fi/favicon.png",
+        "gasUsed": 80000,
+        "fee10000": 30
+    },
+    "synapse": {
+        "router": "0xF44938b0125A6662f9536281aD2CD6c499F22004",
+        "tokens": [
+            {
+                "address": "0x2c6d91accC5Aa38c84653F28A80AEC69325BDd12",
+                "symbol": "nUSD",
+                "decimal": "18"
+            },
+            {
+                "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "symbol": "USDC",
+                "decimal": "6"
+            },
+            {
+                "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+                "symbol": "USDT",
+                "decimal": "6"
+            }
+        ],
+        "icon": "https://synapseprotocol.com/favicon.ico",
+        "gasUsed": 75000
+    }
+}
