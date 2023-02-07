@@ -8,7 +8,7 @@
         "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
     ],
     "aggregator": "0xe5da6e7762de4fa52816b22f57077e2d440ec262",
-    "broker": "",
+    "broker": "a18f0375f9197b4fcf356d1880385061d8047d41",
     "kyberSwapAggregatorApi": "https://aggregator-api.kyberswap.com/optimism/route/encode",
     "kyberRouters": [
         "0x00555513Acf282B42882420E5e5bA87b44D8fA6E",
