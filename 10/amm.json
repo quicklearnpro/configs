@@ -11,7 +11,7 @@
     },
     "zipSwap": {
         "type": "uniswap",
-        "factory": "0x8bcedd62dd46f1a76f8a1633d4f5b76e0cda521e",
+        "factory": "0x8BCeDD62DD46F1A76F8A1633d4f5B76e0CDa521E",
         "factoryBlock": 1286908,
         "initCodeHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "router": "0xE6Df0BB08e5A97b40B21950a0A51b94c4DbA0Ff6",
